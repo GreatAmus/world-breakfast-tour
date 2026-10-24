@@ -8,6 +8,10 @@
   --rule: #cbd8d3;
   --yolk: #f4b400;
   --yolk-ink: #231a00;
+  /* Score colors: red, yellow, green. Each has a matching text color for contrast. */
+  --low: #c62f2f;  --low-ink: #ffffff;
+  --mid: #f4b400;  --mid-ink: #231a00;
+  --high: #1f7a43; --high-ink: #ffffff;
   --display: 'Bricolage Grotesque', 'Avenir Next', 'Segoe UI', system-ui, sans-serif;
   --body: 'Literata', Georgia, 'Times New Roman', serif;
   --measure: 66ch;
@@ -22,6 +26,9 @@
     --muted: #98a9b6;
     --rule: #2b3945;
     --yolk: #f6c343;
+    --low: #e5534b;  --low-ink: #240504;
+    --mid: #f6c343;  --mid-ink: #231a00;
+    --high: #46b673; --high-ink: #04210f;
     color-scheme: dark;
   }
 }
@@ -135,7 +142,13 @@ main { max-width: var(--page); margin: 0 auto; padding: 0 1.25rem 4rem; }
 }
 .button:hover { background: var(--ink); color: var(--tile); }
 
-/* Score: an egg yolk with the number in it */
+/* Score color bands (set by scoreTone in src/lib.js) */
+.tone-low  { --tone: var(--low);  --tone-ink: var(--low-ink); }
+.tone-mid  { --tone: var(--mid);  --tone-ink: var(--mid-ink); }
+.tone-high { --tone: var(--high); --tone-ink: var(--high-ink); }
+.tone-none { --tone: var(--rule); --tone-ink: var(--ink); }
+
+/* Score: a round badge with the number in it */
 .score {
   display: inline-grid;
   place-items: center;
@@ -143,8 +156,8 @@ main { max-width: var(--page); margin: 0 auto; padding: 0 1.25rem 4rem; }
   width: 3.1rem;
   height: 3.1rem;
   border-radius: 50%;
-  background: var(--yolk);
-  color: var(--yolk-ink);
+  background: var(--tone, var(--mid));
+  color: var(--tone-ink, var(--mid-ink));
   font-family: var(--display);
   font-weight: 800;
   font-size: 1.05rem;
@@ -244,7 +257,7 @@ main { max-width: var(--page); margin: 0 auto; padding: 0 1.25rem 4rem; }
 .board-note { font-style: italic; }
 .rank { font-family: var(--display); font-weight: 800; font-size: 1.15rem; width: 3.5rem; font-variant-numeric: tabular-nums; }
 .board-score { width: 45%; min-width: 170px; }
-.bar { display: inline-block; vertical-align: middle; height: 0.85rem; width: calc((100% - 3.5rem) * var(--w)); background: var(--yolk); border-radius: 999px; }
+.bar { display: inline-block; vertical-align: middle; height: 0.85rem; width: calc((100% - 3.5rem) * var(--w)); background: var(--tone, var(--mid)); border-radius: 999px; }
 .num { font-family: var(--display); font-weight: 800; font-variant-numeric: tabular-nums; margin-left: 0.6rem; }
 
 /* Passport */
@@ -253,7 +266,12 @@ main { max-width: var(--page); margin: 0 auto; padding: 0 1.25rem 4rem; }
 .pp-list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 220px), 1fr)); gap: 0.5rem 1.5rem; }
 .pp-list li { display: flex; justify-content: space-between; align-items: baseline; gap: 0.75rem; padding: 0.3rem 0; }
 .pp-done a { font-weight: 600; }
-.pp-score { font-family: var(--display); font-weight: 800; background: var(--yolk); color: var(--yolk-ink); border-radius: 999px; padding: 0 0.55rem; font-size: 0.9rem; font-variant-numeric: tabular-nums; }
+.pp-score { font-family: var(--display); font-weight: 800; background: var(--tone, var(--mid)); color: var(--tone-ink, var(--mid-ink)); border-radius: 999px; padding: 0 0.55rem; font-size: 0.9rem; font-variant-numeric: tabular-nums; }
 .pp-todo { color: var(--muted); }
 .pp-next { font-weight: 600; }
 .pp-flag { font-family: var(--display); font-weight: 700; font-size: 0.85rem; border: 2px solid var(--ink); border-radius: 999px; padding: 0 0.55rem; }
+
+/* Legend for the score colors */
+.legend { list-style: none; display: flex; flex-wrap: wrap; gap: 0.5rem 1.5rem; margin: 1.25rem 0 0; padding: 0; color: var(--muted); font-size: 0.95rem; }
+.legend li { display: flex; align-items: center; gap: 0.5rem; }
+.swatch { width: 1rem; height: 1rem; border-radius: 50%; background: var(--tone); }

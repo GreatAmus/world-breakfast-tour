@@ -1,6 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
-import { getBreakfasts, postUrl, formatScore } from '../lib.js';
+import { getBreakfasts, postUrl, formatScore, scoreTone, RED_BELOW, GREEN_FROM } from '../lib.js';
 
 const posts = (await getBreakfasts())
   .filter((p) => p.data.rating !== undefined)
@@ -17,6 +17,11 @@ const rows = posts.map((p, n) => {
   <section class="page-head">
     <h1>Leaderboard</h1>
     <p class="lede">Every breakfast so far, ranked by the family average.</p>
+    <ul class="legend" aria-label="Score colors">
+      <li><span class="swatch tone-high"></span>{GREEN_FROM.toFixed(1)} and up</li>
+      <li><span class="swatch tone-mid"></span>{RED_BELOW.toFixed(1)} to {(GREEN_FROM - 0.1).toFixed(1)}</li>
+      <li><span class="swatch tone-low"></span>Under {RED_BELOW.toFixed(1)}</li>
+    </ul>
   </section>
   <div class="table-wrap">
     <table class="board">
@@ -33,7 +38,7 @@ const rows = posts.map((p, n) => {
               {p.data.ratingNote && <span class="board-note">{p.data.ratingNote}</span>}
             </td>
             <td class="board-score">
-              <span class="bar" style={`--w:${p.data.rating / 5}`} aria-hidden="true"></span>
+              <span class={`bar tone-${scoreTone(p.data.rating)}`} style={`--w:${p.data.rating / 5}`} aria-hidden="true"></span>
               <span class="num">{formatScore(p.data.rating)}</span>
             </td>
           </tr>

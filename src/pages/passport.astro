@@ -1,6 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
-import { getBreakfasts, postUrl, formatScore } from '../lib.js';
+import { getBreakfasts, postUrl, formatScore, scoreTone } from '../lib.js';
 import { countries, letterOf } from '../data/countries.js';
 
 const posts = await getBreakfasts();
@@ -21,7 +21,7 @@ const letters = [...new Set(names.map(letterOf))];
         {names.filter((n) => letterOf(n) === l).map((n) => {
           const p = byCountry.get(n);
           return p ? (
-            <li class="pp-done"><a href={postUrl(p)}>{n}</a><span class="pp-score">{formatScore(p.data.rating)}</span></li>
+            <li class="pp-done"><a href={postUrl(p)}>{n}</a><span class={`pp-score tone-${scoreTone(p.data.rating)}`}>{formatScore(p.data.rating)}</span></li>
           ) : (
             <li class={n === upNext ? 'pp-next' : 'pp-todo'}>{n}{n === upNext && <span class="pp-flag">Up next</span>}</li>
           );

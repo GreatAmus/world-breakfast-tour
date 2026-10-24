@@ -51,6 +51,10 @@ Below the fields, each post has three sections in this order: **The dish**, **Wh
 
 If a post has a mistake in these fields, the build stops and Cloudflare's build log names the file and the problem. The live site stays as it was until it's fixed.
 
+## Score colors
+
+Scores are colored everywhere they appear (home page, post pages, leaderboard, passport): **green** at 4.0 and up, **yellow** from 2.5 to 3.9, and **red** under 2.5. To move those cutoffs, edit the two numbers `RED_BELOW` and `GREEN_FROM` near the top of `src/lib.js`. The colors themselves are at the top of `src/styles/global.css`. If you change a cutoff, also update the one-line color note in the footer in `src/layouts/Base.astro` and the legend text in `src/pages/leaderboard.astro` shows the new numbers automatically.
+
 ## Working on it from your own computer (optional)
 
 Install [Node.js](https://nodejs.org) 20 or newer, then in this folder run:
