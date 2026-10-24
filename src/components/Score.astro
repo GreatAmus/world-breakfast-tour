@@ -1,0 +1,7 @@
+---
+import { formatScore } from '../lib.js';
+const { value, size = 'md' } = Astro.props;
+---
+<span class={`score score-${size}`} role="img" aria-label={value === undefined ? 'Not rated' : `Rated ${formatScore(value)} out of 5`}>
+  <span aria-hidden="true">{formatScore(value)}</span>
+</span>

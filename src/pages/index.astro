@@ -1,0 +1,71 @@
+---
+import Base from '../layouts/Base.astro';
+import Tile from '../components/Tile.astro';
+import Score from '../components/Score.astro';
+import { getBreakfasts, postUrl, formatDate } from '../lib.js';
+import { countries, letterOf } from '../data/countries.js';
+
+const posts = await getBreakfasts();
+const done = new Set(posts.map((p) => p.data.country));
+const total = new Set([...countries, ...done]).size;
+const latest = [...posts].sort((a, b) => b.data.date - a.data.date)[0];
+
+const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').map((l) => {
+  const all = countries.filter((c) => letterOf(c) === l);
+  const cooked = all.filter((c) => done.has(c)).length;
+  const state = all.length === 0 ? 'none' : cooked === all.length ? 'done' : cooked > 0 ? 'part' : 'todo';
+  return { l, all: all.length, cooked, state, pct: all.length ? Math.round((cooked / all.length) * 100) : 0 };
+});
+
+// Most recent letter first, so new posts are near the top.
+const groups = letters
+  .map(({ l }) => ({ l, items: posts.filter((p) => letterOf(p.data.country) === l) }))
+  .filter((g) => g.items.length)
+  .reverse();
+
+const label = (x) =>
+  x.state === 'none' ? `${x.l}: no countries` : `${x.l}: ${x.cooked} of ${x.all} countries cooked`;
+---
+<Base>
+  <section class="hero">
+    <h1>Breakfast from every country, A to Z.</h1>
+    <p class="lede">
+      Our family is cooking one breakfast from each of the world’s {total} countries in alphabetical order, and rating every one.
+      So far: {posts.length} down, {total - posts.length} to go.
+    </p>
+    <ol class="alphabet" aria-label="Progress by letter">
+      {letters.map((x) => (
+        <li class={`letter letter-${x.state}`} style={`--p:${x.pct}%`} title={label(x)}>
+          {x.state === 'none' ? <span>{x.l}</span> : <a href={`/passport/#${x.l}`} aria-label={label(x)}>{x.l}</a>}
+        </li>
+      ))}
+    </ol>
+  </section>
+
+  {latest && (
+    <section class="latest" aria-labelledby="latest-heading">
+      <a class="latest-photo" href={postUrl(latest)}>
+        <img src={latest.data.images[0]} alt={`${latest.data.dish} from ${latest.data.country}`} />
+      </a>
+      <div class="latest-text">
+        <p class="kicker">Latest breakfast, {formatDate(latest.data.date)}</p>
+        <h2 id="latest-heading"><a href={postUrl(latest)}>{latest.data.country}</a></h2>
+        <p class="latest-dish">{latest.data.dish}</p>
+        <div class="latest-score">
+          <Score value={latest.data.rating} size="lg" />
+          {latest.data.ratingNote && <p>{latest.data.ratingNote}</p>}
+        </div>
+        <a class="button" href={postUrl(latest)}>Read the post and recipe</a>
+      </div>
+    </section>
+  )}
+
+  {groups.map((g) => (
+    <section class="group" aria-labelledby={`letter-${g.l}`}>
+      <h2 class="group-letter" id={`letter-${g.l}`}>{g.l}</h2>
+      <div class="tiles">
+        {g.items.map((post) => <Tile post={post} />)}
+      </div>
+    </section>
+  ))}
+</Base>

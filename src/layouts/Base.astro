@@ -1,0 +1,46 @@
+---
+import '../styles/global.css';
+const {
+  title,
+  description = 'One breakfast from every country, cooked in alphabetical order and rated by our family.',
+  image,
+} = Astro.props;
+const path = Astro.url.pathname;
+const fullTitle = title ? `${title} | World Breakfast Tour` : 'World Breakfast Tour';
+const current = (href) => (href === '/' ? path === '/' || path.startsWith('/breakfasts') : path.startsWith(href)) ? 'page' : undefined;
+const socialImage = image && Astro.site ? new URL(image, Astro.site).href : undefined;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    {socialImage && <meta property="og:image" content={socialImage} />}
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Literata:ital,opsz,wght@0,7..72,400..650;1,7..72,400..650&display=swap" />
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a class="wordmark" href="/">World Breakfast Tour</a>
+      <nav aria-label="Main">
+        <a href="/" aria-current={current('/')}>Breakfasts</a>
+        <a href="/leaderboard/" aria-current={current('/leaderboard')}>Leaderboard</a>
+        <a href="/passport/" aria-current={current('/passport')}>Passport</a>
+      </nav>
+    </header>
+    <main id="main">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <p>Every breakfast is rated out of 5 by everyone at the table, and the score shown is the family average.</p>
+      <p><a href="https://www.instagram.com/world_breakfast_tour/">@world_breakfast_tour on Instagram</a></p>
+    </footer>
+  </body>
+</html>
