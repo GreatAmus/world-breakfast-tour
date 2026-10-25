@@ -1,18 +1,17 @@
 ---
 import Base from '../layouts/Base.astro';
-import Tile from '../components/Tile.astro';
 import Score from '../components/Score.astro';
-import { getBreakfasts, postUrl, formatDate, RED_BELOW, GREEN_FROM } from '../lib.js';
+import { getBreakfasts, postUrl, formatDate, flagUrl, excerpt } from '../lib.js';
 import { countries, letterOf } from '../data/countries.js';
+
+const SHOW = 8; // how many recent posts to preview
 
 const posts = await getBreakfasts();
 const done = new Set(posts.map((p) => p.data.country));
 const total = new Set([...countries, ...done]).size;
-const latest = [...posts].sort((a, b) => b.data.date - a.data.date)[0];
-const favorites = [...posts]
-  .filter((p) => p.data.rating !== undefined)
-  .sort((a, b) => b.data.rating - a.data.rating || b.data.date - a.data.date)
-  .slice(0, 4);
+const recent = [...posts]
+  .sort((a, b) => b.data.date - a.data.date || a.data.country.localeCompare(b.data.country))
+  .slice(0, SHOW);
 
 const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').map((l) => {
   const all = countries.filter((c) => letterOf(c) === l);
@@ -26,12 +25,7 @@ const label = (x) => (x.state === 'none' ? `${x.l}: no countries` : `${x.l}: ${x
   <section class="hero">
     <h1>Eating around the world from A–Z</h1>
     <p class="hero-sub">A magical breakfast journey for the whole family</p>
-    <p class="lede">
-      We’re touring the world through breakfast recipes in nearly alphabetical order. Once or twice a week, we make breakfast from a different country, inventing a recipe that we think will be a great breakfast while also being true to the country of origin. We adapt the recipes from other recipes online, using ingredients local to us and trying to keep the time required to cook the dishes to under 2 hours.
-    </p>
-    <p class="lede">
-      There are {total} countries in the world, which means this project will take a while! Everyone at my house eats the breakfast and gets to rate it. I average the kids’ and adults’ ratings and come up with a combined rating. Very often the kids will hate a dish while the adults love it.
-    </p>
+    <p class="lede">So far: {posts.length} down, {total - posts.length} to go. <a href="/about/">Read about the project</a>.</p>
     <ol class="alphabet" aria-label="Progress by letter">
       {letters.map((x) => (
         <li class={`letter letter-${x.state}`} style={`--p:${x.pct}%`} title={label(x)}>
@@ -41,73 +35,35 @@ const label = (x) => (x.state === 'none' ? `${x.l}: no countries` : `${x.l}: ${x
     </ol>
   </section>
 
-  <section class="intro" aria-labelledby="about-heading">
-    <div class="intro-text">
-      <h2 id="about-heading">About the project</h2>
-      <p>My family is eating our way around the world, one breakfast at a time. I pick a country, find a breakfast people actually eat there, and cook it. Then everyone rates it on a scale of 1–5.</p>
-      <p>Some recipes turn into new favorites. Some we’ll never make again (sorry, saltfish). Every post has the full recipe, so you can try them at home.</p>
-    </div>
-    <div class="goals">
-      <h2>Goals</h2>
-      <ol class="goal-list">
+  <section aria-labelledby="recent-heading">
+    <h2 class="group-letter group-title" id="recent-heading">Latest recipes</h2>
+    <ul class="previews">
+      {recent.map((post) => (
         <li>
-          <h3>Delicious</h3>
-          <p>The food has to taste good. I tweak recipes until I think they’ll be the best possible recipe I can create. Although authenticity is important, I want my kids and wife to eat it.</p>
+          <a class="preview" href={postUrl(post)}>
+            <span class="preview-photo">
+              {post.data.images[0] && <img src={post.data.images[0]} alt={`${post.data.dish} from ${post.data.country}`} loading="lazy" decoding="async" />}
+            </span>
+            <span class="preview-text">
+              <span class="preview-date">{formatDate(post.data.date)}</span>
+              <span class="preview-country">
+                {post.data.flag && <img class="flag flag-sm" src={flagUrl(post.data.flag)} alt="" width="24" height="18" loading="lazy" />}
+                {post.data.country}
+              </span>
+              <span class="preview-dish">{post.data.dish}</span>
+              <span class="preview-excerpt">{excerpt(post)}</span>
+              <span class="preview-foot">
+                <Score value={post.data.rating} />
+                <span class="preview-more">Read more</span>
+              </span>
+            </span>
+          </a>
         </li>
-        <li>
-          <h3>Local ingredients</h3>
-          <p>Everything comes from stores near me. If I can’t find something, I swap it. You’ll see the recipes reflect what I have on hand instead of ingredients specific to that region.</p>
-        </li>
-        <li>
-          <h3>About two hours of cooking</h3>
-          <p>Breakfast shouldn’t take all day. Some recipes need prep the night before, but the cooking itself takes about two hours or less.</p>
-        </li>
-      </ol>
-    </div>
-  </section>
-
-  <section class="rating-guide" aria-labelledby="rating-heading">
-    <h2 id="rating-heading">How we rate</h2>
-    <p>Everyone at the table (we sometimes have guests) rates each breakfast out of 5, and the score is a weighted average between adult and kid ratings.</p>
-    <ul class="legend" aria-label="Score colors">
-      <li><span class="swatch tone-high"></span>Green: {GREEN_FROM.toFixed(1)} and up</li>
-      <li><span class="swatch tone-mid"></span>Yellow: {RED_BELOW.toFixed(1)} to {(GREEN_FROM - 0.1).toFixed(1)}</li>
-      <li><span class="swatch tone-low"></span>Red: under {RED_BELOW.toFixed(1)}</li>
+      ))}
     </ul>
   </section>
 
-  {latest && (
-    <section class="latest" aria-labelledby="latest-heading">
-      <a class="latest-photo" href={postUrl(latest)}>
-        <img src={latest.data.images[0]} alt={`${latest.data.dish} from ${latest.data.country}`} />
-      </a>
-      <div class="latest-text">
-        <p class="kicker">Latest breakfast, {formatDate(latest.data.date)}</p>
-        <h2 id="latest-heading"><a href={postUrl(latest)}>{latest.data.country}</a></h2>
-        <p class="latest-dish">{latest.data.dish}</p>
-        <div class="latest-score">
-          <Score value={latest.data.rating} size="lg" />
-          {latest.data.ratingNote && <p>{latest.data.ratingNote}</p>}
-        </div>
-        <a class="button" href={postUrl(latest)}>Get the recipe</a>
-      </div>
-    </section>
-  )}
-
-  {favorites.length > 0 && (
-    <section class="group" aria-labelledby="fav-heading">
-      <h2 class="group-letter group-title" id="fav-heading">Our favorites so far</h2>
-      <div class="tiles">
-        {favorites.map((post) => <Tile post={post} />)}
-      </div>
-    </section>
-  )}
-
-  <p class="sign-off">Hopefully you enjoy making these recipes as much as we did!</p>
-
   <p class="browse">
     <a class="button" href="/breakfasts/">See all {posts.length} breakfasts</a>
-    <a class="button" href="/leaderboard/">Leaderboard</a>
-    <a class="button" href="/passport/">Passport</a>
   </p>
 </Base>

@@ -25,5 +25,25 @@ export function scoreTone(value) {
 
 export const formatScore = (n) => (n === undefined ? '–' : Number(n).toFixed(1));
 
+// A short plain-text preview of a post: the start of its "The dish" section.
+export function excerpt(post, max = 190) {
+  const body = post.body ?? '';
+  const m = body.match(/## The dish\s+([\s\S]*?)(?:\n## |$)/);
+  const text = (m ? m[1] : post.data.about ?? '')
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+    .replace(/[*_`#>]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+  if (text.length <= max) return text;
+  const sentences = text.match(/[^.!?]+[.!?]+["”’)]*\s*/g) ?? [text];
+  let out = '';
+  for (const s of sentences) {
+    if ((out + s).length > max) break;
+    out += s;
+  }
+  if (out) return out.trim();
+  return text.slice(0, max).replace(/\s+\S*$/, '') + '…';
+}
+
 export const formatDate = (d) =>
   d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
