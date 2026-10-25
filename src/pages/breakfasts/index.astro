@@ -2,23 +2,38 @@
 import Base from '../../layouts/Base.astro';
 import Tile from '../../components/Tile.astro';
 import { getBreakfasts } from '../../lib.js';
-import { letterOf } from '../../data/countries.js';
+import { countries, letterOf } from '../../data/countries.js';
 
 const posts = await getBreakfasts();
-const letters = [...new Set(posts.map((p) => letterOf(p.data.country)))];
-// Most recent letter first, so new posts are near the top.
-const groups = letters.map((l) => ({ l, items: posts.filter((p) => letterOf(p.data.country) === l) })).reverse();
+const byCountry = new Map(posts.map((p) => [p.data.country, p]));
+// Every country on the tour, A to Z. Ones we haven't made yet show grayed out.
+const names = [...new Set([...countries, ...byCountry.keys()])].sort((a, b) => a.localeCompare(b, 'en'));
+const groups = [...new Set(names.map(letterOf))].map((l) => {
+  const all = names.filter((n) => letterOf(n) === l);
+  return { l, all, done: all.filter((n) => byCountry.has(n)).length };
+});
 ---
-<Base title="All breakfasts" description="Every breakfast we've made so far, from A to Z.">
+<Base title="All breakfasts" description="Every country from A to Z, and the breakfasts we’ve made so far.">
   <section class="page-head">
     <h1>All breakfasts</h1>
-    <p class="lede">Every breakfast we’ve made so far. The newest letter is at the top.</p>
+    <p class="lede">Every country from A to Z. The gray ones we haven’t made yet.</p>
   </section>
   {groups.map((g) => (
-    <section class="group" aria-labelledby={`letter-${g.l}`}>
-      <h2 class="group-letter" id={`letter-${g.l}`}>{g.l}</h2>
+    <section class="group" id={g.l} aria-labelledby={`letter-${g.l}`}>
+      <h2 class="group-letter" id={`letter-${g.l}`}>{g.l} <span class="group-count">{g.done} of {g.all.length} done</span></h2>
       <div class="tiles">
-        {g.items.map((post) => <Tile post={post} />)}
+        {g.all.map((n) => {
+          const post = byCountry.get(n);
+          return post ? (
+            <Tile post={post} />
+          ) : (
+            <div class="tile tile-todo">
+              <span class="tile-photo tile-empty" aria-hidden="true"></span>
+              <span class="tile-country">{n}</span>
+              <span class="tile-dish">Not yet</span>
+            </div>
+          );
+        })}
       </div>
     </section>
   ))}
