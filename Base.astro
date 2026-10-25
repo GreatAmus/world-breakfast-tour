@@ -1,0 +1,46 @@
+---
+import '../styles/global.css';
+const {
+  title,
+  description = 'One breakfast from every country in the world, cooked in alphabetical order and rated by my family.',
+  image,
+} = Astro.props;
+const path = Astro.url.pathname;
+const fullTitle = title ? `${title} | World Breakfast Tour` : 'World Breakfast Tour';
+const current = (href) => (path.startsWith(href) ? 'page' : undefined);
+const socialImage = image && Astro.site ? new URL(image, Astro.site).href : undefined;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    {socialImage && <meta property="og:image" content={socialImage} />}
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Literata:ital,opsz,wght@0,7..72,400..650;1,7..72,400..650&display=swap" />
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a class="wordmark" href="/">World Breakfast Tour</a>
+      <nav aria-label="Main">
+        <a href="/breakfasts/" aria-current={current('/breakfasts')}>Breakfasts</a>
+        <a href="/leaderboard/" aria-current={current('/leaderboard')}>Leaderboard</a>
+        <a href="/passport/" aria-current={current('/passport')}>Passport</a>
+      </nav>
+    </header>
+    <main id="main">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <p>Everyone eating with us rates each breakfast out of 5, and the score is a weighted average with adults and kids having two different votes. Great recipes are green and receive a 4.0 or higher. Average recipes are yellow and are good, but I wouldn’t make them again. They rank between 2.5 and 3.9. Red recipes are terrible, and we didn’t finish eating them, opting to go eat something else instead. Everything under 2.5 is one we don’t like.</p>
+      <p>You can also follow along on Instagram at <a href="https://www.instagram.com/world_breakfast_tour/">@world_breakfast_tour</a>.</p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,32 @@
+---
+import Base from '../layouts/Base.astro';
+import { getBreakfasts, postUrl, formatScore, scoreTone } from '../lib.js';
+import { countries, letterOf } from '../data/countries.js';
+
+const posts = await getBreakfasts();
+const byCountry = new Map(posts.map((p) => [p.data.country, p]));
+const names = [...new Set([...countries, ...byCountry.keys()])].sort((a, b) => a.localeCompare(b, 'en'));
+const upNext = names.find((n) => !byCountry.has(n));
+const letters = [...new Set(names.map(letterOf))];
+---
+<Base title="Passport" description="Every country on the tour, and which ones we’ve done so far.">
+  <section class="page-head">
+    <h1>Passport</h1>
+    <p class="lede">Every country on the list. We’ve done {byCountry.size} of {names.length}. Next up is {upNext}.</p>
+  </section>
+  {letters.map((l) => (
+    <section class="pp-group" id={l} aria-labelledby={`pp-${l}`}>
+      <h2 class="group-letter" id={`pp-${l}`}>{l}</h2>
+      <ul class="pp-list">
+        {names.filter((n) => letterOf(n) === l).map((n) => {
+          const p = byCountry.get(n);
+          return p ? (
+            <li class="pp-done"><a href={postUrl(p)}>{n}</a><span class={`pp-score tone-${scoreTone(p.data.rating)}`}>{formatScore(p.data.rating)}</span></li>
+          ) : (
+            <li class={n === upNext ? 'pp-next' : 'pp-todo'}>{n}{n === upNext && <span class="pp-flag">Next</span>}</li>
+          );
+        })}
+      </ul>
+    </section>
+  ))}
+</Base>

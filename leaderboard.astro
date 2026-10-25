@@ -1,0 +1,49 @@
+---
+import Base from '../layouts/Base.astro';
+import { getBreakfasts, postUrl, formatScore, scoreTone, RED_BELOW, GREEN_FROM } from '../lib.js';
+
+const posts = (await getBreakfasts())
+  .filter((p) => p.data.rating !== undefined)
+  .sort((a, b) => b.data.rating - a.data.rating || a.data.country.localeCompare(b.data.country));
+
+// Tied scores share a rank.
+let rank = 0;
+const rows = posts.map((p, n) => {
+  if (n === 0 || p.data.rating !== posts[n - 1].data.rating) rank = n + 1;
+  return { p, rank };
+});
+---
+<Base title="Leaderboard" description="Every breakfast we’ve made, from best to worst.">
+  <section class="page-head">
+    <h1>Leaderboard</h1>
+    <p class="lede">Every breakfast so far, from best to worst.</p>
+    <ul class="legend" aria-label="Score colors">
+      <li><span class="swatch tone-high"></span>{GREEN_FROM.toFixed(1)} and up</li>
+      <li><span class="swatch tone-mid"></span>{RED_BELOW.toFixed(1)} to {(GREEN_FROM - 0.1).toFixed(1)}</li>
+      <li><span class="swatch tone-low"></span>Under {RED_BELOW.toFixed(1)}</li>
+    </ul>
+  </section>
+  <div class="table-wrap">
+    <table class="board">
+      <thead>
+        <tr><th scope="col">Rank</th><th scope="col">Country</th><th scope="col">Score</th></tr>
+      </thead>
+      <tbody>
+        {rows.map(({ p, rank }) => (
+          <tr>
+            <td class="rank">{rank}</td>
+            <td>
+              <a href={postUrl(p)}>{p.data.country}</a>
+              <span class="board-dish">{p.data.dish}</span>
+              {p.data.ratingNote && <span class="board-note">{p.data.ratingNote}</span>}
+            </td>
+            <td class="board-score">
+              <span class={`bar tone-${scoreTone(p.data.rating)}`} style={`--w:${p.data.rating / 5}`} aria-hidden="true"></span>
+              <span class="num">{formatScore(p.data.rating)}</span>
+            </td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+</Base>

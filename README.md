@@ -1,6 +1,6 @@
 # World Breakfast Tour
 
-One breakfast from every country, cooked in alphabetical order and rated by our family.
+One breakfast from every country in the world, cooked in alphabetical order and rated by my family.
 
 This is a free static website built with [Astro](https://astro.build). It includes 32 posts (Afghanistan through Cameroon) moved over from Instagram, with the recipes that were posted in the comments.
 
@@ -43,6 +43,7 @@ The home page, A to Z progress bar, leaderboard, and passport all update automat
 | `date` | The date you posted it, as `YYYY-MM-DD` |
 | `rating` | Family average out of 5. Delete the line if there is no score |
 | `ratingNote` | Optional short note shown next to the score |
+| `draft` | Add `draft: true` to hide a post from the whole site while you finish it. Delete the line to publish it |
 | `flag` | The country's two-letter code, like `ca` for Canada. Look it up at [flagicons.lipis.dev](https://flagicons.lipis.dev) |
 | `images` | One or more photos, each on its own line starting with `  - /images/` |
 | `about` | The "About the country" box. Every line indented two spaces |
@@ -50,6 +51,10 @@ The home page, A to Z progress bar, leaderboard, and passport all update automat
 Below the fields, each post has three sections in this order: **The dish**, **What we thought**, and **Ingredients and directions**. Keep those headings so every page reads the same way.
 
 If a post has a mistake in these fields, the build stops and Cloudflare's build log names the file and the problem. The live site stays as it was until it's fixed.
+
+## Front page text
+
+The About the project text, the three goals, and the How we rate box are all in `src/pages/index.astro`. Open it in GitHub, click the pencil, and edit the words between the tags. The full list of breakfasts lives at `/breakfasts/` (file: `src/pages/breakfasts/index.astro`).
 
 ## Score colors
 

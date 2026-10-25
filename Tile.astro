@@ -1,0 +1,14 @@
+---
+import Score from './Score.astro';
+import { postUrl, flagUrl } from '../lib.js';
+const { post } = Astro.props;
+const { country, dish, rating, images, flag } = post.data;
+---
+<a class="tile" href={postUrl(post)}>
+  <span class="tile-photo">
+    {images[0] && <img src={images[0]} alt={`${dish} from ${country}`} loading="lazy" decoding="async" />}
+    <Score value={rating} />
+  </span>
+  <span class="tile-country">{flag && <img class="flag flag-sm" src={flagUrl(flag)} alt="" width="24" height="18" loading="lazy" />}{country}</span>
+  <span class="tile-dish">{dish}</span>
+</a>
