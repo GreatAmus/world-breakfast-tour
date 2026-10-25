@@ -7,16 +7,16 @@ flag: dz
 images:
   - /images/algeria.jpg
 about: |
-  Algeria is the largest country in Africa, stretching from the Mediterranean coast deep into the Sahara. Algerian cooking is North African at heart, with Berber, Arab, Ottoman, and French influences. Couscous is the national dish, served with stews of vegetables and meat, and slow-cooked tagines, chorba soup, and flatbreads appear on most tables. Mint tea and strong coffee bookend the day, and pastries made with dates, almonds, and honey are common.
+  Algeria is the biggest country in Africa, and most of it is the Sahara. The food is North African with Berber, Arab, and French influences. Couscous is the national dish.
 ---
 
 ## The dish
 
-Msemen is a square, layered flatbread made from semolina and flour. The dough is stretched paper-thin, brushed with fat, folded into a square, and cooked on a griddle, which gives it flaky layers and a crisp outside. It's eaten across North Africa for breakfast, usually with honey, butter, or soft cheese alongside mint tea or coffee. We served ours with honey.
+Msemen is a square, flaky flatbread made with semolina and flour. You stretch the dough really thin, fold it into a square, and cook it on a griddle. In Algeria it's usually eaten with honey and mint tea or coffee.
 
 ## What we thought
 
-This was good as a base but needs a topping to make it delicious. It would have been better if I'd cooked it in butter, though that's less healthy. It had a nice crunch on the outside, but the honey was necessary. Adding sharp cheddar on top made it super good. Rating: 3/5.
+This was good as a base but needs a topping to make it delicious. It would have been better if I'd cooked it in butter. Less healthy, though. It had a nice crunch on the outside, but the honey was necessary. Adding sharp cheddar cheese on top made it super good. 3/5.
 
 ## Ingredients and directions
 

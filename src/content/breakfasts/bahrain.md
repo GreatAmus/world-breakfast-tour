@@ -8,16 +8,16 @@ flag: bh
 images:
   - /images/bahrain.jpg
 about: |
-  Bahrain is an island nation in the Persian Gulf, connected to Saudi Arabia by a causeway, and it was a pearl-diving center for thousands of years. Its food blends Arab, Persian, and Indian influences. Machboos, spiced rice with meat or fish, is the national dish, dates are everywhere, and meals often end with cardamom coffee or halwa.
+  Bahrain is a small island country in the Persian Gulf, next to Saudi Arabia. Their food mixes Arab, Persian, and Indian cooking, with lots of rice, dates, saffron, and cardamom.
 ---
 
 ## The dish
 
-Balaleet is a traditional Gulf breakfast of thin vermicelli noodles cooked with sugar, saffron, cardamom, and rose water, then topped with a thin omelet. The sweet and savory combination is the whole point. We used angel hair pasta broken into short pieces. It's very easy to make.
+Balaleet is a sweet noodle dish topped with eggs. The noodles are cooked with sugar, saffron, cardamom, and rose water. I used angel hair pasta broken into short pieces.
 
 ## What we thought
 
-Very good, provided you don't include the rose water. Rose water is traditional, but I don't like floral tastes in my food. I'd give it a 4.2/5 without the rose water and a 2.5/5 with it. Not a bad meal when you want something fast and different.
+This dish is very easy to make and very good, provided you don't include the rose water. The rose water is traditional, but I do not like floral tastes in my food. I'd give it a 4.2/5 without the rose water but a 2.5/5 with it. Not a bad meal to make when you want something fast and different.
 
 ## Ingredients and directions
 

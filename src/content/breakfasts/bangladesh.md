@@ -7,16 +7,16 @@ flag: bd
 images:
   - /images/bangladesh.jpg
 about: |
-  Bangladesh sits on the delta of the Ganges and Brahmaputra rivers in South Asia, and it's one of the most densely populated countries in the world. Rice and fish are the foundation of the diet, and a Bengali saying holds that fish and rice make a Bengali. Lentils, vegetable curries cooked in mustard oil, and milk-based sweets like rasgulla and mishti doi are everywhere.
+  Bangladesh is in South Asia, next to India, and a lot of the country sits on river deltas. Rice and fish are the base of almost every meal.
 ---
 
 ## The dish
 
-Paratha is a layered, pan-fried whole wheat flatbread. A common Bangladeshi breakfast pairs it with bhaji, a dry stir-fry of mixed vegetables seasoned with cumin, turmeric, and green chilies, often with tea on the side.
+Paratha is a layered whole wheat flatbread cooked in a pan. In Bangladesh it's often eaten with bhaji, which is mixed vegetables cooked with cumin, turmeric, and green chilies.
 
 ## What we thought
 
-This is the second-best dish so far. The spice balances the flavor of the vegetables and the heaviness of the whole wheat flatbread. Rating: 4.7/5.
+This is the second best dish so far. A nice spice that balances the flavor of the vegetables and the heaviness of the whole wheat flatbread. 4.7/5.
 
 ## Ingredients and directions
 

@@ -8,16 +8,16 @@ flag: bb
 images:
   - /images/barbados.jpg
 about: |
-  Barbados is the easternmost island in the Caribbean and was a British colony until 1966. Bajan food combines West African and British roots. The national dish is cou-cou (cornmeal and okra) with flying fish, and fish cakes, macaroni pie, pudding and souse, and rum are part of daily life.
+  Barbados is the easternmost island in the Caribbean and was a British colony until 1966. Their food is a mix of West African and British cooking, and salt cod has been part of it since colonial times.
 ---
 
 ## The dish
 
-Saltfish and bake is a classic Bajan breakfast. Salt cod is soaked, flaked, and sautéed with onions, peppers, tomatoes, and herbs, then served with bakes, rounds of fried dough that puff up in the oil.
+Saltfish and bake is a classic Bajan breakfast. The saltfish is salt cod cooked with onions, peppers, and tomatoes. The bake is a fried dough that puffs up in the oil.
 
 ## What we thought
 
-The saltfish was terrible. The bake was one of the best frybreads we've made. Saltfish: 0/5. Bake: 4/5.
+The saltfish was terrible. The bake was one of the best frybreads. Saltfish: 0/5. Bake: 4/5.
 
 ## Ingredients and directions
 

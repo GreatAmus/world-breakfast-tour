@@ -7,16 +7,16 @@ flag: cf
 images:
   - /images/central-african-republic.jpg
 about: |
-  The Central African Republic is a landlocked country in the middle of the continent, mostly savanna with rainforest in the south. French and Sango are its official languages. Cassava is the main staple, often eaten as a thick paste with sauces of greens, peanuts, okra, and meat or fish.
+  The Central African Republic is a landlocked country right in the middle of Africa. French is one of the official languages. Cassava is the main food, and fried dough is a common street snack.
 ---
 
 ## The dish
 
-Makara are small fried dough balls, a common street food eaten for breakfast or as a snack, either with a dipping sauce or coated in sugar. Fried doughs are common across Central and West Africa and show a distinct French influence from beignets. Our version used coconut, cardamom, and lime to make it something special compared with the other fried doughs we'd made.
+The Central African Republic's makara is a common street food. These are small fried dough balls that come with some sort of dipping sauce or are coated in sugar. People eat them for breakfast or as a snack. Fried doughs are common across Central and West Africa but show a distinct French influence from beignets. This version uses coconut, cardamom, and lime to make it something special compared to the other fried dough dishes we've made.
 
 ## What we thought
 
-Pretty consistent scores across the family, with a universal 4/5.
+Pretty consistent scores across the family, with a universal score of 4/5.
 
 ## Ingredients and directions
 

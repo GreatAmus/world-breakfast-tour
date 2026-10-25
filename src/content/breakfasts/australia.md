@@ -7,16 +7,16 @@ flag: au
 images:
   - /images/australia.jpg
 about: |
-  Australia is both a country and a continent. Its food mixes British roots with large Mediterranean and Asian immigrant communities, plus native ingredients like macadamias, wattleseed, and finger limes. Barbecues, meat pies, and café brunch culture are a big part of life, and Vegemite on toast, Anzac biscuits, lamingtons, and pavlova are national icons.
+  Australia is a country and a whole continent. The food started out British but changed a lot with immigrants from Europe and Asia. Australians love brunch, and pancakes are a big part of it.
 ---
 
 ## The dish
 
-Pikelets are small, thick pancakes, a classic Australian and New Zealand treat for breakfast or afternoon tea. Compared with American pancakes, they're sweeter, made with less butter, and less fluffy, and they're usually served with butter and jam. Thanks to Bluey, most kids already know what they are.
+Pikelets are similar to American pancakes but are sweeter with less butter. American pancakes are fluffier as well. Bluey means that most kids know what these are.
 
 ## What we thought
 
-There might be more iconic Australian dishes, but you can't have a child under 10 and not make these. Rating: 4.7/5 (everyone loves pancakes).
+There might be more iconic Australian dishes, but you can't have a child under 10 and not make these. 4.7/5 (everyone loves pancakes).
 
 ## Ingredients and directions
 

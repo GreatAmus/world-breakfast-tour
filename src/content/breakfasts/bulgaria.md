@@ -8,16 +8,16 @@ flag: bg
 images:
   - /images/bulgaria.jpg
 about: |
-  Bulgaria is in southeast Europe on the Black Sea. Its food shares a lot with Greek and Turkish cooking: grilled meats, fresh vegetables, and dairy, especially sirene (a white brined cheese) and yogurt. Bulgarians are proud of their yogurt, and the bacteria that make it are named after the country. Shopska salad, banitsa, and grilled kebapche are national staples.
+  Bulgaria is in southeast Europe on the Black Sea. Their food has a lot in common with Greek and Turkish food. Bulgarians are proud of their yogurt and white cheese, and both show up in a lot of dishes.
 ---
 
 ## The dish
 
-Banitsa is a pastry of thin, flaky phyllo layered with a filling of eggs and white cheese, baked until puffed and golden. It's crisp outside and soft, tangy, and cheesy inside. It's a common breakfast, often with a yogurt drink called ayran, and it's surprisingly easy and quick to assemble.
+Banitsa is a traditional Bulgarian pastry made from thin, flaky sheets of dough layered with a cheese and egg filling. It's baked until puffed and golden, with a crisp outside and a soft, tangy, cheesy inside.
 
 ## What we thought
 
-I've actually had banitsa from bakeries before. It's great for mornings when you don't have a lot of time. We gave it a 4.1, and once again the adults rated it much higher than the kids.
+I've actually had this dish from bakeries before. Surprisingly easy to make and quick to assemble, banitsa is great for mornings when you don't have a lot of time. We gave it a 4.1, where, once again, the adults rated it much higher than the kids.
 
 ## Ingredients and directions
 

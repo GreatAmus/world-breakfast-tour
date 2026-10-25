@@ -7,16 +7,16 @@ flag: bo
 images:
   - /images/bolivia.jpg
 about: |
-  Bolivia is a landlocked country in the heart of South America, with cities high in the Andes (La Paz is one of the highest capitals in the world) and Amazon lowlands to the east. Potatoes, of which Bolivia grows hundreds of varieties, along with quinoa, corn, and chili peppers are staples. Peanut soup and api, a hot drink made from purple corn, are popular.
+  Bolivia is a landlocked country in the middle of South America. La Paz is one of the highest capitals in the world. Potatoes, corn, and quinoa are the main foods.
 ---
 
 ## The dish
 
-Salteñas are baked pastries filled with a juicy, slightly sweet stew, a mid-morning tradition in Bolivia. You eat them by hand, carefully, so the broth doesn't spill. Ours were filled with shredded chicken, potatoes, peas, olives, egg, onion, garlic, and warm spices in an aromatic broth.
+Bolivian chicken salteñas are a savory chicken stew packaged in a golden, buttery pastry. The filling combines shredded chicken, potatoes, peas, olives, egg, onion, garlic, and warm spices in an aromatic broth. They're a mid-morning tradition in Bolivia, and you eat these by hand.
 
 ## What we thought
 
-The pastry was crisp and golden on the outside but sturdy enough to hold the piping hot filling, and a touch of sweetness balanced the savory richness. They were very good. Rating: 4.2/5.
+A touch of sweetness balances the savory richness. The pastry is crisp and golden on the outside but sturdy enough to hold the piping hot filling. They were very good. 4.2/5.
 
 ## Ingredients and directions
 

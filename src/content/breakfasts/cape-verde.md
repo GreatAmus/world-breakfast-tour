@@ -8,16 +8,16 @@ flag: cv
 images:
   - /images/cape-verde.jpg
 about: |
-  Cape Verde is an island nation in the Atlantic Ocean off the west coast of Africa. Its food blends West African and Portuguese influences, which is why you'll find Portuguese sausage in many dishes. The national dish is cachupa, a hearty, slow-cooked stew of corn, beans, and vegetables, and fresh fish, tuna, and grilled meats are common.
+  Cape Verde is an island nation in the Atlantic Ocean off the west coast of Africa. Their dishes blend West African and Portuguese influences, which is why you see Portuguese sausage in the dish. The country's national dish is cachupa, a hearty, slow-cooked stew made with corn, beans, and vegetables.
 ---
 
 ## The dish
 
-Cachupa refogada takes leftover cachupa and fries it up, usually with sausage and a fried egg on top. It's what Cape Verdeans do with yesterday's stew, and it makes a delicious breakfast. We made the cachupa the day before. Cape Verde was also our first "C" country.
+Cape Verde is our first "C" country! Cachupa refogada fries up leftover cachupa and turns it into a delicious breakfast. I made the cachupa the day before.
 
 ## What we thought
 
-I loved this dish. I'd give it one of my highest ratings, and I actually ate it for several days after making it. The taste was perfect. My kids and wife hated it, which is why the rating is so low. They didn't like the sausage and egg combination. It now holds the record for the most divided dish so far, and I'd make it again just for myself. Family rating: 3.1/5.
+I loved this dish. I would give it one of my highest ratings and actually ate it for several days after making it. The taste was perfect. My kids and wife hated this dish, which is why it has such a low rating. They did not like the sausage and egg combination. This takes the lead for the biggest division on a dish. I would make it again just for myself. 3.1/5.
 
 ## Ingredients and directions
 

@@ -7,16 +7,16 @@ flag: be
 images:
   - /images/belgium.jpg
 about: |
-  Belgium is a small country in western Europe with Dutch-speaking Flanders, French-speaking Wallonia, and a small German-speaking region. It's known for chocolate, beer, waffles, and fries, which Belgians fry twice and eat with mayonnaise. Mussels with fries, beef stewed in beer, and speculoos cookies are national favorites.
+  Belgium is a small country next to France, the Netherlands, and Germany. It's known for chocolate, fries, and of course waffles.
 ---
 
 ## The dish
 
-Liège waffles are made from a yeasted, brioche-like dough with chunks of pearl sugar kneaded in, cooked in a waffle iron so the sugar caramelizes on the outside. They're denser and sweeter than the light, crisp waffles most Americans picture, and Belgians usually eat them plain, out of hand.
+Real Belgian waffles are different than American waffles. Liège waffles are more like a brioche bread cooked in a waffle maker after stuffing the dough with sugar. The pearl sugar caramelizes as they cook.
 
 ## What we thought
 
-Extremely tasty, and they reminded me of being in Belgium again. I really like the pearl sugar and the crunch it gives. Why the lower rating? A lot of us liked the lighter American-style waffle more. I froze the rest and plan to bring them out for dessert with a scoop of ice cream on top. Rating: 4.2/5.
+Extremely tasty, and they reminded me of being in Belgium again. I really like the pearl sugar and the crunch it gives. Why the lower rating? A lot of people liked the lighter waffle you get in the US more than this waffle. I froze the rest and plan on bringing them out for dessert with a scoop of ice cream on top. 4.2/5.
 
 ## Ingredients and directions
 

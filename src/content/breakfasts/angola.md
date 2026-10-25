@@ -7,16 +7,16 @@ flag: ao
 images:
   - /images/angola.jpg
 about: |
-  Angola is on the Atlantic coast of southwest Africa and was a Portuguese colony until 1975, so Portuguese is the official language and Portuguese influence runs through the food. Staples include funge, a thick porridge of cassava or corn flour, along with beans, fish, and greens. Muamba de galinha, chicken stewed in palm oil with okra and squash, is often called the national dish.
+  Angola is on the southwest coast of Africa and was a Portuguese colony until 1975. Portuguese is still the official language, and you can see that influence in the food.
 ---
 
 ## The dish
 
-Filhós are light, crispy fried dough fritters found across the Portuguese-speaking world. Ours were made with coconut milk and warm spices, and the banana and coconut give them a distinctly Central African flavor.
+Filhós are light, crispy fried dough fritters made with coconut milk and warm spices. They're used in a lot of Portuguese-influenced countries.
 
 ## What we thought
 
-Light, crispy, and well spiced. Rating: 4/5.
+These ones have a distinctly Central African flavor with the banana and coconut. 4/5.
 
 ## Ingredients and directions
 

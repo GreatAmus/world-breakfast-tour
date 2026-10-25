@@ -8,16 +8,16 @@ flag: af
 images:
   - /images/afghanistan.jpg
 about: |
-  Afghanistan is a landlocked, mountainous country where Central and South Asia meet, and its cooking reflects centuries of trade along the Silk Road. Meals revolve around rice and bread. Kabuli palaw, rice cooked with meat, carrots, and raisins, is the national dish, and flatbread baked against the walls of a clay oven shows up at nearly every meal. Dumplings like mantu and ashak, kebabs, and yogurt sauces are everyday favorites, and green tea with cardamom is poured throughout the day.
+  Afghanistan is a mountainous, landlocked country between Central and South Asia. It sat right on the old Silk Road, so the food mixes Central Asian, Persian, and Indian cooking. Rice, flatbread, and yogurt show up at almost every meal.
 ---
 
 ## The dish
 
-Bolani are thin flatbreads folded around a filling, most often spiced mashed potato, leeks, or pumpkin, and cooked until crisp. They're a popular street food and home snack, usually served with a garlicky yogurt dip. Ours used a potato filling with green onion, cilantro, mint, and green chili, with a yogurt and mint sauce on the side. To avoid frying yet another dough, I cooked them in the air fryer.
+Bolani are thin flatbreads stuffed with a filling, usually potato, leeks, or pumpkin, then cooked until crisp. They're a popular street food and are usually served with a yogurt dip. Mine had a potato filling with green onion, cilantro, mint, and green chili.
 
 ## What we thought
 
-Adults gave it a 3/5. It was pretty bland, but much better once you add hot sauce. The kids gave it a 2/5. They may have been better fried, but they just didn't have much flavor.
+Adults gave it a 3/5. It was pretty bland, but much better if you add hot sauce. Kids gave it a 2/5.
 
 ## Ingredients and directions
 

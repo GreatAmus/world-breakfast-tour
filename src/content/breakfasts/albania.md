@@ -7,16 +7,16 @@ flag: al
 images:
   - /images/albania.jpg
 about: |
-  Albania sits on the Adriatic and Ionian coasts of the Balkans, just across the water from Italy. Its food mixes Mediterranean, Ottoman, and Balkan influences: olive oil, white brined cheese, yogurt, fresh vegetables, and plenty of bread. Byrek (savory filled pastry), tavë kosi (baked meat with yogurt), and fërgesë (peppers, tomatoes, and cheese) are national favorites, and strong Turkish-style coffee is part of daily life.
+  Albania is a small country on the Balkan coast, right across the water from Italy. Their food mixes Mediterranean and Turkish cooking, so you see a lot of olive oil, feta, yogurt, and bread.
 ---
 
 ## The dish
 
-Petulla are puffy fried dough balls and a staple Albanian breakfast, especially on weekends and holidays. They're served two ways: sweet, with honey or powdered sugar, or savory-sweet, with feta cheese and jam on the side. Our version is a quick yogurt batter spooned straight into hot oil, so there's no rising time.
+Petulla are fried dough balls and a common Albanian breakfast. There are two ways to serve them: honey and powdered sugar, or jam and feta. My version is a quick yogurt batter you spoon straight into hot oil, so there's no waiting for the dough to rise.
 
 ## What we thought
 
-Albania was our very first country, and a great place to start. The kids and I rated it 5/5. We tried both ways of serving them, and surprisingly, the feta and jam was really good.
+Albania was our first country, and the kids and I rated it 5/5. Surprisingly, the feta and jam was really good.
 
 ## Ingredients and directions
 

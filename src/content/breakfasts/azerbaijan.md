@@ -7,16 +7,16 @@ flag: az
 images:
   - /images/azerbaijan.jpg
 about: |
-  Azerbaijan sits on the Caspian Sea where Eastern Europe meets Western Asia, and it's nicknamed the "Land of Fire" for its natural gas flames. The food shares roots with Persian and Turkish cooking. Saffron-scented plov (rice pilaf) is the centerpiece of celebrations, along with kebabs, dolma, and herb-filled flatbreads called qutab. Black tea served with jam is central to hospitality.
+  Azerbaijan sits on the Caspian Sea between Russia and Iran. Their food is close to Persian and Turkish cooking, with lots of rice, herbs, and flatbread.
 ---
 
 ## The dish
 
-Shorgoghal is a flaky round pastry closely associated with Novruz, the spring new year festival. Thin sheets of dough are buttered and stacked, which fakes the layers of a laminated pastry, then filled with spices like fennel and cumin and baked until golden.
+Shorgoghal is a savory pastry from Azerbaijan, usually baked for Novruz, the spring new year. The bread is filled with fennel, cumin, and other spices.
 
 ## What we thought
 
-A delicious savory pastry. Rating: 4/5.
+Delicious savory pastry. 4/5.
 
 ## Ingredients and directions
 

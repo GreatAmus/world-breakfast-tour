@@ -8,16 +8,16 @@ flag: bn
 images:
   - /images/brunei.jpg
 about: |
-  Brunei is a small, wealthy sultanate on the island of Borneo in Southeast Asia. Its food is Malay at heart, with rice at every meal, coconut milk, chilies, and fish. Ambuyat, a sticky starch from the sago palm eaten with sour dipping sauces, is the national dish.
+  Brunei is a small country on the island of Borneo in Southeast Asia. Their food is mostly Malay, with rice at nearly every meal, coconut milk, and plenty of chili.
 ---
 
 ## The dish
 
-Nasi katok is Brunei's favorite comfort food: steamed rice, a piece of fried chicken, and spicy sambal. The name refers to the old practice of buying the meal from a vendor who would knock ("katok") on your door. We made coconut rice, fried chicken, and a homemade chili sambal.
+Nasi katok is a Bruneian comfort food of steamed white rice with fried chicken and a spicy sambal. I found out the name refers to the traditional practice of buying the meal from a vendor who would "knock" (katok) on your door. I made coconut rice to go with mine.
 
 ## What we thought
 
-I'm a sucker for fried chicken, and this was a good one. Spicy fried chicken is almost an automatic 5/5 for me as long as it's crisp, seasoned, and not greasy. Overall it got a 4.2. Two of us loved it (5/5), while the other two turned out not to like dark meat or thought it was too spicy.
+I am a sucker for fried chicken, and this was a good one. Fried chicken, especially spicy fried chicken, is almost an automatic 5/5 for me as long as it's crisp, seasoned, and not greasy. Overall, it received a 4.2. Two of us loved it (5/5), while two turned out not to like dark meat or thought it was too spicy.
 
 ## Ingredients and directions
 

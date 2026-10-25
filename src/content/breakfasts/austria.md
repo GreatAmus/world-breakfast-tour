@@ -7,16 +7,16 @@ flag: at
 images:
   - /images/austria.jpg
 about: |
-  Austria is an Alpine country in central Europe. For centuries Vienna was the capital of the Habsburg empire, which pulled in influences from Hungary, Bohemia, and the Balkans. Austrians are known for Wiener schnitzel, goulash, dumplings, and above all pastries: apple strudel, Sachertorte, and the slow pace of Viennese coffeehouse culture.
+  Austria is in the Alps in central Europe. Vienna was the capital of a huge empire for centuries and picked up food from Hungary, Bohemia, and the Balkans. Austria is famous for its pastries and coffee houses.
 ---
 
 ## The dish
 
-Kaiserschmarrn ("the emperor's mess") is a thick, fluffy pancake torn into pieces as it cooks, then caramelized with sugar and dusted with powdered sugar. Legend connects it to Emperor Franz Joseph. It's traditionally served with fruit compote, often stewed plums (Zwetschgenröster), which is how we made it.
+Kaiserschmarrn is a thick pancake that gets torn into pieces in the pan and covered in powdered sugar. It's usually served with stewed plums, so that's what I did.
 
 ## What we thought
 
-The torn pancakes have a taste and texture like an angel food cake and a German pancake had a baby. The sour plum sauce perfectly counters their sweetness. Rating: 4.5/5.
+The torn pancakes have a taste and texture like an angel food cake and a German pancake had a baby. The sour plum sauce perfectly counters the sweetness of the pancakes. 4.5/5.
 
 ## Ingredients and directions
 

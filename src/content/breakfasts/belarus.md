@@ -7,16 +7,16 @@ flag: by
 images:
   - /images/belarus.jpg
 about: |
-  Belarus is a landlocked country in Eastern Europe, between Poland and Russia, with large forests and wetlands. Belarusian cooking is hearty and built on potatoes, so much so that potato dishes number in the hundreds. Rye bread, mushrooms, beets, cabbage, and sour cream are staples.
+  Belarus is in Eastern Europe, between Poland and Russia. Potatoes are the heart of Belarusian cooking. There are supposedly hundreds of potato dishes, and draniki is the most famous one.
 ---
 
 ## The dish
 
-Draniki are grated potato pancakes and the national dish of Belarus, similar to latkes or rösti. They're fried until crisp and served with sour cream. Ours had grated onion and an egg in the batter and chives on top. You can also put a fried egg on top for more protein and flavor.
+Draniki are hash brown pancakes. They're served with sour cream and chives. You can, optionally, put an egg on top to add even more protein and flavor.
 
 ## What we thought
 
-I liked them better than normal hash browns. The egg held them together better, and the onion enhanced the taste. Rating: 4.5/5.
+I liked them better than normal hash browns. The egg held them together better, and the onion enhances the taste. 4.5/5.
 
 ## Ingredients and directions
 

@@ -9,10 +9,10 @@ const names = [...new Set([...countries, ...byCountry.keys()])].sort((a, b) => a
 const upNext = names.find((n) => !byCountry.has(n));
 const letters = [...new Set(names.map(letterOf))];
 ---
-<Base title="Passport" description="Every country on the tour, and which breakfasts we’ve cooked so far.">
+<Base title="Passport" description="Every country on the tour, and which ones we’ve done so far.">
   <section class="page-head">
     <h1>Passport</h1>
-    <p class="lede">{byCountry.size} of {names.length} countries cooked. Up next: {upNext}.</p>
+    <p class="lede">Every country on the list. We’ve done {byCountry.size} of {names.length}. Next up is {upNext}.</p>
   </section>
   {letters.map((l) => (
     <section class="pp-group" id={l} aria-labelledby={`pp-${l}`}>
@@ -23,7 +23,7 @@ const letters = [...new Set(names.map(letterOf))];
           return p ? (
             <li class="pp-done"><a href={postUrl(p)}>{n}</a><span class={`pp-score tone-${scoreTone(p.data.rating)}`}>{formatScore(p.data.rating)}</span></li>
           ) : (
-            <li class={n === upNext ? 'pp-next' : 'pp-todo'}>{n}{n === upNext && <span class="pp-flag">Up next</span>}</li>
+            <li class={n === upNext ? 'pp-next' : 'pp-todo'}>{n}{n === upNext && <span class="pp-flag">Next</span>}</li>
           );
         })}
       </ul>

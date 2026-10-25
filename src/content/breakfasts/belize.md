@@ -7,16 +7,16 @@ flag: bz
 images:
   - /images/belize.jpg
 about: |
-  Belize is on the Caribbean coast of Central America, and it's the only country in the region with English as its official language. Its food reflects Maya, Garifuna, Creole, Mestizo, and Mennonite communities. Rice and beans with stewed chicken is the everyday staple, and tamales, panades, conch, and hudut (Garifuna fish stew with mashed plantain) are favorites.
+  Belize is on the Caribbean coast of Central America, and it's the only country there where English is the official language. Their food mixes Maya, Creole, Garifuna, and Mestizo cooking. Rice and beans show up at almost every meal.
 ---
 
 ## The dish
 
-A typical Belizean breakfast is fry jacks, puffy fried dough, with refried beans and eggs. Our eggs were scrambled with chaya, a leafy green used in Maya cooking. I cheated and used spinach instead, mostly because I don't know where to buy chaya.
+A Belizean breakfast is refried beans, eggs with chaya, and fry jacks. Fry jacks are puffy pieces of fried dough. Chaya is a leafy green used in Maya cooking. I cheated and used spinach instead of chaya, mostly because I don't know where to buy chaya!
 
 ## What we thought
 
-So good. My wife wants this in our regular breakfast rotation, since refried beans plus fry jacks is a dynamite combo. Rating: 4.6/5, the third-best breakfast so far.
+So good. My wife wants me to put this in our regular breakfast rotation, since refried beans plus fry jacks is a dynamite combo. 4.6/5. Third best breakfast we've made.
 
 ## Ingredients and directions
 

@@ -7,16 +7,18 @@ flag: bf
 images:
   - /images/burkina-faso.jpg
 about: |
-  Burkina Faso is a landlocked country in West Africa whose name means "land of upright people." Most people farm, and grains like millet, sorghum, and corn are the base of the diet. Tô, a thick porridge eaten with sauces of okra, baobab leaves, or peanuts, is the everyday meal, and riz gras (rice cooked in a tomato and meat sauce) is a celebration dish.
+  Burkina Faso is a landlocked country in West Africa. Most people there farm, and grains like millet, sorghum, and corn are the main foods.
 ---
 
 ## The dish
 
-Dégué is steamed millet mixed with yogurt and sweetened, often with condensed milk. It's sold chilled by street vendors across West Africa as a breakfast or snack. The result is something like a cross between rice pudding and a parfait.
+Dégué is made from steamed millet combined with yogurt and condensed milk. It's sold cold by street vendors and eaten for breakfast or as a snack.
 
 ## What we thought
 
-I thought for sure I would hate this, since I tend to dislike porridge dishes, especially with fresh fruit. It was good: refreshingly sweet. It took a few bites to grow on me, but I'd make it again given how good and easy it was. The average rating was 4.0. Interestingly, people swapped places. My wife didn't like it, and my picky eater gave it a 4.5, her highest rating yet.
+I thought for sure I would hate this dish, as I tend to dislike porridge dishes, especially when served with fresh fruit. This was good. Dégué was a refreshingly sweet breakfast that reminded me of rice pudding or a parfait. The dish took a few bites to grow on me, but I would make this one again considering how good and easy it was.
+
+The average rating was a 4.0. Interestingly, people swapped places, with my wife not liking the dish and my picky eater giving it a 4.5 (her highest rating yet).
 
 ## Ingredients and directions
 

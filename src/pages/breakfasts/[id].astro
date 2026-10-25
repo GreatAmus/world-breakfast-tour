@@ -5,7 +5,7 @@ import { getCollection, render } from 'astro:content';
 import { getBreakfasts, postUrl, formatDate, flagUrl } from '../../lib.js';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('breakfasts');
+  const posts = await getCollection('breakfasts', ({ data }) => !data.draft);
   return posts.map((post) => ({ params: { id: post.id }, props: { post } }));
 }
 
@@ -19,7 +19,7 @@ const i = all.findIndex((p) => p.id === post.id);
 const prev = all[i - 1];
 const next = all[i + 1];
 ---
-<Base title={`${dish} from ${country}`} description={`${dish}: the breakfast we cooked for ${country}, with our family’s rating and the full recipe.`} image={images[0]}>
+<Base title={`${dish} from ${country}`} description={`${dish} from ${country}, with my family’s rating and the full recipe.`} image={images[0]}>
   <article class="post">
     <header class="post-header">
       <p class="kicker"><a href="/">All breakfasts</a></p>
@@ -31,7 +31,7 @@ const next = all[i + 1];
         <Score value={rating} size="lg" />
         <div>
           <p class="post-dish">{dish}</p>
-          <p class="post-note">{ratingNote ?? 'Family average out of 5'}</p>
+          <p class="post-note">{ratingNote ?? 'Family score out of 5'}</p>
           <p class="post-date">Posted {formatDate(date)}</p>
         </div>
       </div>

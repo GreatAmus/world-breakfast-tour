@@ -7,16 +7,16 @@ flag: ad
 images:
   - /images/andorra.jpg
 about: |
-  Andorra is a tiny country high in the Pyrenees between France and Spain, and Catalan is its official language. Its food is mountain cooking with a strong Catalan accent: hearty stews, cured meats and sausages, mushrooms, and cheese. Escudella, a winter stew of meat and vegetables, and trinxat, mashed cabbage and potato fried until crisp, are traditional dishes, and pa amb tomàquet (bread rubbed with tomato and olive oil) is everyday food.
+  Andorra is a tiny country in the Pyrenees mountains between France and Spain. The official language is Catalan, and so is most of the food.
 ---
 
 ## The dish
 
-Coca de recapte is a Catalan flatbread, something like a thin, rustic pizza, topped with roasted red peppers, eggplant, and onion. "Recapte" roughly means provisions, and the coca was traditionally baked with whatever was on hand. Ours had a roasted pepper and tomato base, thin slices of sautéed zucchini and red onion, a drizzle of honey, and toppings like feta, olives, and basil. I made part of it the night before, which made breakfast fast, and baked it in a pizza oven.
+Coca de recapte is a Catalan flatbread. Think of a thin pizza without the cheese, topped with roasted red peppers, eggplant, and onion. I added zucchini, feta, and a little honey to mine.
 
 ## What we thought
 
-What's not to love about a veggie-centric breakfast pizza? It's so good. Rating: 5/5. One tip: go light on the toppings. Less is more, and too many toppings take away from the crisp crust.
+What's not to love about a veggie-centric breakfast pizza? It's so good. 5/5.
 
 ## Ingredients and directions
 

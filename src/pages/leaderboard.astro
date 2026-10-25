@@ -13,10 +13,10 @@ const rows = posts.map((p, n) => {
   return { p, rank };
 });
 ---
-<Base title="Leaderboard" description="Every breakfast we’ve cooked, ranked by family score.">
+<Base title="Leaderboard" description="Every breakfast we’ve made, from best to worst.">
   <section class="page-head">
     <h1>Leaderboard</h1>
-    <p class="lede">Every breakfast so far, ranked by the family average.</p>
+    <p class="lede">Every breakfast so far, from best to worst.</p>
     <ul class="legend" aria-label="Score colors">
       <li><span class="swatch tone-high"></span>{GREEN_FROM.toFixed(1)} and up</li>
       <li><span class="swatch tone-mid"></span>{RED_BELOW.toFixed(1)} to {(GREEN_FROM - 0.1).toFixed(1)}</li>

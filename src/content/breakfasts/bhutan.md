@@ -7,16 +7,16 @@ flag: bt
 images:
   - /images/bhutan.jpg
 about: |
-  Bhutan is a Himalayan kingdom between India and China, known for measuring its success by Gross National Happiness. Bhutanese food is defined by chilies, which are treated as a vegetable rather than a seasoning. Red rice, buckwheat, cheese from cow or yak milk, and butter tea are staples, and ema datshi (chilies stewed with cheese) is the national dish.
+  Bhutan is a small kingdom in the Himalayas between India and China. It measures how the country is doing with Gross National Happiness. In Bhutan, chilies are a vegetable, not a spice.
 ---
 
 ## The dish
 
-Egg ema datshi adds eggs to the classic chili-and-cheese stew. Khur-le are thin buckwheat pancakes from central Bhutan, where buckwheat grows better than rice. The spicy, cheesy eggs and earthy crepes are made to go together. I used serrano chilies and a mix of mozzarella and feta.
+Ema datshi is cheese-covered chilies, and it's the national dish. I made the version with eggs. Khur-le are buckwheat crepes. I used serrano chilies and a mix of mozzarella and feta.
 
 ## What we thought
 
-I quite enjoyed the combination. The savory pancakes were great with the spicy chilies. I gave it a 3/5 only because it isn't something I'd make again. It was a good one-time experience, but not good enough to make for the family regularly.
+I quite enjoyed the combination. The savory pancakes were great when paired with the spicy chilies. I ended up giving it a 3/5 just because it wasn't something I'd make again. Good one-time experience, but not good enough for me to make for the family on a regular basis.
 
 ## Ingredients and directions
 

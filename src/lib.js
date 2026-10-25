@@ -4,7 +4,7 @@ const byCountry = (a, b) => a.data.country.localeCompare(b.data.country, 'en');
 
 // All posts, alphabetical by country.
 export async function getBreakfasts() {
-  return (await getCollection('breakfasts')).sort(byCountry);
+  return (await getCollection('breakfasts', ({ data }) => !data.draft)).sort(byCountry);
 }
 
 export const postUrl = (post) => `/breakfasts/${post.id}/`;

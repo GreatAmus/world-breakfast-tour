@@ -7,16 +7,16 @@ flag: ag
 images:
   - /images/antigua-and-barbuda.jpg
 about: |
-  Antigua and Barbuda is a two-island nation in the eastern Caribbean, famous for its beaches (locals say there's one for every day of the year). Its food draws on African, British, and Caribbean traditions. The national dish is fungie, a cornmeal and okra dish similar to polenta, served with pepperpot stew. Saltfish, ducana (sweet potato dumplings), seafood, and tropical fruit like the Antigua black pineapple are everyday favorites.
+  Antigua and Barbuda is a two-island country in the eastern Caribbean. Their food mixes African, British, and Caribbean cooking, with plenty of tropical fruit.
 ---
 
 ## The dish
 
-Banana fritters are a common Caribbean breakfast and snack, and a good way to use up very ripe bananas. Mashed bananas are mixed with flour, sugar, and warm spices, then fried until crisp outside and soft inside. We served ours with a coconut lime dipping sauce.
+These crispy banana fritters have warm spices and a coconut lime dipping sauce. They're a great way to use up really ripe bananas.
 
 ## What we thought
 
-The flavor was excellent, but I think they needed a bit more flour and baking powder. I adjusted the recipe below to what I'd do if I made them again. Rating: 4/5.
+The flavor was excellent, but I think they needed a bit more flour and baking powder. I adjusted the recipe based on what I would do if I made them again. 4/5.
 
 ## Ingredients and directions
 

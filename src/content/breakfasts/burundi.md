@@ -8,16 +8,16 @@ flag: bi
 images:
   - /images/burundi.jpg
 about: |
-  Burundi is a small, landlocked country in East Africa on the shores of Lake Tanganyika. It has a rich food culture built around locally grown staples like beans, bananas and plantains, cassava, and sweet potatoes. Beans are eaten almost every day, and small fish from the lake are a common source of protein.
+  Burundi is a small, landlocked country in East Africa. It has a rich food culture built around locally grown staples such as beans, bananas, cassava, and sweet potatoes.
 ---
 
 ## The dish
 
-Ibiharage n'ibitoke combines beans (ibiharage) and plantains (ibitoke) cooked together in a savory sauce. It's simple everyday food, hearty and full of flavor.
+Ibiharage n'ibitoke is a traditional Burundian dish combining beans (ibiharage) and plantains (ibitoke). The dish itself is savory and hearty with great flavors.
 
 ## What we thought
 
-How delicious this was came as a huge surprise to me, since I typically don't like African food. It was a massive hit with my daughter, who went back for seconds and gave it a 4.5/5, which makes it her second favorite so far. I thought it was more middle of the road than the rest of the family did: good, but not nearly as good as some of the other rock stars. Family rating: 4.2/5.
+How delicious this dish was came as a huge surprise for me, as I typically do not like African food. This was a massive hit with my daughter, who went back for seconds. She gave it a 4.5/5, which I think makes this her second favorite dish! I thought the dish was more middle of the road than the rest of the family did. Good, but not nearly as good as some of the other rockstars. 4.2/5.
 
 ## Ingredients and directions
 

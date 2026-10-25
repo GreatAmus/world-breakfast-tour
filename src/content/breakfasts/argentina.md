@@ -7,16 +7,16 @@ flag: ar
 images:
   - /images/argentina.jpg
 about: |
-  Argentina stretches from the subtropical north to the southern tip of South America. It's famous for beef, and the asado, a long weekend barbecue, is a social institution. Waves of Italian and Spanish immigration shaped the food too, so pizza, pasta, and empanadas are everywhere. Dulce de leche, a thick caramelized milk spread, goes on nearly everything sweet, and yerba mate is shared from a gourd throughout the day.
+  Argentina covers most of southern South America. It's famous for beef, but a lot of Argentines have Italian and Spanish roots, and that shows up in their bakeries. Breakfast is usually coffee with something sweet.
 ---
 
 ## The dish
 
-Medialunas ("half moons") are Argentina's version of the croissant and the classic breakfast with coffee. They're smaller and sweeter than French croissants and brushed with sugar syrup right out of the oven. Medialunas de manteca are the butter version. Ours were laminated overnight and served with dulce de leche on the side.
+Medialunas de manteca are Argentina's version of a croissant. They get brushed with a sugar glaze right out of the oven. I served them with a side of dulce de leche.
 
 ## What we thought
 
-These are soft, sweet, laminated rolls that are more bready than croissants. Rating: 4.5/5.
+These are soft, sweet, laminated rolls that are more bready than croissants. 4.5/5.
 
 ## Ingredients and directions
 

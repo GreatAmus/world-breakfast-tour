@@ -7,16 +7,16 @@ flag: ba
 images:
   - /images/bosnia-and-herzegovina.jpg
 about: |
-  Bosnia and Herzegovina is in the Balkans, mostly mountains with a short stretch of Adriatic coast. Four centuries of Ottoman rule shaped its food: grilled meats, burek, stuffed vegetables, and strong Bosnian coffee served with sugar cubes and Turkish delight. Dairy matters too, especially kajmak, a rich, soft cream cheese.
+  Bosnia and Herzegovina is in the Balkans. It's mostly mountains, with a tiny bit of coastline. It was part of the Ottoman Empire for about 400 years, which is why the food has so much in common with Turkish food.
 ---
 
 ## The dish
 
-Ćevapi are small grilled sausages of minced beef and the most famous food in Bosnia, often eaten as a street-food breakfast. They're tucked into somun, a soft round flatbread similar to pita, with raw onion, kajmak, and ajvar, a sauce of roasted red peppers and eggplant. I couldn't get real kajmak, so I made something similar myself.
+This Bosnian street-food breakfast is grilled beef sausages eaten with somun, a type of bread similar to a pita. The sauce is ajvar, made from eggplant and red peppers. The dish is served with raw onion and kajmak, a soft cow cheese. I didn't have access to actual kajmak, so I made something similar myself.
 
 ## What we thought
 
-The ajvar brings a sweetness that counters the salty meat and bread. I loved this dish, but my wife and children were not huge fans. The average was 4.0, with the kids rating it slightly below a 4 and me at 4.4.
+The ajvar brings a sweetness to counter the salty meat and bread. I loved this dish, but my wife and children were not huge fans. The average was a 4.0, with the kids rating it slightly below a 4 while I gave it a 4.4.
 
 ## Ingredients and directions
 

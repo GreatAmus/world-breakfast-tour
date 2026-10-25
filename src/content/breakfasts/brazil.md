@@ -8,16 +8,16 @@ flag: br
 images:
   - /images/brazil.jpg
 about: |
-  Brazil is the largest country in South America and the only one where Portuguese is the main language. Its food reflects Indigenous, Portuguese, and African roots, plus Italian, German, and Japanese immigration. Feijoada, a black bean and meat stew, is the national dish, and rice and beans, churrasco, açaí, and cassava are everyday staples.
+  Brazil is the biggest country in South America and the only one that speaks Portuguese. Their food mixes Indigenous, Portuguese, and African cooking.
 ---
 
 ## The dish
 
-Pão de queijo is chewy cheese bread from the state of Minas Gerais. It's made with tapioca flour, which makes it naturally gluten-free, plus milk, oil, eggs, and plenty of cheese. The small rolls bake up crisp outside and stretchy inside. Anyone who's eaten at a Brazilian restaurant has had them.
+Anyone who's ever eaten at a Brazilian restaurant has had this deliciously chewy cheese bread. Pão de queijo is made with tapioca flour, so it's naturally gluten-free.
 
 ## What we thought
 
-They're easy to make and always a hit. I don't love them myself, but they're my wife's absolute favorite, and she gave them a 5/5. I'd say 4/5, mostly because pão de queijo isn't very interesting to make. Averaging in the kids' ratings too, the final score is 4.7/5.
+They're easy to make and always a hit. I don't love them myself, but they're my wife's absolute favorite. She gives this one a 5/5. I'd say 4/5, mostly because pão de queijo isn't very interesting to make. Averaging in the kids' ratings too, the final score is 4.7/5.
 
 ## Ingredients and directions
 

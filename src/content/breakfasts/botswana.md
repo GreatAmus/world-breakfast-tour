@@ -7,16 +7,16 @@ flag: bw
 images:
   - /images/botswana.jpg
 about: |
-  Botswana is a landlocked country in southern Africa, home to the Kalahari Desert and the Okavango Delta. Cattle are central to both the culture and the diet. Seswaa (slow-cooked, pounded beef) served with a thick porridge is the national dish, and sorghum, corn, beans, and wild greens round out everyday meals.
+  Botswana is a landlocked country in southern Africa and home to the Kalahari Desert. Cattle are a big deal there. Most meals are beef with a thick porridge made from sorghum or corn.
 ---
 
 ## The dish
 
-Bogobe is a porridge made from sorghum or cornmeal and is the basic starch of Botswana. For breakfast it's often served softer, with eggs and a tomato and onion relish. Authentic sorghum meal and lerotse (a local melon sometimes cooked into the porridge) are hard to find, so I had to substitute several ingredients.
+Bogobe is a thick porridge made from sorghum or cornmeal. For breakfast it's served with eggs and a tomato and onion relish. I had to substitute several ingredients, since authentic sorghum meal and lerotse are hard to source.
 
 ## What we thought
 
-Not good, but African porridge dishes just aren't for me. Rating: 1.5/5.
+Not good, but African porridge dishes just aren't for me. 1.5/5.
 
 ## Ingredients and directions
 

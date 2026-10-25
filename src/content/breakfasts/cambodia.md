@@ -7,16 +7,16 @@ flag: kh
 images:
   - /images/cambodia.jpg
 about: |
-  Cambodia is in Southeast Asia and is home to the temples of Angkor Wat. Khmer food is milder than Thai food and is built around rice, fish from the Mekong River and Tonlé Sap lake, and fermented fish paste called prahok. Dishes aim for a balance of sour, salty, sweet, and bitter, and fish amok, a curry steamed in banana leaves, is the national dish.
+  Cambodia is in Southeast Asia and is home to Angkor Wat. Khmer food is milder than Thai food and is built around rice and fish. A lot of dishes balance sour, salty, and sweet.
 ---
 
 ## The dish
 
-Bai sach chrouk translates roughly to "pork and rice" in Khmer and is one of Cambodia's most beloved breakfasts. Thin slices of pork are marinated with garlic, sugar, soy sauce, and fish sauce, then grilled until fragrant and caramelized. It's served over rice with pickled vegetables, fresh cucumber, and a light bowl of broth. We added a fried egg on top.
+Bai sach chrouk translates roughly to "pork and rice" in Khmer. This dish is one of Cambodia's most beloved traditional breakfasts. Thin slices of pork are marinated with garlic, sugar, soy sauce, and fish sauce, then grilled until fragrant and caramelized. The pork is served over rice, often with pickled vegetables, fresh cucumber, and a light bowl of broth. I added a fried egg on top.
 
 ## What we thought
 
-I liked how fresh this dish is, with several different vegetables. It's easy to put together and feels like a complete meal, unlike many other breakfasts that are heavy on bread. However, I thought the flavors were bland and didn't stand out. Without a distinct "wow" factor, it's not something I'd cook often. The family was consistent on this one, with a rating of 3.2/5.
+I liked how fresh this dish is, with several different vegetables. The dish is also easy to put together and feels like a complete meal, unlike many other breakfasts that are heavy on bread. However, I think the flavors are bland and don't stand out. The lack of a distinct "WOW" factor made it something that I wouldn't cook often. The family was consistent on this one, with it receiving a 3.2/5.
 
 ## Ingredients and directions
 

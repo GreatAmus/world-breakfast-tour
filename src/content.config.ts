@@ -11,6 +11,7 @@ const breakfasts = defineCollection({
     date: z.coerce.date(),
     rating: z.number().min(0).max(5).optional(),
     ratingNote: z.string().optional(),
+    draft: z.boolean().default(false),
     flag: z.string().length(2).optional(),
     images: z.array(z.string()).default([]),
     about: z.string().optional(),

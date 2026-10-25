@@ -7,16 +7,16 @@ flag: bs
 images:
   - /images/bahamas.jpg
 about: |
-  The Bahamas is a chain of roughly 700 islands in the Atlantic, southeast of Florida. Bahamian food centers on seafood, especially conch, served fried, in salad, or in chowder. Peas and rice, johnny cake, baked macaroni and cheese, and guava duff (a rolled, steamed dessert) are staples, and souse is a traditional weekend breakfast.
+  The Bahamas is a chain of about 700 islands southeast of Florida. Most of their food is seafood, especially conch. Souse is a traditional weekend breakfast.
 ---
 
 ## The dish
 
-Chicken souse is a clear, peppery soup of chicken, onion, potatoes, and lots of lime juice. It's served with johnny cake, a dense, slightly sweet bread baked in a pan. Ours used chicken wings and a serrano pepper. Most recipes call for a habanero, but that would have been far too hot for the kids.
+Chicken souse is a peppery lime soup with chicken, potatoes, and onions. It's served with johnny cake, a dense, slightly sweet bread baked in a pan.
 
 ## What we thought
 
-This one was interesting because one kid loved the chicken but hated the johnny cake, and the other liked the johnny cake but hated the chicken. Personally, I thought the johnny cake tasted like a standard biscuit and the souse didn't have enough flavor. I think I would have liked it a lot more if I'd made it so spicy the kids wouldn't eat it. Average rating: 3/5.
+This one was interesting because one kid loved the chicken but hated the johnny cake. The other liked the johnny cake but hated the chicken. Personally, I thought the johnny cake tasted like a standard biscuit and the chicken souse didn't have enough flavor. I think I would have liked it a lot more if I'd made it spicy enough that the kids wouldn't have eaten it. Average rating was a 3/5.
 
 ## Ingredients and directions
 

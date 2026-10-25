@@ -7,16 +7,18 @@ flag: cm
 images:
   - /images/cameroon.jpg
 about: |
-  Cameroon sits where West and Central Africa meet and is called "Africa in miniature" because it packs nearly every landscape on the continent into one country: rainforest in the south, savanna, and mountains. More than 250 ethnic groups live there, and both English and French are official languages. Staples include cassava, plantains, corn, and beans, often served with rich sauces of palm oil, peanuts, or greens. Ndolé, a stew of bitter leaves and peanuts, is considered the national dish.
+  Cameroon sits where West and Central Africa meet. It's called "Africa in miniature" because it packs nearly every landscape on the continent into one country: rainforest in the south, savanna, and mountains. More than 250 ethnic groups live there, with both English and French adopted as official languages.
 ---
 
 ## The dish
 
-Koki is steamed bean cake made from black-eyed peas blended with palm oil and hot pepper. It's one of Cameroon's best-loved everyday dishes, especially in the southwest and coastal regions, and it's usually served with boiled ripe plantains or cassava. It shows up everywhere from family tables to roadside stands. It isn't the most popular breakfast in Cameroon (that would be fried dough), but we'd had a lot of fried dough in a row. I couldn't get banana leaves for steaming, so I used aluminum foil instead. Even without the leaves, the palm oil, beans, and pepper kept the dish true to the original.
+This is Cameroon's steamed koki with a pepper sauce and plantains. Koki is a steamed cake made from black-eyed peas, palm oil, and hot pepper. I chose koki as the Cameroon dish because it's one of the country's best-loved everyday dishes, especially in the southwest and coastal regions. It's usually served with boiled ripe plantains or cassava, and it shows up everywhere from family tables to roadside stands.
+
+Koki is not the most popular breakfast dish in Cameroon, but I really don't like to eat fried dough too many times in a row. I couldn't get banana leaves for steaming the dish, so I used aluminum foil instead. Despite missing the banana leaves, the palm oil, beans, and pepper kept the dish true to the original.
 
 ## What we thought
 
-We did not like this dish. A cakey bean paste with a hot pepper sauce was edible, but not something we'd ever eat again. My guess is the fried dough would have scored about like makara did. Rating: 1.7/5.
+Definitely not my favorite. A cakey pastry made out of bean paste with a hot pepper sauce was edible, but not something we'd ever eat again. My guess is the fried dough would have been about like makara and gotten a similar score. 1.7/5.
 
 ## Ingredients and directions
 

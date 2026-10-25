@@ -7,16 +7,16 @@ flag: bj
 images:
   - /images/benin.jpg
 about: |
-  Benin is a narrow country in West Africa on the Gulf of Guinea. It was once home to the Kingdom of Dahomey and is the birthplace of the Vodun religion. Its food is built on corn, cassava, yams, and beans, paired with spicy sauces of tomato, peppers, okra, or peanuts. Corn dough called pâte, fried fish, and bean fritters are everyday foods.
+  Benin is a narrow country in West Africa on the Gulf of Guinea. Corn, cassava, yams, and beans are the main foods, and most meals are a starch with a spicy sauce.
 ---
 
 ## The dish
 
-Akassa is a soft, slightly sour dough made from fermented cornmeal, a bit like polenta, eaten across Benin and Togo. Here it's paired with gbédjédjén, a spicy stew of beef and hot peppers. Our akassa used masa harina and Greek yogurt to imitate the fermented tang.
+Akassa is a dough made with fermented cornmeal, similar to polenta. Gbédjédjén is a spicy stew made with beef and hot peppers. I used masa harina and Greek yogurt to get the sour taste of fermented corn.
 
 ## What we thought
 
-Surprisingly good for how simple it was. The spicy stew was a nice contrast to the tangy corn dough. We gave it a 3.7. It was good, but we wouldn't make it regularly.
+This was surprisingly good for how simple it was, with the spicy stew being a nice contrast to the tangy fermented corn dough. We gave it a 3.7. Although it was good, we wouldn't make it regularly.
 
 ## Ingredients and directions
 

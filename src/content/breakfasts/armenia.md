@@ -8,18 +8,16 @@ images:
   - /images/armenia.jpg
   - /images/armenia-2.jpg
 about: |
-  Armenia is a mountainous country in the South Caucasus with one of the oldest continuous cultures in the world. It was the first nation to adopt Christianity, in 301 AD. Armenian food features lavash flatbread, grilled meats called khorovats, dolma, lentils, bulgur, fresh herbs, and apricots, which are something of a national symbol. Meals are usually a spread of shared dishes with cheese, herbs, and bread.
+  Armenia is a small, mountainous country between Europe and Asia. It was the first country to make Christianity its official religion, back in 301 AD. Their food uses a lot of bread, herbs, cheese, and apricots.
 ---
 
 ## The dish
 
-Gata is a sweet Armenian bread, often baked for holidays and celebrations, with many regional versions. Ours is a round, soft yeast bread filled with a sweet, crumbly mix of butter, sugar, and flour, decorated with strips of dough on top and brushed with egg wash before baking.
+Gata is a sweet Armenian bread with a paste-like filling made from butter, sugar, and flour. There are a lot of versions, and it's often made for holidays.
 
 ## What we thought
 
-A deliciously sweet bread with a paste-like filling. This was so good that we devoured all three loaves. Rating: 5/5.
-
-Let it cool completely. It tasted a lot better after it cooled than when it was hot. I didn't use nuts, but I wish I had. Toasted walnuts or pecans would make the texture and flavor even better, not that it needed it.
+A deliciously sweet bread. This was so good that we devoured all three loaves. 5/5.
 
 ## Ingredients and directions
 
