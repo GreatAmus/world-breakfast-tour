@@ -1,10 +1,11 @@
 ---
 country: "Cameroon"
-dish: "Koki beans with plantains and pepper sauce"
+dish: "Koki (steamed bean cake with plantains and pepper sauce)"
 date: 2026-10-21
 rating: 1.7
-serves: "6"
-time: "About 3 hours, plus soaking the peas"
+ratingNote: "It tasted like a cake made out of beans"
+serves: "6 (1 koki parcel and half a plantain each)"
+time: "About 3 hours, plus soaking the peas 2–4 hours ahead"
 flag: cm
 images:
   - /images/cameroon.jpg
@@ -26,14 +27,11 @@ I did not like this dish. The fact that this turned into a pseudo-bread dish was
 
 The hot sauce made it edible, but even that wasn't very tasty. The flavors didn't blend well, and the hot sauce didn't actually taste great on top of a cake texture. My guess is the fried dough would have been about like makara and gotten a similar score.
 
-## Rating
 
-1.7/5
+## Koki (steamed bean cake with plantains and pepper sauce)
 
-## Koki beans with plantains and pepper sauce
-
-- Serves: 6
-- Time: About 3 hours, plus soaking the peas
+- Serves: 6 (1 koki parcel and half a plantain each)
+- Time: About 3 hours, plus soaking the peas 2–4 hours ahead
 
 ## Ingredients and directions
 
@@ -53,6 +51,8 @@ The hot sauce made it edible, but even that wasn't very tasty. The flavors didn'
 - ½ tsp fine salt, plus more to taste
 - ½ cup warm water, as needed
 - Heavy-duty aluminum foil
+
+> **Know before you start:** Soak the peas for 2–4 hours first, and plan on 75–90 minutes of steaming.
 
 ### Directions
 

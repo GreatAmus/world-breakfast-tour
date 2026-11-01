@@ -1,9 +1,10 @@
 ---
 country: "Belarus"
-dish: "Draniki"
+dish: "Draniki (potato pancakes)"
 date: 2026-08-16
 rating: 4.5
-serves: "4 (about 10 pancakes)"
+ratingNote: "A huge step up over basic potato pancakes"
+serves: "4 (about 3 pancakes each)"
 time: "About 40 minutes"
 flag: by
 images:
@@ -22,13 +23,10 @@ Draniki are hash brown pancakes and the national dish of Belarus. They're made f
 
 I've made potato pancakes before, but these were a huge step up over the basic versions I've made. The potatoes browned nicely all the way through. Usually, I make these with just salt, pepper, and garlic. Using sour cream and other spices gave them a distinct flavor that was substantially better than plain hash browns. I also love eggs, and the runny yolk covering the potato pancake added a lot of deliciousness. The kids and my wife don't like eggs, but they did like the potato pancakes. The spices were perfect for them, and the pancakes had a good hash brown feel: soft on the inside and crispy on the outside.
 
-## Rating
 
-4.5/5
+## Draniki (potato pancakes)
 
-## Draniki
-
-- Serves: 4 (about 10 pancakes)
+- Serves: 4 (about 3 pancakes each)
 - Time: About 40 minutes
 
 ## Ingredients and directions

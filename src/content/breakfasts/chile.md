@@ -1,10 +1,11 @@
 ---
 country: "Chile"
-dish: "Marraquetas with palta"
-date: 2026-11-01
+dish: "Marraquetas con palta (crusty rolls with mashed avocado)"
+date: 2026-10-31
 rating: 4.5
-serves: "4 (4 marraquetas)"
-time: "About 2 hours, plus an overnight rest in the fridge"
+ratingNote: "The family loved it more than I did"
+serves: "4 (1 marraqueta each)"
+time: "About 2 hours, plus making the dough the night before"
 flag: cl
 images:
   - /images/chile.jpg
@@ -24,14 +25,11 @@ This recipe made a nice crunchy bread, one that could have been sold in any bake
 
 Overall, this recipe was basic avocado bread. Since my wife and kids love avocado bread, the recipe scored very high with them. I don't love avocado bread and found this recipe too basic. After all, the topping is just smashed avocado with a few basic add-ins. The lack of uniqueness meant the recipe didn't remind me of going to Chile. I'd make it again just because the family liked it so much, but I'd rather eat something more exciting.
 
-## Rating
 
-4.5/5
+## Marraquetas con palta (crusty rolls with mashed avocado)
 
-## Marraquetas with palta
-
-- Serves: 4 (4 marraquetas)
-- Time: About 2 hours, plus an overnight rest in the fridge
+- Serves: 4 (1 marraqueta each)
+- Time: About 2 hours, plus making the dough the night before
 
 ## Ingredients and directions
 
@@ -45,6 +43,8 @@ Overall, this recipe was basic avocado bread. Since my wife and kids love avocad
 - 2 g instant yeast
 - Rice flour, for the cloth
 - Neutral oil, for the spoon handle
+
+> **Know before you start:** The dough rests in the fridge for 12–16 hours, so start it the night before. You'll need a baking stone and a metal pan for steam.
 
 ### Directions
 

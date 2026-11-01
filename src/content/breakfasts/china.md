@@ -1,11 +1,11 @@
 ---
 country: "China"
-dish: "Chicken and mushroom congee with youtiao"
+dish: "Congee and youtiao (chicken and mushroom rice porridge with fried dough sticks)"
 date: 2026-11-01
 rating: 4.3
-serves: "6"
-time: "About 1¼ hours, plus freezing the rice and resting the dough overnight"
-ratingNote: "I gave it a 5. Everyone else thought it was meh."
+serves: "6 (about 1½ cups of congee and 1 youtiao each)"
+time: "About 1¼ hours, plus freezing the rice and making the dough the night before"
+ratingNote: "I gave it a 5.0. Everyone else thought it was meh."
 flag: cn
 images:
   - /images/china.jpg
@@ -27,14 +27,11 @@ Unfortunately, I was alone in my rave review. My wife said it was the best conge
 
 It also didn't help that I messed up the fry bread. I forgot to pull the dough out of the fridge early enough, so the fry bread didn't puff up as much as it should have when deep fried. The bread was still delicious enough to capture the spirit of the recipe, but real fry bread in China is very light and airy.
 
-## Rating
 
-4.3/5
+## Congee and youtiao (chicken and mushroom rice porridge with fried dough sticks)
 
-## Chicken and mushroom congee with youtiao
-
-- Serves: 6
-- Time: About 1¼ hours, plus freezing the rice and resting the dough overnight
+- Serves: 6 (about 1½ cups of congee and 1 youtiao each)
+- Time: About 1¼ hours, plus freezing the rice and making the dough the night before
 
 ## Ingredients and directions
 
@@ -53,6 +50,8 @@ It also didn't help that I messed up the fry bread. I forgot to pull the dough o
 - ½ tsp ground white pepper
 - Salt, to taste
 - Sliced scallions, cilantro, chili oil, and toasted sesame seeds, for topping
+
+> **Know before you start:** Freeze the rice for at least 2 hours, or overnight.
 
 ### Directions
 
@@ -74,6 +73,8 @@ It also didn't help that I messed up the fry bread. I forgot to pull the dough o
 - ½ cup warm water
 - 1 tbsp milk or neutral oil
 - Neutral oil, for frying (peanut, canola, or vegetable)
+
+> **Know before you start:** Make the dough the night before, and take it out of the fridge 1 hour before frying. If the dough is still cold, the youtiao won't puff up.
 
 ### Directions
 

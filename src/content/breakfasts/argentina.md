@@ -1,10 +1,11 @@
 ---
 country: "Argentina"
-dish: "Medialunas de manteca"
+dish: "Medialunas de manteca (butter croissants)"
 date: 2026-07-12
 rating: 4.5
-serves: "8 (about 16 rolls)"
-time: "About 4½ hours, plus an overnight rest"
+ratingNote: "Soft, sweet, and more bready than croissants"
+serves: "8 (2 rolls each)"
+time: "About 4½ hours, plus 1 hour of prep the night before"
 flag: ar
 images:
   - /images/argentina.jpg
@@ -22,14 +23,11 @@ Medialunas, or "half moons," are Argentina's version of a croissant. They're the
 
 These are soft, sweet, laminated rolls that are more bready than croissants. If you want them flakier, do more folds than I did.
 
-## Rating
 
-4.5/5
+## Medialunas de manteca (butter croissants)
 
-## Medialunas de manteca
-
-- Serves: 8 (about 16 rolls)
-- Time: About 4½ hours, plus an overnight rest
+- Serves: 8 (2 rolls each)
+- Time: About 4½ hours, plus 1 hour of prep the night before
 
 ## Ingredients and directions
 
@@ -61,6 +59,8 @@ These are soft, sweet, laminated rolls that are more bready than croissants. If 
 #### To serve
 
 - Dulce de leche (optional)
+
+> **Know before you start:** The dough rests in the fridge overnight, and the folding and rising take most of a morning. Keep the butter cold the whole time, or the layers won't form.
 
 ### Directions
 

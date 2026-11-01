@@ -1,10 +1,11 @@
 ---
 country: "Country name"
-dish: "Name of the dish"
+dish: "Local name (English description)"
 date: 2026-11-01
 rating: 4.0
-serves: "4"
-time: "About 1 hour"
+serves: "4 (about 5 pieces each)"
+time: "About 1 hour, plus [prep] the night before"
+ratingNote: "A one-line takeaway from the review"
 flag: xx
 images:
   - /images/country-name.jpg
@@ -22,14 +23,10 @@ What the dish is, why it's a favorite in that country, and what to expect when y
 
 Our review: taste, texture, what the family thought, and whether I'd make it again.
 
-## Rating
+## Local name (English description)
 
-4/5
-
-## Name of the dish
-
-- Serves: 4
-- Time: About 1 hour
+- Serves: 4 (about 5 pieces each)
+- Time: About 1 hour, plus [prep] the night before
 
 <!-- Keep these two lines matching the serves and time fields at the top. The top ones show next to the score. -->
 
@@ -44,9 +41,11 @@ Our review: taste, texture, what the family thought, and whether I'd make it aga
 - 2 cups flour
 - ½ tsp salt
 
+> **Know before you start:** Only if needed. Anything to do ahead or watch out for.
+
 ### Directions
 
 1. First step.
 2. Second step.
 
-Note: Optional tips or swaps go here, at the end of the part they belong to.
+Note: Changes I would make next time, or optional swaps, at the end of the part they belong to. The recipe itself is what I actually made.

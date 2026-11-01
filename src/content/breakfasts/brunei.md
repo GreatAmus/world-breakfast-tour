@@ -1,11 +1,11 @@
 ---
 country: "Brunei"
-dish: "Nasi katok"
+dish: "Nasi katok (fried chicken with rice and sambal)"
 date: 2026-09-26
 rating: 4.2
-serves: "4"
-time: "About 1½ hours, plus brining the chicken overnight"
-ratingNote: "Two 5s, and two who didn’t like it"
+serves: "4 (1 piece of chicken and about 1 cup of rice each)"
+time: "About 1½ hours, plus brining the chicken the night before"
+ratingNote: "Two of us loved it, and two didn’t"
 flag: bn
 images:
   - /images/brunei.jpg
@@ -21,16 +21,13 @@ Nasi katok is a Bruneian comfort food of steamed rice with fried chicken and a s
 
 ## Review
 
-I am a sucker for fried chicken, and this was a good one. Fried chicken, especially spicy fried chicken, is almost an automatic 5/5 for me as long as it's crisp, seasoned, and not greasy. Two of us loved it (5/5), while two turned out not to like dark meat or thought it was too spicy.
+I am a sucker for fried chicken, and this was a good one. Fried chicken, especially spicy fried chicken, is almost an automatic 5.0/5 for me as long as it's crisp, seasoned, and not greasy. Two of us loved it (5.0/5), while two turned out not to like dark meat or thought it was too spicy.
 
-## Rating
 
-4.2/5
+## Nasi katok (fried chicken with rice and sambal)
 
-## Nasi katok
-
-- Serves: 4
-- Time: About 1½ hours, plus brining the chicken overnight
+- Serves: 4 (1 piece of chicken and about 1 cup of rice each)
+- Time: About 1½ hours, plus brining the chicken the night before
 
 ## Ingredients and directions
 
@@ -62,6 +59,8 @@ I am a sucker for fried chicken, and this was a good one. Fried chicken, especia
 - ½ tsp salt
 - ½ tsp garlic powder
 - ½ tsp black pepper
+
+> **Know before you start:** The chicken dry-brines in the fridge overnight, so start it the night before.
 
 ### Directions
 

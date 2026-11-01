@@ -1,9 +1,10 @@
 ---
 country: "Australia"
-dish: "Pikelets"
+dish: "Pikelets (small pancakes)"
 date: 2026-07-12
 rating: 4.7
-serves: "4 (about 20 pikelets)"
+ratingNote: "Everyone loves pancakes"
+serves: "4 (about 5 pikelets each)"
 time: "About 30 minutes"
 flag: au
 images:
@@ -20,15 +21,11 @@ Pikelets are small, thick pancakes and a classic Australian treat for breakfast 
 
 ## Review
 
-There might be more iconic Australian dishes, but you can't have a child under 10 and not make these. Everyone loves pancakes.
+Pancakes! Everyone loves pancakes, especially when they're called pikelets. Bluey made these a must-have when we did Australia. The batter was a nice basic version, and the whipped cream and jam were great on top. The kids were happy to have something familiar again for breakfast. The pancakes themselves had a great texture and were very light.
 
-## Rating
+## Pikelets (small pancakes)
 
-4.7/5
-
-## Pikelets
-
-- Serves: 4 (about 20 pikelets)
+- Serves: 4 (about 5 pikelets each)
 - Time: About 30 minutes
 
 ## Ingredients and directions

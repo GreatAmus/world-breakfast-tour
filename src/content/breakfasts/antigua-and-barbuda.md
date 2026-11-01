@@ -3,7 +3,8 @@ country: "Antigua and Barbuda"
 dish: "Banana fritters with coconut-lime sauce"
 date: 2026-07-10
 rating: 4.0
-serves: "4 (about 16 fritters)"
+ratingNote: "The kids went high while I stayed about average"
+serves: "4 (about 4 fritters each)"
 time: "About 30 minutes"
 flag: ag
 images:
@@ -20,15 +21,11 @@ Banana fritters are a common Caribbean breakfast and snack. They're popular beca
 
 ## Review
 
-The flavor was excellent, but I think they needed a bit more flour and baking powder, though. I adjusted the recipe based on what I would do if I made them again.
-
-## Rating
-
-4/5
+Two fried doughs in a week. I tried this recipe twice to get the dough to come out better. Unlike Angola, which had the bananas on top of the fried dough, this dough itself was made with bananas. This gave the recipe a chewy texture and a baked-in banana flavor. The dipping sauce was the best part, as it combined lime with sugar, which is always a favorite. I did not love these, but the kids thought they were tasty, which is why it averaged a 4.0. The kids went high while I stayed about average.
 
 ## Banana fritters with coconut-lime sauce
 
-- Serves: 4 (about 16 fritters)
+- Serves: 4 (about 4 fritters each)
 - Time: About 30 minutes
 
 ## Ingredients and directions

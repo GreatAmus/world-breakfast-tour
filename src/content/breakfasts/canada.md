@@ -3,8 +3,9 @@ country: "Canada"
 dish: "Peameal bacon, pancakes, and home fries"
 date: 2026-10-24
 rating: 4.8
-serves: "6"
-time: "About 1 hour, plus brining the bacon 4–5 days"
+ratingNote: "One of the family’s favorites"
+serves: "6 (2 pancakes, 2 slices of bacon, and about 1 cup of potatoes each)"
+time: "About 1 hour, plus brining the bacon 4–5 days ahead"
 flag: ca
 images:
   - /images/canada.jpg
@@ -24,14 +25,11 @@ We served it with thick sour cream buttermilk pancakes, maple syrup, and home fr
 
 My pancake recipe is already dynamite, as are my home fries. The peameal bacon added a nice, slightly salty side. The family said this was one of their favorites. The only reason it didn't get a 5 is that the flavors were what we expected and nothing stood out as a surprise. We knew what we were getting, and the food delivered as promised.
 
-## Rating
-
-4.8/5
 
 ## Peameal bacon, pancakes, and home fries
 
-- Serves: 6
-- Time: About 1 hour, plus brining the bacon 4–5 days
+- Serves: 6 (2 pancakes, 2 slices of bacon, and about 1 cup of potatoes each)
+- Time: About 1 hour, plus brining the bacon 4–5 days ahead
 
 ## Ingredients and directions
 
@@ -51,6 +49,8 @@ My pancake recipe is already dynamite, as are my home fries. The peameal bacon a
 - 3–4 lb boneless center-cut pork loin
 - Coarse yellow cornmeal, for coating
 - Oil, for frying
+
+> **Know before you start:** The bacon brines for 4–5 days, plus a night uncovered in the fridge, so start it about a week ahead. You'll need pink curing salt #1 (Prague Powder #1).
 
 ### Directions
 

@@ -1,9 +1,10 @@
 ---
 country: "Burkina Faso"
-dish: "Dégué"
+dish: "Dégué (millet yogurt pudding)"
 date: 2026-09-26
 rating: 4.0
-serves: "4"
+ratingNote: "My picky eater’s highest rating yet"
+serves: "4 (about 1½ cups each)"
 time: "About 45 minutes"
 flag: bf
 images:
@@ -22,13 +23,10 @@ Dégué is made from steamed millet combined with yogurt and condensed milk. Str
 
 I thought for sure I would hate this dish, as I tend to dislike porridge dishes, especially when served with fresh fruit. This was good. Dégué was a refreshingly sweet breakfast that reminded me of rice pudding or a parfait. The dish took a few bites to grow on me, but I would make this one again considering how good and easy it was. Interestingly, people swapped places, with my wife not liking the dish and my picky eater giving it a 4.5 (her highest rating yet).
 
-## Rating
 
-4/5
+## Dégué (millet yogurt pudding)
 
-## Dégué
-
-- Serves: 4
+- Serves: 4 (about 1½ cups each)
 - Time: About 45 minutes
 
 ## Ingredients and directions

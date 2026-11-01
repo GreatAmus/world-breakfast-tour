@@ -1,11 +1,11 @@
 ---
 country: "Burundi"
-dish: "Ibiharage n’ibitoke"
+dish: "Ibiharage n’ibitoke (beans and plantains)"
 date: 2026-10-14
 rating: 4.2
-serves: "4"
+serves: "4 (about 1½ cups each)"
 time: "About 45 minutes"
-ratingNote: "Our daughter gave it 4.5"
+ratingNote: "Our daughter gave it a 4.5/5"
 flag: bi
 images:
   - /images/burundi.jpg
@@ -23,13 +23,10 @@ Ibiharage n'ibitoke is a traditional Burundian dish combining beans (ibiharage) 
 
 How delicious this dish was came as a huge surprise for me, as I typically do not like African food. The beans and plantains were really good together. I shouldn't have been surprised, because the mix of sweet and salty usually ends up rating pretty high. This dish was also a massive hit with my daughter, who went back for seconds. She gave it a 4.5/5, which I think makes this her second favorite dish! Personally, I thought the dish was more middle of the road than the rest of the family did, but my one lower rating was trumped by the three higher ratings. For me, the negative was the texture. The flavor was good if you ate all of the components together, but the texture was mushy.
 
-## Rating
 
-4.2/5
+## Ibiharage n’ibitoke (beans and plantains)
 
-## Ibiharage n’ibitoke
-
-- Serves: 4
+- Serves: 4 (about 1½ cups each)
 - Time: About 45 minutes
 
 ## Ingredients and directions

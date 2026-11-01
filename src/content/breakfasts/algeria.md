@@ -1,9 +1,10 @@
 ---
 country: "Algeria"
-dish: "Msemen"
+dish: "Msemen (layered square flatbread)"
 date: 2026-06-27
 rating: 3.0
-serves: "4 (8 flatbreads)"
+ratingNote: "Good as a base, but it needs a topping"
+serves: "4 (2 flatbreads each)"
 time: "About 1½ hours"
 flag: dz
 images:
@@ -22,13 +23,10 @@ Msemen is a square, flaky flatbread made with semolina and flour. You stretch th
 
 This was good as a base but needs a topping to make it delicious. It had a nice crunch on the outside, but it was plain on its own, and the honey was necessary. It would have been better if I'd cooked it in butter. Less healthy, though. Adding sharp cheddar cheese on top made it super good.
 
-## Rating
 
-3/5
+## Msemen (layered square flatbread)
 
-## Msemen
-
-- Serves: 4 (8 flatbreads)
+- Serves: 4 (2 flatbreads each)
 - Time: About 1½ hours
 
 ## Ingredients and directions

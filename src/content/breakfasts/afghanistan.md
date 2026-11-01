@@ -1,11 +1,11 @@
 ---
 country: "Afghanistan"
-dish: "Bolani"
+dish: "Bolani (stuffed flatbread)"
 date: 2026-06-21
 rating: 2.5
-serves: "3 (6 bolani)"
+serves: "3 (2 bolani each)"
 time: "About 1½ hours"
-ratingNote: "Adults 3/5, kids 2/5"
+ratingNote: "Adults 3.0/5, kids 2.0/5"
 flag: af
 images:
   - /images/afghanistan.jpg
@@ -21,15 +21,12 @@ Bolani are thin flatbreads stuffed with a filling, usually potato, leeks, or pum
 
 ## Review
 
-These were pretty bland. They just didn't have much flavor. They may have been better fried, since I made them in the air fryer to avoid eating so much fried dough. Hot sauce made a big difference. It brought the flavor from a 3 to a 4 for me. Adults gave it a 3/5 overall. Kids gave it a 2/5 and still didn't like it, even with hot sauce.
+These were pretty bland. They just didn't have much flavor. They may have been better fried, since I made them in the air fryer to avoid eating so much fried dough. Hot sauce made a big difference. It brought the flavor from a 3 to a 4 for me. Adults gave it a 3.0/5 overall. Kids gave it a 2.0/5 and still didn't like it, even with hot sauce.
 
-## Rating
 
-2.5/5
+## Bolani (stuffed flatbread)
 
-## Bolani
-
-- Serves: 3 (6 bolani)
+- Serves: 3 (2 bolani each)
 - Time: About 1½ hours
 
 ## Ingredients and directions

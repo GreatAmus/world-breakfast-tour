@@ -1,11 +1,11 @@
 ---
 country: "Bahrain"
-dish: "Balaleet"
+dish: "Balaleet (sweet saffron noodles with eggs)"
 date: 2026-08-02
 rating: 4.2
-serves: "4"
+serves: "4 (about 1 cup each)"
 time: "About 40 minutes"
-ratingNote: "4.2 without rose water, 2.5 with it"
+ratingNote: "4.2/5 without rose water, 2.5/5 with it"
 flag: bh
 images:
   - /images/bahrain.jpg
@@ -23,13 +23,10 @@ Balaleet is a sweet noodle dish topped with eggs. The noodles are cooked with su
 
 This dish is very easy to make and very good, provided you don't include the rose water. The rose water is traditional, but I do not like floral tastes in my food. I'd give it a 4.2/5 without the rose water but a 2.5/5 with it. Not a bad meal to make when you want something fast and different.
 
-## Rating
 
-4.2/5
+## Balaleet (sweet saffron noodles with eggs)
 
-## Balaleet
-
-- Serves: 4
+- Serves: 4 (about 1 cup each)
 - Time: About 40 minutes
 
 ## Ingredients and directions

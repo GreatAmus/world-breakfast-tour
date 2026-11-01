@@ -1,9 +1,10 @@
 ---
 country: "Angola"
-dish: "Filhós"
+dish: "Filhós (fried dough fritters)"
 date: 2026-07-06
 rating: 4.0
-serves: "4 (about 20 fritters)"
+ratingNote: "Good, but not nearly as good as Albania’s"
+serves: "4 (about 5 fritters each)"
 time: "About 1 hour"
 flag: ao
 images:
@@ -20,15 +21,11 @@ Filhós are light, crispy fried dough fritters. They came from Portugal and are 
 
 ## Review
 
-These ones have a distinctly Central African flavor with the banana and coconut.
+I think we might be getting tired of fried dough already. Did I mention that an estimated 50% of countries eat fried dough? I've added variation whenever possible, even if it strays away from the country's most renowned dish, because I don't want to eat that much fried dough. The dish itself was created with a banana and coconut flavor. We all liked them, but the dough and toppings weren't nearly as good as Albania's. I think these would have been better with a stronger coconut flavor. The balls of dough did cook up nicely, and we liked the texture. The ratings were consistent across the family. We thought they were good, but we'd generally rather make another dish over this one.
 
-## Rating
+## Filhós (fried dough fritters)
 
-4/5
-
-## Filhós
-
-- Serves: 4 (about 20 fritters)
+- Serves: 4 (about 5 fritters each)
 - Time: About 1 hour
 
 ## Ingredients and directions

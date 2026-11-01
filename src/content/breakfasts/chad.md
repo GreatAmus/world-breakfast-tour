@@ -3,7 +3,8 @@ country: "Chad"
 dish: "Bouillie de mil (millet porridge with peanuts)"
 date: 2026-10-25
 rating: 2.7
-serves: "4 small bowls"
+ratingNote: "Good flavor, but the texture was not our favorite"
+serves: "4 (about 1 cup each)"
 time: "About 50 minutes"
 flag: td
 images:
@@ -22,13 +23,10 @@ La bouillie de mil is a warm millet porridge flavored with peanuts, butter, and 
 
 We actually thought the flavor ended up being very good with milk and sugar added. However, millet turns into a paste, and the texture was not our favorite. The overall result was a more glue-like version of peanut butter flavored cream of wheat. I don't like porridge or peanut butter, which hurt this recipe's rating a lot. If you do like that type of food, this recipe might be one you like.
 
-## Rating
-
-2.7/5
 
 ## Bouillie de mil (millet porridge with peanuts)
 
-- Serves: 4 small bowls
+- Serves: 4 (about 1 cup each)
 - Time: About 50 minutes
 
 ## Ingredients and directions

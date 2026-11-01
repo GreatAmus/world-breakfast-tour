@@ -1,9 +1,10 @@
 ---
 country: "Bhutan"
-dish: "Ema datshi with khur-le"
+dish: "Ema datshi with khur-le (chili cheese eggs with buckwheat crepes)"
 date: 2026-09-05
 rating: 3.0
-serves: "2–3"
+ratingNote: "Good one-time experience"
+serves: "3 (2 crepes and about 1 cup of eggs each)"
 time: "About 40 minutes"
 flag: bt
 images:
@@ -20,15 +21,12 @@ Ema datshi is chilies cooked in cheese, and it's the national dish of Bhutan. Bh
 
 ## Review
 
-I quite enjoyed the combination. The savory pancakes were great when paired with the spicy chilies. I ended up giving it a 3/5 just because it wasn't something I'd make again. Good one-time experience, but not good enough for me to make for the family on a regular basis.
+I quite enjoyed the combination. The savory pancakes were great when paired with the spicy chilies. I ended up giving it a 3.0/5 just because it wasn't something I'd make again. Good one-time experience, but not good enough for me to make for the family on a regular basis.
 
-## Rating
 
-3/5
+## Ema datshi with khur-le (chili cheese eggs with buckwheat crepes)
 
-## Ema datshi with khur-le
-
-- Serves: 2–3
+- Serves: 3 (2 crepes and about 1 cup of eggs each)
 - Time: About 40 minutes
 
 ## Ingredients and directions

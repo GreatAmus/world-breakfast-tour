@@ -349,3 +349,8 @@ html { scroll-behavior: smooth; }
 .meta-label { font-family: var(--display); font-weight: 700; margin-right: 0.35rem; }
 .jump { margin-left: auto; }
 @media (max-width: 600px) { .jump { margin-left: 0; } }
+
+/* "Know before you start" callout, between a recipe's ingredients and directions */
+.prose blockquote { margin: 1.25rem 0 1.5rem; padding: 0.9rem 1.1rem; background: var(--surface); border-left: 5px solid var(--yolk); border-radius: 6px; }
+.prose blockquote p { margin: 0; }
+.prose blockquote strong { font-family: var(--display); }

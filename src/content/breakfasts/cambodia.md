@@ -1,10 +1,11 @@
 ---
 country: "Cambodia"
-dish: "Bai sach chrouk"
+dish: "Bai sach chrouk (grilled pork and rice)"
 date: 2026-10-18
 rating: 3.2
-serves: "6"
-time: "About 1 hour, plus marinating the pork overnight"
+ratingNote: "Fresh and easy, but bland"
+serves: "6 (about 1 cup of rice and ⅓ lb of pork each)"
+time: "About 1 hour, plus marinating the pork the night before"
 flag: kh
 images:
   - /images/cambodia.jpg
@@ -22,14 +23,11 @@ Bai sach chrouk translates roughly to "pork and rice" in Khmer. This dish is one
 
 I liked how easy this dish was to make and how fresh it felt, with several different vegetables. It feels like a complete meal, unlike many other breakfasts that are heavy on bread. However, the dish itself is bland compared to other BBQ meat recipes, and the flavors don't stand out. If I were going to revise this recipe further, I'd increase the salt in the marinade and pickle the vegetables overnight to get a real sour and sweet flavor. The dish was good but needed an additional flavor kick to make it great. The lack of a distinct "WOW" factor made it something I wouldn't cook often. The family was consistent on this one.
 
-## Rating
 
-3.2/5
+## Bai sach chrouk (grilled pork and rice)
 
-## Bai sach chrouk
-
-- Serves: 6
-- Time: About 1 hour, plus marinating the pork overnight
+- Serves: 6 (about 1 cup of rice and ⅓ lb of pork each)
+- Time: About 1 hour, plus marinating the pork the night before
 
 ## Ingredients and directions
 
@@ -57,6 +55,8 @@ I liked how easy this dish was to make and how fresh it felt, with several diffe
 - ¼ cup water
 - 2 tsp minced garlic
 
+> **Know before you start:** The pork marinates overnight, so start it the night before.
+
 ### Directions
 
 1. The night before, slice the pork against the grain into ¼-inch-thick pieces.
@@ -81,6 +81,8 @@ I liked how easy this dish was to make and how fresh it felt, with several diffe
 - 1 tsp salt
 - 1 tsp minced garlic
 - 1 small Thai chili, thinly sliced (optional)
+
+> **Know before you start:** These taste best made the night before.
 
 ### Directions
 

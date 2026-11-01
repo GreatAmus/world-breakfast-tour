@@ -1,10 +1,10 @@
 ---
 country: "Bulgaria"
-dish: "Banitsa"
+dish: "Banitsa (cheese pastry)"
 date: 2026-09-26
 rating: 4.1
-serves: "6"
-time: "About 1 hour"
+serves: "6 (1 slice each)"
+time: "About 1 hour, plus thawing the phyllo the night before"
 ratingNote: "Adults rated it higher than the kids"
 flag: bg
 images:
@@ -23,14 +23,11 @@ Banitsa is a traditional Bulgarian pastry made from thin, flaky sheets of dough 
 
 I've actually had this dish from bakeries before. The outside came out crisp and the inside soft, tangy, and cheesy. Surprisingly easy to make and quick to assemble, banitsa is great for mornings when you don't have a lot of time. Once again, the adults rated it much higher than the kids.
 
-## Rating
 
-4.1/5
+## Banitsa (cheese pastry)
 
-## Banitsa
-
-- Serves: 6
-- Time: About 1 hour
+- Serves: 6 (1 slice each)
+- Time: About 1 hour, plus thawing the phyllo the night before
 
 ## Ingredients and directions
 
@@ -43,6 +40,8 @@ I've actually had this dish from bakeries before. The outside came out crisp and
 - 2 tbsp sparkling water
 - ½ tsp salt (omit if using sirene instead of feta)
 - ½ cup unsalted butter, melted
+
+> **Know before you start:** Thaw the phyllo in the fridge overnight. Frozen phyllo cracks when you roll it.
 
 ### Directions
 

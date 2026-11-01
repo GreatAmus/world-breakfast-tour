@@ -1,9 +1,10 @@
 ---
 country: "Austria"
-dish: "Kaiserschmarrn with stewed plums"
+dish: "Kaiserschmarrn mit Zwetschgenröster (torn pancakes with stewed plums)"
 date: 2026-07-20
 rating: 4.5
-serves: "3–4"
+ratingNote: "Like an angel food cake and a German pancake had a baby"
+serves: "4 (about 1 cup each)"
 time: "About 45 minutes"
 flag: at
 images:
@@ -22,13 +23,10 @@ Kaiserschmarrn, or "the emperor's mess," is a thick, fluffy pancake that gets to
 
 The torn pancakes have a taste and texture like an angel food cake and a German pancake had a baby. The sour plum sauce perfectly counters the sweetness of the pancakes.
 
-## Rating
 
-4.5/5
+## Kaiserschmarrn mit Zwetschgenröster (torn pancakes with stewed plums)
 
-## Kaiserschmarrn with stewed plums
-
-- Serves: 3–4
+- Serves: 4 (about 1 cup each)
 - Time: About 45 minutes
 
 ## Ingredients and directions

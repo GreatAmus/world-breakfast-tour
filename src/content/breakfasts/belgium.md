@@ -1,10 +1,11 @@
 ---
 country: "Belgium"
-dish: "Liège waffles"
+dish: "Gaufres de Liège (Liège waffles)"
 date: 2026-08-23
 rating: 4.2
-serves: "6 (12 waffles)"
-time: "About 1½ hours, plus an overnight rise and 2–3 hours to warm the dough"
+ratingNote: "Reminded me of being in Belgium again"
+serves: "6 (2 waffles each)"
+time: "About 4 hours, plus making the dough the night before"
 flag: be
 images:
   - /images/belgium.jpg
@@ -22,14 +23,11 @@ Liège waffles are made from a yeasted, brioche-like dough with chunks of pearl 
 
 Extremely tasty, and they reminded me of being in Belgium again. I really like the pearl sugar and the crunch it gives. Why the lower rating? A lot of people liked the lighter waffle you get in the US more than this waffle. I froze the rest and plan on bringing them out for dessert with a scoop of ice cream on top.
 
-## Rating
 
-4.2/5
+## Gaufres de Liège (Liège waffles)
 
-## Liège waffles
-
-- Serves: 6 (12 waffles)
-- Time: About 1½ hours, plus an overnight rise and 2–3 hours to warm the dough
+- Serves: 6 (2 waffles each)
+- Time: About 4 hours, plus making the dough the night before
 
 ## Ingredients and directions
 
@@ -48,6 +46,8 @@ Extremely tasty, and they reminded me of being in Belgium again. I really like t
 - 1 tsp salt
 - 2 cups Belgian pearl sugar, divided (1½ cups and ½ cup)
 - Strawberries, blueberries, and whipped cream, to serve
+
+> **Know before you start:** The dough rises, then rests in the fridge overnight. Take it out 2–3 hours before cooking so it can warm up. You'll need Belgian pearl sugar, which most grocery stores don't carry.
 
 ### Directions
 

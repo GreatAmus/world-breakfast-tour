@@ -1,9 +1,9 @@
 ---
 country: "Brazil"
-dish: "Pão de queijo"
+dish: "Pão de queijo (cheese bread)"
 date: 2026-09-05
 rating: 4.7
-serves: "6 (about 24 rolls)"
+serves: "6 (about 4 rolls each)"
 time: "About 1¼ hours"
 ratingNote: "My wife’s favorite"
 flag: br
@@ -21,15 +21,12 @@ Pão de queijo is a cheese bread made with tapioca flour, so it's naturally glut
 
 ## Review
 
-They're easy to make and always a hit. They come out deliciously chewy. I don't love them myself, but they're my wife's absolute favorite. She gives this one a 5/5. I'd say 4/5, mostly because pão de queijo isn't very interesting to make.
+They're easy to make and always a hit. They come out deliciously chewy. I don't love them myself, but they're my wife's absolute favorite. She gives this one a 5.0/5. I'd say 4.0/5, mostly because pão de queijo isn't very interesting to make.
 
-## Rating
 
-4.7/5
+## Pão de queijo (cheese bread)
 
-## Pão de queijo
-
-- Serves: 6 (about 24 rolls)
+- Serves: 6 (about 4 rolls each)
 - Time: About 1¼ hours
 
 ## Ingredients and directions
@@ -47,6 +44,8 @@ They're easy to make and always a hit. They come out deliciously chewy. I don't 
 - ½ cup shredded sharp cheddar
 - ½ cup grated parmesan
 
+> **Know before you start:** Don't use pre-shredded cheese. It's coated in potato starch to prevent sticking, which ruins the texture.
+
 ### Directions
 
 1. In a saucepan, combine the milk, water, oil, butter, and salt. Bring to a gentle rolling boil over medium-high heat.
@@ -58,5 +57,3 @@ They're easy to make and always a hit. They come out deliciously chewy. I don't 
 7. Preheat the oven to 375°F.
 8. With wet hands (to prevent sticking), roll the dough into golf-ball-sized spheres. Space them 1 inch apart on a parchment-lined baking sheet.
 9. Bake for 20 minutes, until they puff up dramatically and develop golden cheese freckles on top.
-
-Note: Don't use pre-shredded cheese. It's coated in potato starch to prevent sticking, which ruins the texture.

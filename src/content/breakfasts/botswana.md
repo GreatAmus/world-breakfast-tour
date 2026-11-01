@@ -1,9 +1,10 @@
 ---
 country: "Botswana"
-dish: "Bogobe with egg and relish"
+dish: "Bogobe (porridge with egg and tomato relish)"
 date: 2026-09-05
 rating: 1.5
-serves: "4"
+ratingNote: "No one thought it was good"
+serves: "4 (about 1½ cups of porridge and 1 egg each)"
 time: "About 1 hour"
 flag: bw
 images:
@@ -22,13 +23,10 @@ Bogobe is a thick porridge made from sorghum or cornmeal, and it's the basic eve
 
 This dish was just bland. Porridges are not my favorite, and this did not change my mind. I usually really like butternut squash, but it did not complement the masa harina. Similarly, the sourness of the Greek yogurt did not really mix with the sweetness of the butternut squash. The flavors of the relish never mixed either, and it tasted like chopped onion and tomatoes dumped on eggs. The kids did not like it either. Without the egg, it's basically just a wet corn mix covered with squash. No one thought it was good, so we tossed it and ate something else.
 
-## Rating
 
-1.5/5
+## Bogobe (porridge with egg and tomato relish)
 
-## Bogobe with egg and relish
-
-- Serves: 4
+- Serves: 4 (about 1½ cups of porridge and 1 egg each)
 - Time: About 1 hour
 
 ## Ingredients and directions

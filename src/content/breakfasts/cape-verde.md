@@ -1,10 +1,10 @@
 ---
 country: "Cape Verde"
-dish: "Cachupa refogada"
+dish: "Cachupa refogada (fried corn and bean stew)"
 date: 2026-10-14
 rating: 3.1
-serves: "6"
-time: "About 1 hour the day before, plus 30 minutes in the morning"
+serves: "6 (about 1 cup each)"
+time: "About 30 minutes, plus making the cachupa the day before"
 ratingNote: "Biggest family split so far: I loved it, everyone else didn’t"
 flag: cv
 images:
@@ -23,14 +23,11 @@ Cape Verde is our first "C" country! The country's national dish is cachupa, a h
 
 I loved this dish. I would give it one of my highest ratings and actually ate it for several days after making it. The taste was a perfect combination of flavors. You had the smooth boiled-then-fried cabbage, the hominy giving it more flavor, and the salty meat adding a kick. The dish was unique and one that grew on me more over time. The one part I would skip next time is the egg. The dish was good enough that the egg did not make it more interesting. The flavors and textures were unique enough that an egg on top didn't add value. My kids and wife hated this dish, which is why the overall rating is so low. They did not like the sausage and egg combination. They also hated that it started as a soup and was fried afterward. This takes the lead for the biggest division on a dish, with scores all over the place. I would make it again just for myself.
 
-## Rating
 
-3.1/5
+## Cachupa refogada (fried corn and bean stew)
 
-## Cachupa refogada
-
-- Serves: 6
-- Time: About 1 hour the day before, plus 30 minutes in the morning
+- Serves: 6 (about 1 cup each)
+- Time: About 30 minutes, plus making the cachupa the day before
 
 ## Ingredients and directions
 
@@ -52,6 +49,8 @@ I loved this dish. I would give it one of my highest ratings and actually ate it
 - 4 cups chicken stock
 - ½ tsp freshly ground black pepper, plus more to taste
 - Salt, to taste (I used a lot of salt to get it to the taste I wanted)
+
+> **Know before you start:** Make the cachupa the day before. The refogada uses the cold leftovers.
 
 ### Directions
 
@@ -90,3 +89,5 @@ Note: I recommend enjoying the stew for dinner while saving enough for breakfast
 6. Use a broad spatula to turn the cachupa in sections. Press it down again and cook for another 4–6 minutes, letting more golden, crispy patches develop. Avoid stirring constantly.
 7. In a separate pan, heat a small amount of oil over medium heat. Fry the eggs to your preference.
 8. Mound the crispy cachupa on a plate. Arrange the seared linguiça and blistered tomatoes around it. Top each serving with a fried egg and finish with cilantro, salt, and pepper.
+
+Note: Next time I'd skip the egg. The dish is good enough without it, and the egg didn't add much.

@@ -1,9 +1,10 @@
 ---
 country: "Azerbaijan"
-dish: "Shorgoghal"
+dish: "Shorgoghal (spiced layered pastry)"
 date: 2026-07-26
 rating: 4.0
-serves: "10 or more (about 20 rolls)"
+ratingNote: "Excellent with a sweet jam"
+serves: "10 (2 rolls each)"
 time: "About 3 hours"
 flag: az
 images:
@@ -22,13 +23,10 @@ Shorgoghal is a flaky, spiced pastry from Azerbaijan. It's baked for Novruz, the
 
 Delicious savory pastry. These were excellent with a sweet jam. The jam contrast really emphasized the spice. I screwed this recipe up a little, though. I didn't add enough butter or spice to the bread, so the spice didn't come through as much as it should have. I would definitely make these again, as they were a big hit.
 
-## Rating
 
-4/5
+## Shorgoghal (spiced layered pastry)
 
-## Shorgoghal
-
-- Serves: 10 or more (about 20 rolls)
+- Serves: 10 (2 rolls each)
 - Time: About 3 hours
 
 ## Ingredients and directions

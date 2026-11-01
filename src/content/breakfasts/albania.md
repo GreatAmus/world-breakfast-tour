@@ -1,9 +1,10 @@
 ---
 country: "Albania"
-dish: "Petulla"
+dish: "Petulla (fried dough puffs)"
 date: 2026-06-20
 rating: 5.0
-serves: "4 (about 20 puffs)"
+ratingNote: "We all loved this dish. No complaints at all."
+serves: "4 (about 5 puffs each)"
 time: "About 30 minutes"
 flag: al
 images:
@@ -20,15 +21,11 @@ Petulla are fried dough balls and a common Albanian breakfast, especially on wee
 
 ## Review
 
-Albania was our first country, and it was a great start. The kids and I rated it 5/5. Surprisingly, the feta and jam was really good. The feta plus jam combo is a 5/5 on its own.
+Albania was a strong start with delicious fried pastries. The jam and feta combination created a unique taste of salty, sweet, and oily. The toppings elevated the dish from a simple fried dough to a unique flavor profile. The fried dough turned out perfect and was light and airy. We all loved this dish, which gave us the motivation to start this project. No complaints at all.
 
-## Rating
+## Petulla (fried dough puffs)
 
-5/5
-
-## Petulla
-
-- Serves: 4 (about 20 puffs)
+- Serves: 4 (about 5 puffs each)
 - Time: About 30 minutes
 
 ## Ingredients and directions

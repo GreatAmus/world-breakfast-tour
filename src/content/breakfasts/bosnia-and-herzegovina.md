@@ -1,9 +1,10 @@
 ---
 country: "Bosnia and Herzegovina"
-dish: "Ćevapi with somun and ajvar"
+dish: "Ćevapi with somun and ajvar (grilled sausages with flatbread and pepper sauce)"
 date: 2026-09-14
 rating: 4.0
-serves: "4"
+ratingNote: "I loved it, but my wife and kids weren’t huge fans"
+serves: "4 (5 ćevapi and 1 somun each)"
 time: "About 2 hours"
 flag: ba
 images:
@@ -22,13 +23,10 @@ This Bosnian street-food breakfast is ćevapi, small grilled beef sausages, eate
 
 The ajvar brings a sweetness to counter the salty meat and bread. The cool, creamy kajmak combines perfectly with the rest of the dish. I loved this dish, but my wife and children were not huge fans. The kids rated it slightly below a 4, while I gave it a 4.4.
 
-## Rating
 
-4/5
+## Ćevapi with somun and ajvar (grilled sausages with flatbread and pepper sauce)
 
-## Ćevapi with somun and ajvar
-
-- Serves: 4
+- Serves: 4 (5 ćevapi and 1 somun each)
 - Time: About 2 hours
 
 ## Ingredients and directions

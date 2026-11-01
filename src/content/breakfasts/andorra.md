@@ -1,10 +1,11 @@
 ---
 country: "Andorra"
-dish: "Coca de recapte"
+dish: "Coca de recapte (roasted vegetable flatbread)"
 date: 2026-06-28
 rating: 5.0
-serves: "4"
-time: "About 1 hour the night before, plus 1 hour in the morning"
+ratingNote: "What’s not to love about a veggie-centric breakfast pizza?"
+serves: "4 (1 large slice each)"
+time: "About 1 hour, plus 1 hour of prep the night before"
 flag: ad
 images:
   - /images/andorra.jpg
@@ -22,14 +23,11 @@ Coca de recapte is a Catalan flatbread. Think of a thin pizza without the cheese
 
 What's not to love about a veggie-centric breakfast pizza? It's so good. Go light on the toppings, though. Less is more, and too many toppings take away from the crisp crust.
 
-## Rating
 
-5/5
+## Coca de recapte (roasted vegetable flatbread)
 
-## Coca de recapte
-
-- Serves: 4
-- Time: About 1 hour the night before, plus 1 hour in the morning
+- Serves: 4 (1 large slice each)
+- Time: About 1 hour, plus 1 hour of prep the night before
 
 ## Ingredients and directions
 
@@ -39,6 +37,8 @@ What's not to love about a veggie-centric breakfast pizza? It's so good. Go ligh
 
 - 2 large red peppers
 - Olive oil (optional)
+
+> **Know before you start:** You can make the peppers, tomato base, and dough the night before. Doing so makes breakfast fast and easy.
 
 ### Directions
 
@@ -76,8 +76,6 @@ What's not to love about a veggie-centric breakfast pizza? It's so good. Go ligh
 
 1. Combine the flour, salt, yeast, olive oil, and water. Knead until smooth. You may need more water, depending on your flour. Mine took about another ¼ cup to come together. Knead until the dough is smooth and seems like pizza dough.
 2. Wrap the dough up and put it in the fridge. If you're making everything the same day, skip the fridge and let it rise for 30 minutes instead.
-
-Note: I split this recipe into two and made the peppers, tomato base, and dough the night before. Doing so made breakfast fast and easy.
 
 ### Coca de Recapte
 

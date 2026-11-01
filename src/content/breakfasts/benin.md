@@ -1,10 +1,11 @@
 ---
 country: "Benin"
-dish: "Akassa with gbédjédjén"
+dish: "Akassa with gbédjédjén (fermented corn dough with spicy beef stew)"
 date: 2026-09-05
 rating: 3.7
-serves: "4"
-time: "About 45 minutes, plus fermenting the dough overnight"
+ratingNote: "Surprisingly good for how simple it was"
+serves: "4 (1 ball of akassa and about 1 cup of stew each)"
+time: "About 45 minutes, plus fermenting the dough the night before"
 flag: bj
 images:
   - /images/benin.jpg
@@ -22,14 +23,11 @@ Akassa is a dough made with fermented cornmeal, similar to polenta. Gbédjédjé
 
 This was surprisingly good for how simple it was, with the spicy stew being a nice contrast to the tangy fermented corn dough. Although it was good, we wouldn't make it regularly.
 
-## Rating
 
-3.7/5
+## Akassa with gbédjédjén (fermented corn dough with spicy beef stew)
 
-## Akassa with gbédjédjén
-
-- Serves: 4
-- Time: About 45 minutes, plus fermenting the dough overnight
+- Serves: 4 (1 ball of akassa and about 1 cup of stew each)
+- Time: About 45 minutes, plus fermenting the dough the night before
 
 ## Ingredients and directions
 
@@ -41,6 +39,8 @@ This was surprisingly good for how simple it was, with the spicy stew being a ni
 - ½ cup plain Greek yogurt
 - 2½ cups cold water
 - Pinch of salt
+
+> **Know before you start:** The cornmeal mix ferments on the counter overnight, so start it the night before.
 
 ### Directions
 

@@ -1,9 +1,10 @@
 ---
 country: "Bangladesh"
-dish: "Paratha with mixed vegetable bhaji"
+dish: "Paratha with bhaji (flatbread with spiced vegetables)"
 date: 2026-08-16
 rating: 4.7
-serves: "3–4 (7 parathas)"
+ratingNote: "This dish surprised everyone"
+serves: "4 (2 parathas and about 1 cup of bhaji each)"
 time: "About 1 hour"
 flag: bd
 images:
@@ -20,15 +21,11 @@ Paratha with bhaji is a common Bangladeshi breakfast. Paratha is a layered whole
 
 ## Review
 
-This is the second best dish so far. A nice spice that balances the flavor of the vegetables and the heaviness of the whole wheat flatbread.
+This dish surprised everyone. While making it, I thought there was no way this would rate above a 3.0, with the whole wheat flour and being so vegetable heavy. I was very surprised when the whole wheat layered bread just worked and perfectly complemented the vegetable medley. Eating each part separately was a very different experience than eating them together. The kids also loved the dish, and we devoured the entire thing without leftovers. The whole wheat paratha was chewier than what I'm used to from paratha, but the change was actually nice and gave the vegetables a more filling base.
 
-## Rating
+## Paratha with bhaji (flatbread with spiced vegetables)
 
-4.7/5
-
-## Paratha with mixed vegetable bhaji
-
-- Serves: 3–4 (7 parathas)
+- Serves: 4 (2 parathas and about 1 cup of bhaji each)
 - Time: About 1 hour
 
 ## Ingredients and directions

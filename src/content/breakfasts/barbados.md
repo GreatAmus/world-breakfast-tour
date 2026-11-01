@@ -1,11 +1,11 @@
 ---
 country: "Barbados"
-dish: "Saltfish and bake"
+dish: "Saltfish and bake (salt cod with fried bread)"
 date: 2026-08-16
 rating: 2.0
-serves: "4"
-time: "About 45 minutes, plus soaking the fish overnight"
-ratingNote: "Saltfish 0/5, bake 4/5"
+serves: "4 (3 bakes and about ½ cup of saltfish each)"
+time: "About 45 minutes, plus soaking the fish the night before"
+ratingNote: "Saltfish 0.0/5, bake 4.0/5"
 flag: bb
 images:
   - /images/barbados.jpg
@@ -21,16 +21,13 @@ Saltfish and bake is a classic Bajan breakfast. The saltfish is salt cod soaked,
 
 ## Review
 
-We do not like saltfish. I love fish, but I do not like saltfish. It's stinky, and reconstituting it from its dried state takes a lot of time and doesn't taste good to me. I prefer fresh fish any time. The kids also hated the saltfish. When cooked together, the dish turned out bland but still smelled like old fish. The tomatoes were overpowering, and the peppers did not blend well with the recipe. The texture was like a thick paste. The saltfish would have been a 1 and went straight to the garbage. Luckily, the fried bread was good enough that it saved breakfast. Still, the fried bread wasn't very special and tasted like the other fried bread we've had. It was still good enough with the powdered sugar on top to raise the overall score.
+We do not like saltfish. I love fish, but I do not like saltfish. It's stinky, and reconstituting it from its dried state takes a lot of time and doesn't taste good to me. I prefer fresh fish any time. The kids also hated the saltfish. When cooked together, the dish turned out bland but still smelled like old fish. The tomatoes were overpowering, and the peppers did not blend well with the recipe. The texture was like a thick paste. The saltfish got a 0 and went straight to the garbage. Luckily, the fried bread was good enough that it saved breakfast. Still, the fried bread wasn't very special and tasted like the other fried bread we've had. It was still good enough with the powdered sugar on top to raise the overall score.
 
-## Rating
 
-2/5
+## Saltfish and bake (salt cod with fried bread)
 
-## Saltfish and bake
-
-- Serves: 4
-- Time: About 45 minutes, plus soaking the fish overnight
+- Serves: 4 (3 bakes and about ½ cup of saltfish each)
+- Time: About 45 minutes, plus soaking the fish the night before
 
 ## Ingredients and directions
 
@@ -69,6 +66,8 @@ We do not like saltfish. I love fish, but I do not like saltfish. It's stinky, a
 - 2 scallions, sliced
 - 1 hot pepper, minced (habanero is preferred, but I used a serrano since I had extra)
 - Black pepper, to taste
+
+> **Know before you start:** Soak the salt cod in cold water for at least 4 hours, or overnight, before you start.
 
 ### Directions
 

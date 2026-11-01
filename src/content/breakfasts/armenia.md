@@ -1,14 +1,14 @@
 ---
 country: "Armenia"
-dish: "Gata"
+dish: "Gata (sweet filled bread)"
 date: 2026-07-12
 rating: 5.0
-serves: "8 (3 loaves)"
-time: "About 3 hours, plus cooling"
+ratingNote: "So good that we devoured all three loaves"
+serves: "6 (half a loaf each)"
+time: "About 3 hours"
 flag: am
 images:
   - /images/armenia.jpg
-  - /images/armenia-2.jpg
 ---
 
 ## About Armenia
@@ -23,14 +23,11 @@ Gata is a sweet Armenian bread with a buttery, crumbly filling made from butter,
 
 A deliciously sweet bread with a paste-like filling. This was so good that we devoured all three loaves. Let it cool, though. It tasted a LOT better after it cooled compared to when it was hot. I didn't use nuts, but I wish I had. They would have improved the texture and flavor even more, not that it needed it.
 
-## Rating
 
-5/5
+## Gata (sweet filled bread)
 
-## Gata
-
-- Serves: 8 (3 loaves)
-- Time: About 3 hours, plus cooling
+- Serves: 6 (half a loaf each)
+- Time: About 3 hours
 
 ## Ingredients and directions
 

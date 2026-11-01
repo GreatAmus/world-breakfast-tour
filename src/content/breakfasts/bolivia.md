@@ -1,9 +1,10 @@
 ---
 country: "Bolivia"
-dish: "Chicken salteñas"
+dish: "Salteñas de pollo (baked chicken pastries)"
 date: 2026-09-16
 rating: 4.2
-serves: "6 (12 salteñas)"
+ratingNote: "A touch of sweetness balances the savory richness"
+serves: "6 (2 salteñas each)"
 time: "About 3 hours"
 flag: bo
 images:
@@ -22,13 +23,10 @@ Bolivian chicken salteñas are a savory chicken stew packaged in a golden, butte
 
 A touch of sweetness balances the savory richness. The pastry is crisp and golden on the outside but sturdy enough to hold the piping hot filling. They were very good.
 
-## Rating
 
-4.2/5
+## Salteñas de pollo (baked chicken pastries)
 
-## Chicken salteñas
-
-- Serves: 6 (12 salteñas)
+- Serves: 6 (2 salteñas each)
 - Time: About 3 hours
 
 ## Ingredients and directions
@@ -60,6 +58,8 @@ A touch of sweetness balances the savory richness. The pastry is crisp and golde
 - 2 tbsp unflavored powdered gelatin
 - ⅓ cup cold water
 - Salt
+
+> **Know before you start:** The filling has to be cold and set before you fill the dough. Make it first, or the night before.
 
 ### Directions
 

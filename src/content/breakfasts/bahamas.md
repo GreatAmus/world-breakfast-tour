@@ -1,16 +1,17 @@
 ---
 country: "Bahamas"
-dish: "Chicken souse and johnny cake"
+dish: "Chicken souse and johnny cake (lime chicken soup with sweet bread)"
 date: 2026-08-02
 rating: 3.0
-serves: "6"
+ratingNote: "One kid loved the chicken, the other loved the johnny cake"
+serves: "6 (about 2 cups of soup and 1 slice of johnny cake each)"
 time: "About 1½ hours"
 flag: bs
 images:
   - /images/bahamas.jpg
 ---
 
-## About Bahamas
+## About the Bahamas
 
 The Bahamas is a chain of about 700 islands in the Atlantic, southeast of Florida. Most Bahamians are descended from enslaved Africans, and the islands were a British colony until 1973. Seafood is the center of the food, especially conch, along with peas and rice and lots of lime and hot peppers. The islands are surrounded by shallow, warm water, so fish and shellfish have always been the easiest protein to get.
 
@@ -22,13 +23,10 @@ Chicken souse is a clear, peppery soup with chicken, potatoes, onions, and a lot
 
 This one was interesting because one kid loved the chicken but hated the johnny cake. The other liked the johnny cake but hated the chicken. Personally, I thought the johnny cake tasted like a standard biscuit and the chicken souse didn't have enough flavor. I used a serrano instead of a habanero, and the kids still complained about the heat. I think I would have liked it a lot more if I'd made it spicy enough that the kids wouldn't have eaten it.
 
-## Rating
 
-3/5
+## Chicken souse and johnny cake (lime chicken soup with sweet bread)
 
-## Chicken souse and johnny cake
-
-- Serves: 6
+- Serves: 6 (about 2 cups of soup and 1 slice of johnny cake each)
 - Time: About 1½ hours
 
 ## Ingredients and directions

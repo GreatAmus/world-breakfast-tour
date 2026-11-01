@@ -3,7 +3,8 @@ country: "Belize"
 dish: "Fry jacks, refried beans, and chaya eggs"
 date: 2026-08-23
 rating: 4.6
-serves: "4"
+ratingNote: "The beans stole the show"
+serves: "4 (2 fry jacks, about ½ cup of beans, and 1 cup of eggs each)"
 time: "About 1 hour"
 flag: bz
 images:
@@ -22,13 +23,10 @@ A Belizean breakfast is refried beans, eggs, and fry jacks. Fry jacks are puffy 
 
 The beans stole the show on this dish. Combining the refried beans with the fry jacks was heaven, as the salty, mushy beans were a wonderful contrast to the crisp fry bread. My wife liked this dish so much she asked that we add it to our regular breakfast rotation. What I liked most was the diversity between the different parts of the dish. The fry jack was crisp, like a thick, bready cracker. The refried beans had a salty flavor with subtle heat. The greens had a light veggie flavor. Eating them all together meant the different pieces came together in a surprising way.
 
-## Rating
-
-4.6/5
 
 ## Fry jacks, refried beans, and chaya eggs
 
-- Serves: 4
+- Serves: 4 (2 fry jacks, about ½ cup of beans, and 1 cup of eggs each)
 - Time: About 1 hour
 
 ## Ingredients and directions
@@ -66,14 +64,14 @@ Note: A potato masher works better than a fork, but the beans get stuck in the m
 - 1 cup spinach, chopped
 - Salt and pepper, to taste
 
+> **Know before you start:** I used spinach because chaya can be hard to get. If you find real chaya, boil the leaves in a non-aluminum pot for at least 5 minutes and discard the water before adding them to the pan. Raw chaya is toxic.
+
 ### Directions
 
 1. Beat the eggs with the milk.
 2. Heat the oil in a pan over medium. Sauté the onion, red pepper, and garlic 2–3 minutes, until soft.
 3. Add the spinach and cook 1–2 minutes, until wilted and any water has cooked off.
 4. Pour in the eggs, season with salt and pepper, and scramble until set.
-
-Note: I used spinach because chaya can be hard to get. If you find real chaya, boil the leaves in a non-aluminum pot for at least 5 minutes and discard the water before adding them to the pan. Raw chaya is toxic.
 
 ### Fry Jacks
 

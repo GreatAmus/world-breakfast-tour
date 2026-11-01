@@ -1,16 +1,17 @@
 ---
 country: "Central African Republic"
-dish: "Makara"
+dish: "Makara (fried dough balls)"
 date: 2026-10-18
 rating: 4.0
-serves: "4 (about 20 balls)"
-time: "About 2½ hours, mostly waiting for the dough to rise"
+ratingNote: "Little donut holes you can eat a dozen of"
+serves: "4 (about 5 balls each)"
+time: "About 2½ hours"
 flag: cf
 images:
   - /images/central-african-republic.jpg
 ---
 
-## About Central African Republic
+## About the Central African Republic
 
 The Central African Republic is a landlocked country right in the middle of Africa, with savanna in the north and rainforest in the south. French and Sango are the official languages, and France ruled the country until 1960. Most people eat cassava, plantains, peanuts, and leafy greens. Cassava grows almost anywhere and keeps well in the ground, so it's the main food for most families.
 
@@ -22,14 +23,11 @@ The Central African Republic's makara is a common street food. These are small f
 
 These were like little donut holes that you could pop in your mouth and eat a dozen of before realizing it. They got better over time and were best at room temperature. I've found a lime-coconut flavor combined with fried dough is often a winner. This dish managed to be distinct compared to a lot of the other fried dough recipes because of the cardamom, nutmeg, and coconut milk. It didn't taste Caribbean, which kept it different enough that the recipe felt fresh. I was surprised that I liked this so much. The ratings were pretty consistent, with my teen daughter liking it the most.
 
-## Rating
 
-4/5
+## Makara (fried dough balls)
 
-## Makara
-
-- Serves: 4 (about 20 balls)
-- Time: About 2½ hours, mostly waiting for the dough to rise
+- Serves: 4 (about 5 balls each)
+- Time: About 2½ hours
 
 ## Ingredients and directions
 
