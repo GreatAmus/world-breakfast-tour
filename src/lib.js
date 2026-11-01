@@ -28,7 +28,7 @@ export const formatScore = (n) => (n === undefined ? '–' : Number(n).toFixed(1
 // A short plain-text preview of a post: the start of its "The dish" section.
 export function excerpt(post, max = 190) {
   const body = post.body ?? '';
-  const m = body.match(/## The dish\s+([\s\S]*?)(?:\n## |$)/);
+  const m = body.match(/## (?:The Dish|Our choice for [^\n]+)\s+([\s\S]*?)(?:\n## |$)/i);
   const text = (m ? m[1] : post.data.about ?? '')
     .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
     .replace(/[*_`#>]/g, '')

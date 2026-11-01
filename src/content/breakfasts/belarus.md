@@ -6,23 +6,33 @@ rating: 4.5
 flag: by
 images:
   - /images/belarus.jpg
-about: |
-  Belarus is in Eastern Europe, between Poland and Russia. Potatoes are the heart of Belarusian cooking. There are supposedly hundreds of potato dishes, and draniki is the most famous one.
+verdict: "Crisp outside, soft inside, and a hit with the family; I added a runny egg to mine."
+servings: "4 (about 10 pancakes)"
+mealStyle: ["savory"]
+beforeYouStart: ["Squeeze the potatoes well before frying."]
+activeTime: "25–35 minutes"
+cookTime: "20–30 minutes"
+recipeTime: "35–45 minutes"
+waitingTime: "None"
+quick: true
 ---
 
-## The dish
+## Our choice for Belarus
 
-Draniki are hash brown pancakes. They're served with sour cream and chives. You can, optionally, put an egg on top to add even more protein and flavor.
+Draniki are hash brown pancakes and the national dish of Belarus. They're made from grated potato and onion, fried until crisp, and served with sour cream and chives. They're cheap and made in almost every home. Expect something like a crispy potato pancake or latke, with a soft middle. You can, optionally, put an egg on top to add even more protein and flavor.
 
-## What we thought
+## At our table
 
-I liked them better than normal hash browns. The egg held them together better, and the onion enhances the taste.
+I've made potato pancakes before, but these were a huge step up from my usual version with salt, pepper, and garlic. The potatoes browned nicely, and the sour cream and extra seasonings gave them a more distinct flavor than basic hash browns. They were soft on the inside and crisp on the outside.
 
-## Rating
+I also love eggs, so a runny yolk over my potato pancake added a lot of deliciousness. My wife and kids don't like eggs, but they did like the potato pancakes. The seasoning was just right for them, and the familiar hash brown feel helped.
 
-4.5/5
+## Breakfast context: Belarus
 
-## Ingredients and directions
+Belarus is in Eastern Europe, between Poland and Russia. It's flat country with lots of forests, lakes, and farmland, and long, cold winters. Potatoes are the heart of Belarusian cooking, along with rye bread, mushrooms, and sour cream. Potatoes grow well in the cool climate and store all winter, which is why there are supposedly hundreds of potato dishes.
+
+
+## Recipe
 
 ### Ingredients
 

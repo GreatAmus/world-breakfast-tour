@@ -6,31 +6,38 @@ rating: 4.8
 flag: ca
 images:
   - /images/canada.jpg
-about: |
-  Canada is our neighbor to the north and the second biggest country in the world. English and French are both official languages. Maple syrup is a big deal there, and Canada makes most of the world's supply.
+verdict: "A family favorite with familiar flavors and slightly salty bacon."
+servings: "6"
+mealStyle: ["sweet", "savory"]
+beforeYouStart: ["On serving day, coordinate the bacon, pancakes, and home fries so they finish together."]
+advancePrep: "Start the bacon 4–5 days ahead for brining, followed by an uncovered overnight rest in the refrigerator."
+activeTime: "60–80 minutes across preparation and serving day"
+cookTime: "45–60 minutes on serving day, with components overlapping"
+recipeTime: "1–1¼ hours on serving day, plus bacon preparation, 4–5 days of brining, and an overnight uncovered rest"
+waitingTime: "Brine must cool before use; 4–5-day brine followed by an overnight rest; pancake batter and potatoes rest during other preparation"
+quick: false
 ---
 
-## The dish
+## Our choice for Canada
 
-A classic Canadian breakfast is familiar to Americans but has its own distinctive touches. Breakfast can include home fries, toast, and bacon or sausage. Unique to Canada is peameal bacon, a lean, cured pork loin rolled in cornmeal and served in thick slices. I made my own since importing peameal bacon in the US is ridiculously expensive, although you can get a similar breakfast by buying a good ham steak.
+A classic Canadian breakfast is familiar to Americans but has its own distinctive touches. Breakfast can include home fries, toast, and bacon or sausage. Unique to Canada is peameal bacon, a lean, cured pork loin rolled in cornmeal and served in thick slices. Expect something closer to ham than American bacon: juicy, lean, and a little salty, with a crunchy cornmeal edge. I made my own since importing peameal bacon in the US is ridiculously expensive, although you can get a similar breakfast by buying a good ham steak.
 
 We served it with thick sour cream buttermilk pancakes, maple syrup, and home fries.
 
-## What we thought
+## At our table
 
-My pancake recipe is already dynamite, as are my home fries. The peameal bacon added a nice, slightly salty side. The family said this was one of their favorites.
+My pancake recipe is already dynamite, as are my home fries. The peameal bacon added a nice, slightly salty side. The family said this was one of their favorites. The only reason it didn't get a 5 is that the flavors were what we expected and nothing stood out as a surprise. We knew what we were getting, and the food delivered as promised.
 
-The only reason it didn't get a 5 is that the flavors were what we expected and nothing stood out as a surprise. We knew what we were getting, and the food delivered as promised.
+## Breakfast context: Canada
 
-## Rating
+Canada is our neighbor to the north and the second biggest country in the world. English and French are both official languages, and people from all over the world have moved there. Canadians eat a lot like Americans, with plenty of wheat, beef, pork, potatoes, and dairy. Canada also makes most of the world's maple syrup. The sugar maple trees grow in the cold east, especially Quebec, so maple ends up on everything.
 
-4.8/5
 
-## Ingredients and directions
+## Recipe
 
 ### Peameal Bacon
 
-### Ingredients
+#### Ingredients
 
 - 1 gallon water
 - 1 cup kosher salt (Diamond Crystal; use ⅔ cup if using Morton)
@@ -45,7 +52,7 @@ The only reason it didn't get a 5 is that the flavors were what we expected and 
 - Coarse yellow cornmeal, for coating
 - Oil, for frying
 
-### Directions
+#### Directions
 
 1. Simmer about a quarter of the water with the salt, maple syrup, curing salt, garlic, bay leaves, peppercorns, mustard seed, and juniper berries until the salt and sugar dissolve. Add the rest of the water cold, then chill the brine completely.
 2. Trim the silverskin off the pork loin. Submerge the loin in the brine and weigh it down with a plate. Refrigerate for 4–5 days, turning it daily. For even curing, inject about 1 cup of the brine into the center of the loin at several points before submerging it.
@@ -55,7 +62,7 @@ The only reason it didn't get a 5 is that the flavors were what we expected and 
 
 ### Sour Cream Buttermilk Pancakes
 
-### Ingredients
+#### Ingredients
 
 - 2 cups all-purpose flour
 - 2 tbsp granulated sugar
@@ -69,7 +76,7 @@ The only reason it didn't get a 5 is that the flavors were what we expected and 
 - 2 tsp vanilla extract
 - Butter and real maple syrup, to serve
 
-### Directions
+#### Directions
 
 1. Whisk the flour, sugar, baking powder, baking soda, and salt together in a large bowl.
 2. In another bowl, whisk the buttermilk, sour cream, eggs, melted butter, and vanilla until mostly smooth. A few small flecks of sour cream are fine.
@@ -80,7 +87,7 @@ The only reason it didn't get a 5 is that the flavors were what we expected and 
 
 ### Home Fries
 
-### Ingredients
+#### Ingredients
 
 - 2 lb golden potatoes (Yukon Gold or similar)
 - 2 tbsp butter, divided
@@ -97,7 +104,7 @@ The only reason it didn't get a 5 is that the flavors were what we expected and 
 - 1 tbsp fresh parsley, chopped
 - Hot sauce, to taste (optional)
 
-### Directions
+#### Directions
 
 1. Scrub the potatoes and cut them into ½-inch cubes. Leave the skins on.
 2. Boil the potatoes in salted water for 4–6 minutes, until a knife goes into the outside easily but the cubes stay firm. Drain gently and let them steam-dry for 5–10 minutes.

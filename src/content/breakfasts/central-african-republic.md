@@ -6,23 +6,34 @@ rating: 4.0
 flag: cf
 images:
   - /images/central-african-republic.jpg
-about: |
-  The Central African Republic is a landlocked country right in the middle of Africa. French is one of the official languages. Cassava is the main food, and fried dough is a common street snack.
+verdict: "Donut-hole-like bites with coconut, lime, and warm spices; best at room temperature."
+servings: "4 (about 20 balls)"
+mealStyle: ["sweet"]
+beforeYouStart: ["Allow 1–2 hours for the dough to rise. Toast and grind the coconut before mixing."]
+equipment: ["Food processor"]
+activeTime: "30–45 minutes"
+cookTime: "20–30 minutes"
+recipeTime: "2–3 hours"
+waitingTime: "1–2-hour rise and 10 minutes for the glaze to set"
+quick: false
 ---
 
-## The dish
+## Our choice for Central African Republic
 
-The Central African Republic's makara is a common street food. These are small fried dough balls that come with some sort of dipping sauce or are coated in sugar. People eat them for breakfast or as a snack. Fried doughs are common across Central and West Africa but show a distinct French influence from beignets. This version uses coconut, cardamom, and lime to make it something special compared to the other fried dough dishes we've made.
+The Central African Republic's makara is a common street food. These are small fried dough balls that come with some sort of dipping sauce or are coated in sugar. People eat them for breakfast or as a snack, bought warm from roadside stalls in the morning. Fried doughs are common across Central and West Africa but show a distinct French influence from beignets. Expect a crisp outside and a soft, bready inside, like a small donut. My version uses coconut, cardamom, and lime, with a coconut-lime glaze.
 
-## What we thought
+## At our table
 
-Pretty consistent scores across the family, with a universal score of 4/5.
+These were like little donut holes you could pop into your mouth and eat a dozen before realizing it. They got better as they cooled and were best at room temperature. I've found that lime and coconut with fried dough is usually a winner.
 
-## Rating
+The cardamom, nutmeg, and coconut milk helped these stand out from the other fried dough recipes we've made. They didn't taste like the Caribbean versions we'd already tried, which kept another round of fried dough from feeling too repetitive. I was surprised by how much I liked them. The ratings were pretty consistent across the family, with my teenage daughter liking them the most.
 
-4/5
+## Breakfast context: Central African Republic
 
-## Ingredients and directions
+The Central African Republic is a landlocked country right in the middle of Africa, with savanna in the north and rainforest in the south. French and Sango are the official languages, and France ruled the country until 1960. Most people eat cassava, plantains, peanuts, and leafy greens. Cassava grows almost anywhere and keeps well in the ground, so it's the main food for most families.
+
+
+## Recipe
 
 ### Ingredients
 

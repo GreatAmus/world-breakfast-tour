@@ -6,23 +6,33 @@ rating: 1.5
 flag: bw
 images:
   - /images/botswana.jpg
-about: |
-  Botswana is a landlocked country in southern Africa and home to the Kalahari Desert. Cattle are a big deal there. Most meals are beef with a thick porridge made from sorghum or corn.
+verdict: "The squash, corn, yogurt, and relish never came together for us; we ate something else."
+servings: "4"
+mealStyle: ["savory"]
+beforeYouStart: ["This version uses masa harina rather than sorghum meal. Start with the squash, which simmers for 20 minutes."]
+activeTime: "25–35 minutes"
+cookTime: "35–45 minutes with components overlapping"
+recipeTime: "50–65 minutes"
+waitingTime: "None beyond the covered cooking steps"
+quick: false
 ---
 
-## The dish
+## Our choice for Botswana
 
-Bogobe is a thick porridge made from sorghum or cornmeal. For breakfast it's served with eggs and a tomato and onion relish. I had to substitute several ingredients, since authentic sorghum meal and lerotse are hard to source.
+Bogobe is a thick porridge made from sorghum or cornmeal, and it's the basic everyday starch in Botswana. For breakfast it's often served softer, with eggs and a tomato and onion relish. Expect a thick, mild porridge with a runny egg and a sweet, savory tomato relish on top. I had to substitute several ingredients, since authentic sorghum meal and lerotse are hard to find.
 
-## What we thought
+## At our table
 
-Not good, but African porridge dishes just aren't for me.
+This dish was just bland. Porridge isn't my favorite, and this did not change my mind. I usually really like butternut squash, but it didn't work with the masa harina here. The sourness of the Greek yogurt didn't seem to fit with the squash's sweetness either.
 
-## Rating
+The relish never came together for me. It tasted like chopped onion and tomatoes dumped on eggs. Without the egg, the rest was basically a wet corn-and-squash mixture. The kids didn't like it either. No one thought it was good, so we tossed it and ate something else.
 
-1.5/5
+## Breakfast context: Botswana
 
-## Ingredients and directions
+Botswana is a landlocked country in southern Africa, home to the Kalahari Desert. Cattle are a huge part of life there. Most meals are beef with a thick porridge made from sorghum or corn. Sorghum handles drought better than most grains, so it grows where other crops won't.
+
+
+## Recipe
 
 ### Ingredients
 

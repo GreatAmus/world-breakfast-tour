@@ -6,27 +6,36 @@ rating: 4.0
 flag: ba
 images:
   - /images/bosnia-and-herzegovina.jpg
-about: |
-  Bosnia and Herzegovina is in the Balkans. It's mostly mountains, with a tiny bit of coastline. It was part of the Ottoman Empire for about 400 years, which is why the food has so much in common with Turkish food.
+verdict: "Sweet ajvar, salty meat, and creamy kajmak; I liked it more than the family."
+servings: "4"
+mealStyle: ["savory"]
+beforeYouStart: ["Start the bread dough and chilled meat early; prepare ajvar and kajmak during the resting time."]
+equipment: ["Meat grinder or food processor", "Blender"]
+activeTime: "75–100 minutes"
+cookTime: "50–65 minutes with components overlapping"
+recipeTime: "2–2½ hours"
+waitingTime: "15-minute meat chill, then 45-minute rest; 40–60-minute dough rise and 10-minute shaped rest. Coordinate these with sauce preparation."
+quick: false
 ---
 
-## The dish
+## Our choice for Bosnia and Herzegovina
 
-This Bosnian street-food breakfast is grilled beef sausages eaten with somun, a type of bread similar to a pita. The sauce is ajvar, made from eggplant and red peppers. The dish is served with raw onion and kajmak, a soft cow cheese. I didn't have access to actual kajmak, so I made something similar myself.
+This Bosnian street-food breakfast is ćevapi, small grilled beef sausages, eaten with somun, a type of bread similar to a pita. The sauce is ajvar, made from roasted red peppers and eggplant, and the dish is served with raw onion and kajmak, a soft cow cheese. Ćevapi are the most famous food in Bosnia, and every town has a favorite shop. Expect smoky, salty meat with soft bread, sweet pepper sauce, and cool, creamy cheese. I didn't have access to actual kajmak, so I made something similar myself.
 
-## What we thought
+## At our table
 
-The ajvar brings a sweetness to counter the salty meat and bread. I loved this dish, but my wife and children were not huge fans. The kids rated it slightly below a 4, while I gave it a 4.4.
+The ajvar brings a sweetness to counter the salty meat and bread. The cool, creamy kajmak combines perfectly with the rest of the dish. I loved this dish, but my wife and children were not huge fans. The kids rated it slightly below a 4, while I gave it a 4.4.
 
-## Rating
+## Breakfast context: Bosnia and Herzegovina
 
-4/5
+Bosnia and Herzegovina is in the Balkans in southeast Europe. It's mostly mountains, with a tiny bit of coastline. It was part of the Ottoman Empire for about 400 years, which is why the food has so much in common with Turkish food. People eat a lot of grilled meat, bread, dairy, and roasted vegetables, raised and grown on small mountain farms.
 
-## Ingredients and directions
+
+## Recipe
 
 ### Ćevapi
 
-### Ingredients
+#### Ingredients
 
 - 2 lb beef chuck
 - 1 tbsp + ¾ tsp fine salt
@@ -35,7 +44,7 @@ The ajvar brings a sweetness to counter the salty meat and bread. I loved this d
 - 1 garlic clove, finely grated
 - ⅓ cup ice-cold sparkling water
 
-### Directions
+#### Directions
 
 1. Grind the chuck with a meat grinder or, if you don't have one like me, a food processor. Aim for a hamburger-like texture. Put the ground beef in the freezer for 15 minutes.
 2. Add the salt, pepper, baking soda, garlic, and sparkling water. Mix for 5–7 minutes until the beef is very sticky.
@@ -44,7 +53,7 @@ The ajvar brings a sweetness to counter the salty meat and bread. I loved this d
 
 ### Somun
 
-### Ingredients
+#### Ingredients
 
 - 3¼ cups bread flour
 - 1¼ cups warm water
@@ -53,7 +62,7 @@ The ajvar brings a sweetness to counter the salty meat and bread. I loved this d
 - 1 tsp sugar
 - 1 tbsp olive oil
 
-### Directions
+#### Directions
 
 1. Mix all the ingredients together, then knead for 6–8 minutes until the dough is smooth and elastic. Cover and let rise until doubled, about 40 minutes to an hour.
 2. Heat your oven to 500–550°F.
@@ -65,7 +74,7 @@ Note: I used a little pizza oven I had to cook the bread. Worked great! Somun is
 
 ### Smoky Ajvar
 
-### Ingredients
+#### Ingredients
 
 - 3 large red bell peppers
 - 1 medium eggplant
@@ -75,7 +84,7 @@ Note: I used a little pizza oven I had to cook the bread. Worked great! Somun is
 - 1 tsp salt, plus more to taste
 - ½ tsp black pepper
 
-### Directions
+#### Directions
 
 1. Heat your broiler to high.
 2. Peel the eggplant, then cut the peppers and eggplant into large chunks. Toss with 2 tbsp of the olive oil.
@@ -87,25 +96,25 @@ Note: I used a little pizza oven I had to cook the bread. Worked great! Somun is
 
 ### Kajmak
 
-### Ingredients
+#### Ingredients
 
 - ½ cup full-fat sour cream
 - 2 tbsp cream cheese
 - 1 tbsp heavy cream
 - ¼ tsp salt
 
-### Directions
+#### Directions
 
 1. Mix everything together until thick and smooth.
 2. Refrigerate until serving.
 
-Note: If you can get real kajmak, use it. This is a substitute that approximates the taste. The cool, creamy cheese combines perfectly with the rest of the dish, so I highly recommend either the real thing or this version.
+Note: If you can get real kajmak, use it. This is a substitute that approximates the taste. I highly recommend either the real thing or this version.
 
 ### To Serve
 
-### Ingredients
+#### Ingredients
 
-#### Per person
+##### Per person
 
 - 2–3 ćevapi
 - 1 warm somun
@@ -113,6 +122,6 @@ Note: If you can get real kajmak, use it. This is a substitute that approximates
 - A spoonful of kajmak
 - ¼ cup ajvar
 
-### Directions
+#### Directions
 
 1. Keep the components separate on the plate. The perfect bite has a little of everything, but mix up the combinations. The flavors come together in wonderful ways.

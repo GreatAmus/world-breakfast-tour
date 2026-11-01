@@ -7,27 +7,40 @@ ratingNote: "Biggest family split so far: I loved it, everyone else didn’t"
 flag: cv
 images:
   - /images/cape-verde.jpg
-about: |
-  Cape Verde is an island nation in the Atlantic Ocean off the west coast of Africa. Their dishes blend West African and Portuguese influences, which is why you see Portuguese sausage in the dish. The country's national dish is cachupa, a hearty, slow-cooked stew made with corn, beans, and vegetables.
+verdict: "I loved the cabbage, hominy, and salty meat; my wife and kids hated it. I’d skip the egg next time."
+servings: "6"
+mealStyle: ["savory"]
+beforeYouStart: ["The recipe makes stew for dinner as well as the next morning. Drain the breakfast portion before frying."]
+advancePrep: "Cook the cachupa the day before and refrigerate overnight before frying it for breakfast."
+activeTime: "45–60 minutes across both days"
+cookTime: "75–95 minutes across both days"
+recipeTime: "About 1 hour the day before and 35–45 minutes in the morning, plus cooling and overnight refrigeration"
+waitingTime: "Cool and refrigerate the stew overnight before frying"
+quick: false
 ---
 
-## The dish
+## Our choice for Cape Verde
 
-Cape Verde is our first "C" country! Cachupa refogada fries up leftover cachupa and turns it into a delicious breakfast. I made the cachupa the day before.
+Cape Verde is our first "C" country! The country's national dish is cachupa, a hearty, slow-cooked stew made with corn, beans, and vegetables. Cachupa refogada fries up the leftover cachupa and turns it into a delicious breakfast, so nothing from last night's dinner goes to waste. Expect a crispy, savory hash of corn, beans, and vegetables with sausage and a fried egg. I made the cachupa the day before.
 
-## What we thought
+## At our table
 
-I loved this dish. I would give it one of my highest ratings and actually ate it for several days after making it. The taste was perfect. My kids and wife hated this dish, which is why it has such a low rating. They did not like the sausage and egg combination. This takes the lead for the biggest division on a dish. I would make it again just for myself.
+I loved this dish. I would give it one of my highest ratings, and I actually ate it for several days afterward. The soft cabbage, hominy, and salty meat worked really well together. It was different from the other breakfasts we've made, and it grew on me more each time I ate it.
 
-## Rating
+The one thing I'd skip next time is the egg. The cachupa already had enough going on with its flavors and textures that an egg on top didn't add much for me.
 
-3.1/5
+My wife and kids hated it, which explains the low overall score. They didn't like the sausage-and-egg combination, and they weren't fans of the stew or the idea of frying it for breakfast afterward. This takes the lead for the biggest split at our table, with scores all over the place. I'd make it again just for myself.
 
-## Ingredients and directions
+## Breakfast context: Cape Verde
+
+Cape Verde is an island nation in the Atlantic Ocean off the west coast of Africa. Most Cape Verdeans have both African and Portuguese roots, since Portugal ruled the islands until 1975. Their dishes blend West African and Portuguese influences, which is why you see Portuguese sausage in the dish. Corn and beans grow well on the dry islands, so they show up in almost every meal, along with fish.
+
+
+## Recipe
 
 ### Cachupa
 
-### Ingredients
+#### Ingredients
 
 - 2 cans white hominy, drained
 - 1 can (15 oz) kidney beans, drained and rinsed
@@ -44,7 +57,7 @@ I loved this dish. I would give it one of my highest ratings and actually ate it
 - ½ tsp freshly ground black pepper, plus more to taste
 - Salt, to taste (I used a lot of salt to get it to the taste I wanted)
 
-### Directions
+#### Directions
 
 1. The day before, heat a large heavy pot over medium heat. Add the linguiça and cook for 4–5 minutes until browned. Transfer the sausage to a plate.
 2. Heat the oil over medium-high in the same pot. Once hot, cook the onion for about 8 minutes until soft and beginning to turn golden.
@@ -59,7 +72,7 @@ Note: I recommend enjoying the stew for dinner while saving enough for breakfast
 
 ### Cachupa Refogada
 
-### Ingredients
+#### Ingredients
 
 - 4–6 cups leftover cold cachupa
 - 1–2 tbsp olive oil, as needed
@@ -71,7 +84,7 @@ Note: I recommend enjoying the stew for dinner while saving enough for breakfast
 - Fresh cilantro, chopped
 - Salt and pepper, to taste
 
-### Directions
+#### Directions
 
 1. Remove the cachupa from the refrigerator. Drain any liquid in the stew. The mixture should be moist but not watery.
 2. Heat a large skillet over medium heat. Add the extra linguiça and cook until browned on both sides, about 3–5 minutes.
@@ -81,5 +94,3 @@ Note: I recommend enjoying the stew for dinner while saving enough for breakfast
 6. Use a broad spatula to turn the cachupa in sections. Press it down again and cook for another 4–6 minutes, letting more golden, crispy patches develop. Avoid stirring constantly.
 7. In a separate pan, heat a small amount of oil over medium heat. Fry the eggs to your preference.
 8. Mound the crispy cachupa on a plate. Arrange the seared linguiça and blistered tomatoes around it. Top each serving with a fried egg and finish with cilantro, salt, and pepper.
-
-Note: I think a runny yolk is best for this dish, since it mixes deliciously with the fried cachupa.

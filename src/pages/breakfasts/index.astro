@@ -2,39 +2,57 @@
 import Base from '../../layouts/Base.astro';
 import Tile from '../../components/Tile.astro';
 import { getBreakfasts } from '../../lib.js';
-import { countries, letterOf } from '../../data/countries.js';
-
 const posts = await getBreakfasts();
-const byCountry = new Map(posts.map((p) => [p.data.country, p]));
-// Every country on the tour, A to Z. Ones we haven't made yet show grayed out.
-const names = [...new Set([...countries, ...byCountry.keys()])].sort((a, b) => a.localeCompare(b, 'en'));
-const groups = [...new Set(names.map(letterOf))].map((l) => {
-  const all = names.filter((n) => letterOf(n) === l);
-  return { l, all, done: all.filter((n) => byCountry.has(n)).length };
+const entries = posts.map((post) => {
+  let ingredients = '';
+  let inIngredients = false;
+  for (const line of (post.body ?? '').split('\n')) {
+    if (/^#{3,4} Ingredients$/.test(line)) inIngredients = true;
+    else if (/^#{3,4} Directions$/.test(line) || /^## /.test(line) || /^### (?!Ingredients$)/.test(line)) inIngredients = false;
+    if (inIngredients && line.startsWith('- ')) ingredients += ' ' + line;
+  }
+  return { post, search: `${post.data.country} ${post.data.dish} ${ingredients}`.toLocaleLowerCase() };
 });
 ---
-<Base title="All breakfasts" description="Every country from A to Z, and the breakfasts we’ve made so far.">
-  <section class="page-head">
-    <h1>All breakfasts</h1>
-    <p class="lede">Every country from A to Z. The gray ones we haven’t made yet.</p>
-  </section>
-  {groups.map((g) => (
-    <section class="group" id={g.l} aria-labelledby={`letter-${g.l}`}>
-      <h2 class="group-letter" id={`letter-${g.l}`}>{g.l} <span class="group-count">{g.done} of {g.all.length} done</span></h2>
-      <div class="tiles">
-        {g.all.map((n) => {
-          const post = byCountry.get(n);
-          return post ? (
-            <Tile post={post} />
-          ) : (
-            <div class="tile tile-todo">
-              <span class="tile-photo tile-empty" aria-hidden="true"></span>
-              <span class="tile-country">{n}</span>
-              <span class="tile-dish">Not yet</span>
-            </div>
-          );
-        })}
-      </div>
-    </section>
-  ))}
+<Base title="All breakfasts" description="Find a breakfast by country, dish, or ingredient, with our family’s reviews.">
+  <section class="page-head"><h1>Find your next breakfast</h1><p class="lede">Browse the {posts.length} breakfasts we’ve cooked. <a href="/passport/">See the full country passport</a>.</p></section>
+  <form class="recipe-filters" role="search" aria-label="Find recipes" onsubmit="return false">
+    <label class="search-field">Country, dish, or ingredient<input id="recipe-search" type="search" placeholder="Try Chile, pancakes, or coconut" /></label>
+    <label>Show<select id="recipe-filter"><option value="all">All breakfasts</option><option value="quick">Quick: 45 minutes or less</option><option value="advance">Prepare ahead</option><option value="overnight">Overnight preparation</option><option value="sweet">Sweet</option><option value="savory">Savory</option></select></label>
+    <label>Sort by<select id="recipe-sort"><option value="country">Country A–Z</option><option value="newest">Newest</option><option value="rating">Family score</option></select></label>
+    <button type="reset" class="button">Reset</button>
+  </form>
+  <p id="recipe-count" role="status" aria-live="polite">{posts.length} breakfasts</p>
+  <p class="filter-help">Quick recipes use the time recorded in the post and exclude advance-preparation steps.</p>
+  <div class="tiles recipe-results" id="recipe-results">
+    {entries.map(({post, search}) => <div class="recipe-result" data-search={search} data-country={post.data.country} data-date={post.data.date.getTime()} data-rating={post.data.rating ?? -1} data-quick={String(post.data.quick)} data-advance={String(Boolean(post.data.advancePrep))} data-overnight={String(/overnight|night before|day before|12–16|at least 8 hours/i.test(post.data.advancePrep ?? ''))} data-style={post.data.mealStyle.join(' ')}><Tile post={post} /><p class="tile-time">{post.data.recipeTime}</p>{post.data.advancePrep && <span class="prep-tag">Plan ahead</span>}</div>)}
+  </div>
+  <p id="no-recipes" hidden>No breakfasts match yet. Try another ingredient or clear the filters.</p>
 </Base>
+<script>
+  const search = document.querySelector<HTMLInputElement>('#recipe-search')!;
+  const filter = document.querySelector<HTMLSelectElement>('#recipe-filter')!;
+  const sort = document.querySelector<HTMLSelectElement>('#recipe-sort')!;
+  const container = document.querySelector<HTMLElement>('#recipe-results')!;
+  const cards = [...container.querySelectorAll<HTMLElement>('.recipe-result')];
+  const normalize = (s: string) => s.toLocaleLowerCase().normalize('NFD').replace(/\p{Diacritic}/gu, '');
+  function update() {
+    const terms = normalize(search.value).trim().split(/\s+/).filter(Boolean);
+    const selected = filter.value;
+    let visible = 0;
+    cards.sort((a,b) => sort.value === 'newest' ? Number(b.dataset.date) - Number(a.dataset.date) || a.dataset.country!.localeCompare(b.dataset.country!) : sort.value === 'rating' ? Number(b.dataset.rating) - Number(a.dataset.rating) || a.dataset.country!.localeCompare(b.dataset.country!) : a.dataset.country!.localeCompare(b.dataset.country!));
+    cards.forEach((card) => {
+      const matchText = terms.every((term) => normalize(card.dataset.search ?? '').includes(term));
+      const matchFilter = selected === 'all' || (selected === 'quick' && card.dataset.quick === 'true') || (selected === 'advance' && card.dataset.advance === 'true') || (selected === 'overnight' && card.dataset.overnight === 'true') || (card.dataset.style ?? '').split(' ').includes(selected);
+      card.hidden = !(matchText && matchFilter);
+      if (!card.hidden) visible++;
+      container.append(card);
+    });
+    document.querySelector('#recipe-count')!.textContent = `${visible} ${visible === 1 ? 'breakfast' : 'breakfasts'}`;
+    (document.querySelector('#no-recipes') as HTMLElement).hidden = visible !== 0;
+  }
+  search.addEventListener('input', update);
+  filter.addEventListener('change', update);
+  sort.addEventListener('change', update);
+  document.querySelector('.recipe-filters')!.addEventListener('reset', () => setTimeout(update, 0));
+</script>

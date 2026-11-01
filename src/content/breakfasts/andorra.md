@@ -6,32 +6,42 @@ rating: 5.0
 flag: ad
 images:
   - /images/andorra.jpg
-about: |
-  Andorra is a tiny country in the Pyrenees mountains between France and Spain. The official language is Catalan, and so is most of the food.
+verdict: "A family favorite; fewer toppings let the crisp crust stand out."
+servings: "4"
+mealStyle: ["savory"]
+beforeYouStart: ["Go light on the toppings to keep the crust crisp."]
+advancePrep: "Make the peppers, tomato base, and dough the night before. Bring the dough out at least 20 minutes before assembling."
+equipment: ["Box grater", "Baking sheet or pizza oven"]
+activeTime: "60–80 minutes across both days"
+cookTime: "60–80 minutes across both days"
+recipeTime: "About 1 hour the night before, then 45–60 minutes in the morning"
+waitingTime: "Overnight refrigeration; at least 20 minutes to warm the dough"
+quick: false
 ---
 
-## The dish
+## Our choice for Andorra
 
-Coca de recapte is a Catalan flatbread. Think of a thin pizza without the cheese, topped with roasted red peppers, eggplant, and onion. I added zucchini, feta, and a little honey to mine.
+Coca de recapte is a Catalan flatbread. Think of a thin pizza without the cheese, topped with roasted red peppers, eggplant, and onion. It started as a way to use up whatever vegetables were on hand, and it's still a bakery favorite across Catalonia and Andorra. Expect a crisp, thin crust with sweet roasted vegetables and a little salty bite on top. I added zucchini, feta, and a little honey to mine.
 
-## What we thought
+## At our table
 
-What's not to love about a veggie-centric breakfast pizza? It's so good.
+What's not to love about a veggie-centric breakfast pizza? It's so good. Go light on the toppings, though. Less is more, and too many toppings take away from the crisp crust.
 
-## Rating
+## Breakfast context: Andorra
 
-5/5
+Andorra is a tiny country high in the Pyrenees mountains between France and Spain. The official language is Catalan, and most of the food is Catalan too. People eat cured meats, sausages, mushrooms, cheese, and hearty stews. It's cold mountain country, so the cooking leans on food that keeps through the winter and fills you up.
 
-## Ingredients and directions
+
+## Recipe
 
 ### Roasted Peppers
 
-### Ingredients
+#### Ingredients
 
 - 2 large red peppers
 - Olive oil (optional)
 
-### Directions
+#### Directions
 
 1. Preheat the oven to 450°F. Cut the red peppers in half, remove the seeds, and place them cut-side down on a baking sheet. I like to rub my peppers in a little olive oil, but you could roast them without it.
 2. Roast 25–30 minutes until the skin is blackened and blistered.
@@ -39,7 +49,7 @@ What's not to love about a veggie-centric breakfast pizza? It's so good.
 
 ### Tomato Base
 
-### Ingredients
+#### Ingredients
 
 - 4 ripe tomatoes, halved
 - 4 garlic cloves, minced
@@ -47,7 +57,7 @@ What's not to love about a veggie-centric breakfast pizza? It's so good.
 - ½ tsp paprika
 - ¾ tsp Italian seasoning
 
-### Directions
+#### Directions
 
 1. Grate the tomatoes on a box grater into a pot, discarding the skins. Add the garlic, salt, paprika, and Italian seasoning.
 2. Cook over medium heat until reduced into a sauce. The time depends on how wet your tomatoes are. Mine took about 10 minutes.
@@ -55,7 +65,7 @@ What's not to love about a veggie-centric breakfast pizza? It's so good.
 
 ### Dough
 
-### Ingredients
+#### Ingredients
 
 - 1½ cups flour
 - ¾ tsp salt
@@ -63,7 +73,7 @@ What's not to love about a veggie-centric breakfast pizza? It's so good.
 - 3 tbsp olive oil
 - ½ cup warm water
 
-### Directions
+#### Directions
 
 1. Combine the flour, salt, yeast, olive oil, and water. Knead until smooth. You may need more water, depending on your flour. Mine took about another ¼ cup to come together. Knead until the dough is smooth and seems like pizza dough.
 2. Wrap the dough up and put it in the fridge. If you're making everything the same day, skip the fridge and let it rise for 30 minutes instead.
@@ -72,7 +82,7 @@ Note: I split this recipe into two and made the peppers, tomato base, and dough 
 
 ### Coca de Recapte
 
-### Ingredients
+#### Ingredients
 
 - Zucchini
 - Eggplant
@@ -84,7 +94,7 @@ Note: I split this recipe into two and made the peppers, tomato base, and dough 
 - Feta
 - Fresh basil
 
-### Directions
+#### Directions
 
 1. Heat your oven to 450°F. Take the dough out of the fridge and leave it at room temperature for at least 20 minutes.
 2. If you're using zucchini, eggplant, or red onion, cut them into very thin slices, so thin that you can almost see through them. Sauté them in the butter over low heat for about 20 minutes until soft. I use about ½ tbsp of butter with 1 zucchini and half a red onion. My wife doesn't like eggplant, so I skipped it (even though it's the traditional topping).

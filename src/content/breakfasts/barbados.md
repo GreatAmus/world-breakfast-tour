@@ -3,31 +3,44 @@ country: "Barbados"
 dish: "Saltfish and bake"
 date: 2026-08-16
 rating: 2.0
-ratingNote: "Saltfish 0/5, bake 4/5"
+ratingNote: "Saltfish: 1/5; the fried bread saved breakfast"
 flag: bb
 images:
   - /images/barbados.jpg
-about: |
-  Barbados is the easternmost island in the Caribbean and was a British colony until 1966. Their food is a mix of West African and British cooking, and salt cod has been part of it since colonial times.
+verdict: "The saltfish went in the garbage; fried bread with powdered sugar saved breakfast."
+servings: "4"
+mealStyle: ["savory"]
+beforeYouStart: ["The bake and saltfish are separate parts; serve together once both are ready."]
+advancePrep: "Soak the saltfish in cold water for at least 4 hours or overnight before starting."
+activeTime: "30–40 minutes"
+cookTime: "30–40 minutes"
+recipeTime: "45–60 minutes after soaking the saltfish"
+waitingTime: "At least 4 hours or overnight to soak the saltfish"
+quick: false
 ---
 
-## The dish
+## Our choice for Barbados
 
-Saltfish and bake is a classic Bajan breakfast. The saltfish is salt cod cooked with onions, peppers, and tomatoes. The bake is a fried dough that puffs up in the oil.
+Saltfish and bake is a classic Bajan breakfast. The saltfish is salt cod soaked, then cooked with onions, peppers, and tomatoes. The bake is a fried dough that puffs up in the oil. It's a holdover from colonial times, when salt cod was cheap and kept without a fridge. Expect a salty, fishy, peppery topping with a soft, sweet fried bread.
 
-## What we thought
+## At our table
 
-The saltfish was terrible. The bake was one of the best frybreads. Saltfish: 0/5. Bake: 4/5.
+We do not like saltfish. I love fish, but I do not like saltfish. Soaking it takes a lot of time, it smells like old fish, and the result just doesn't taste good to me. I'll take fresh fish any time. The kids hated it too.
 
-## Rating
+Once everything was cooked together, it somehow managed to taste bland while still smelling strongly of fish. The tomato overpowered the other flavors, the peppers didn't seem to fit, and the whole thing had the texture of a thick paste. I'd give the saltfish a 1. It went straight into the garbage.
 
-2/5
+Luckily, the fried bread saved breakfast. It wasn't especially different from the other fried breads we've made, but it was good with powdered sugar on top. Good enough to bring the overall score up, anyway.
 
-## Ingredients and directions
+## Breakfast context: Barbados
+
+Barbados is the easternmost island in the Caribbean. Most Barbadians, or Bajans, are descended from enslaved Africans brought to work the sugar plantations, and the island was a British colony until 1966. The food mixes West African and British cooking, with lots of fish, cornmeal, and hot peppers. Salt cod showed up during colonial times because it didn't spoil, and it became a staple.
+
+
+## Recipe
 
 ### Bake
 
-### Ingredients
+#### Ingredients
 
 - 2 cups all-purpose flour
 - 2½ tsp baking powder
@@ -39,7 +52,7 @@ The saltfish was terrible. The bake was one of the best frybreads. Saltfish: 0/5
 - 1–1½ cups water
 - Vegetable oil, for frying
 
-### Directions
+#### Directions
 
 1. Combine all the dry ingredients and the vanilla.
 2. Add a little water at a time until a batter forms. This batter will be similar to pancake batter.
@@ -49,7 +62,7 @@ The saltfish was terrible. The bake was one of the best frybreads. Saltfish: 0/5
 
 ### Saltfish
 
-### Ingredients
+#### Ingredients
 
 - ½ lb dried salted cod, soaked in cold water 4+ hours or overnight
 - 1 tbsp oil
@@ -61,11 +74,9 @@ The saltfish was terrible. The bake was one of the best frybreads. Saltfish: 0/5
 - 1 hot pepper, minced (habanero is preferred, but I used a serrano since I had extra)
 - Black pepper, to taste
 
-### Directions
+#### Directions
 
 1. Drain the saltfish, cover it with fresh water, and boil 10–15 minutes until tender. Drain, cool slightly, and flake with a fork into small pieces, removing any skin or bones. It will smell like fish and have a white nasty film.
 2. Heat the oil in a skillet over medium heat. Add the onion and garlic and cook until tender, 3–4 minutes.
 3. Add the flaked saltfish and hot pepper. Cook a couple of minutes, then add the chopped tomato. Cook 5–6 minutes until the tomato breaks down into the fish.
 4. Stir in the tomato paste and scallions. Mix well and season with black pepper. The fish has a ton of salt, so you likely don't need more.
-
-Note: Again, I hated this recipe.

@@ -6,17 +6,17 @@ import { RED_BELOW, GREEN_FROM } from '../lib.js';
   <section class="page-head">
     <h1>About</h1>
     <p class="lede">
-      We’re touring the world through breakfast recipes in nearly alphabetical order. Once or twice a week, we make breakfast from a different country, inventing a recipe that we think will be a great breakfast while also being true to the country of origin. We adapt the recipes from other recipes online, using ingredients local to us and trying to keep the time required to cook the dishes to under 2 hours.
+      We’re touring the world through breakfast recipes in nearly alphabetical order. Once or twice a week, we make breakfast from a different country, inventing a recipe that we think will be a great breakfast while also being true to the country of origin. These are my own versions, developed from a mix of recipes and adjusted for ingredients I can get locally. I aim for about two hours of hands-on work, but sometimes a recipe is worth breaking that guideline.
     </p>
     <p class="lede">
-      There are 195 countries in the world, which means this project will take a while! Everyone at my house eats the breakfast and gets to rate it. I average the kids’ and adults’ ratings and come up with a combined rating. Very often the kids will hate a dish while the adults love it.
+      There are 195 countries in the world, which means this project will take a while! Everyone at my house eats the breakfast and gets to rate it. I average the adults’ ratings and the kids’ ratings separately, then roughly weight the adults at 60% and the kids at 40%. Very often the kids will hate a dish while the adults love it.
     </p>
   </section>
 
   <section class="intro" aria-labelledby="about-heading">
     <div class="intro-text">
       <h2 id="about-heading">About the project</h2>
-      <p>My family is eating our way around the world, one breakfast at a time. I pick a country, find a breakfast people actually eat there, and cook it. Then everyone rates it on a scale of 1–5.</p>
+      <p>My family is eating our way around the world, one breakfast at a time. I pick a country, choose a dish to explore, and cook our version. Most choices are breakfast dishes; when we take a different route, the post explains why. Then everyone rates it on a scale of 1–5.</p>
       <p>Some recipes turn into new favorites. Some we’ll never make again (sorry, saltfish). Every post has the full recipe, so you can try them at home.</p>
     </div>
     <div class="goals">
@@ -32,7 +32,7 @@ import { RED_BELOW, GREEN_FROM } from '../lib.js';
         </li>
         <li>
           <h3>About two hours of cooking</h3>
-          <p>Breakfast shouldn’t take all day. Some recipes need prep the night before, but the cooking itself takes about two hours or less.</p>
+          <p>About two hours of hands-on work is the goal, not a hard limit. Some recipes need preparation the night before or longer rests. Each post includes estimated hands-on, cooking, and total time.</p>
         </li>
       </ol>
     </div>
@@ -40,11 +40,12 @@ import { RED_BELOW, GREEN_FROM } from '../lib.js';
 
   <section class="rating-guide" aria-labelledby="rating-heading">
     <h2 id="rating-heading">How we rate</h2>
-    <p>Everyone at the table (we sometimes have guests) rates each breakfast out of 5, and the score is a weighted average between adult and kid ratings.</p>
-    <ul class="legend" aria-label="Score colors">
-      <li><span class="swatch tone-high"></span>Green: {GREEN_FROM.toFixed(1)} and up</li>
-      <li><span class="swatch tone-mid"></span>Yellow: {RED_BELOW.toFixed(1)} to {(GREEN_FROM - 0.1).toFixed(1)}</li>
-      <li><span class="swatch tone-low"></span>Red: under {RED_BELOW.toFixed(1)}</li>
+    <p>Everyone rates each breakfast out of 5. I average the adults’ ratings and the kids’ ratings separately, then combine those averages with roughly 60% of the weight on the adults and 40% on the kids. This is a family project, not a scientific study, and I haven’t always been perfectly consistent. The scores here are the ones I recorded at the time.</p>
+    <p>We’re rating our experience of a particular recipe, including our substitutions and cooking results. A low score describes our preferences, rather than the country’s cuisine.</p>
+    <ul class="legend rating-meanings" aria-label="What the scores mean">
+      <li><span class="swatch tone-high"></span>{GREEN_FROM.toFixed(1)}–5.0: Plan to make it when we need a good breakfast idea</li>
+      <li><span class="swatch tone-mid"></span>{RED_BELOW.toFixed(1)}–{(GREEN_FROM - 0.1).toFixed(1)}: Would eat again, but unlikely to enter the breakfast rotation</li>
+      <li><span class="swatch tone-low"></span>Under {RED_BELOW.toFixed(1)}: Wouldn’t eat it again</li>
     </ul>
   </section>
 

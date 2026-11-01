@@ -6,23 +6,37 @@ rating: 4.2
 flag: be
 images:
   - /images/belgium.jpg
-about: |
-  Belgium is a small country next to France, the Netherlands, and Germany. It's known for chocolate, fries, and of course waffles.
+verdict: "I loved the pearl-sugar crunch; others preferred lighter waffles."
+servings: "6 (12 waffles)"
+mealStyle: ["sweet"]
+beforeYouStart: ["Have a Belgian waffle iron and pearl sugar ready. The sugar adds the crunch described in the review."]
+advancePrep: "Start the dough the day before. Allow 2–3 hours for it to warm up after its overnight refrigeration."
+equipment: ["Belgian waffle iron", "Stand mixer with dough hook"]
+activeTime: "35–50 minutes"
+cookTime: "30–40 minutes to cook 12 waffles in batches"
+recipeTime: "4–7 hours across both days, plus overnight refrigeration"
+waitingTime: "1–3-hour first rise and 2–3 hours to warm the chilled dough; optional final proof is extra"
+quick: false
 ---
 
-## The dish
+## Our choice for Belgium
 
-Real Belgian waffles are different than American waffles. Liège waffles are more like a brioche bread cooked in a waffle maker after stuffing the dough with sugar. The pearl sugar caramelizes as they cook.
+Liège waffles are made from a yeasted, brioche-like dough with chunks of pearl sugar mixed in. As they cook, the sugar caramelizes on the outside. They're sold hot from street stands all over Belgium and eaten by hand. Real Belgian waffles are different than American waffles. Expect a dense, chewy waffle with crunchy, caramelized sugar, more like a sweet bread than a pancake.
 
-## What we thought
+## At our table
 
 Extremely tasty, and they reminded me of being in Belgium again. I really like the pearl sugar and the crunch it gives. Why the lower rating? A lot of people liked the lighter waffle you get in the US more than this waffle. I froze the rest and plan on bringing them out for dessert with a scoop of ice cream on top.
 
-## Rating
+## What I learned
 
-4.2/5
+**Idea to test:** I would try letting the shaped dough discs rise for 30–60 minutes before cooking; I skipped that rise in the batch reviewed here.
 
-## Ingredients and directions
+## Breakfast context: Belgium
+
+Belgium is a small country in western Europe, next to France, the Netherlands, and Germany. The north speaks Dutch and the south speaks French, and the food mixes both. Belgians are known for chocolate, fries, beer, and waffles. Rich dairy farmland and a long history of sugar refining made sweet baked goods a big part of daily life.
+
+
+## Recipe
 
 ### Ingredients
 

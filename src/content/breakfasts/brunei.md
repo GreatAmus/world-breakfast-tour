@@ -7,46 +7,56 @@ ratingNote: "Two 5s, and two who didn’t like it"
 flag: bn
 images:
   - /images/brunei.jpg
-about: |
-  Brunei is a small country on the island of Borneo in Southeast Asia. Their food is mostly Malay, with rice at nearly every meal, coconut milk, and plenty of chili.
+verdict: "Two of us loved it; dark meat and spice divided the table."
+servings: "4"
+mealStyle: ["savory"]
+beforeYouStart: ["Make the sambal and coconut rice alongside the fried chicken. The dried chilies need 15–20 minutes to soften."]
+advancePrep: "Dry-brine the chicken uncovered in the refrigerator overnight."
+equipment: ["Blender or food processor", "Deep frying pot"]
+activeTime: "50–70 minutes across both days"
+cookTime: "45–60 minutes with components overlapping"
+recipeTime: "1¼–1¾ hours on serving day, plus the overnight dry brine"
+waitingTime: "Overnight dry brine; 15–20-minute chili soak and 5–10-minute chicken rest on serving day"
+quick: false
 ---
 
-## The dish
+## Our choice for Brunei
 
-Nasi katok is a Bruneian comfort food of steamed white rice with fried chicken and a spicy sambal. I found out the name refers to the traditional practice of buying the meal from a vendor who would "knock" (katok) on your door. I made coconut rice to go with mine.
+Nasi katok is a Bruneian comfort food of steamed rice with fried chicken and a spicy sambal. I found out the name refers to the traditional practice of buying the meal from a vendor who would "knock" (katok) on your door. It's cheap, quick, and sold all day and all night, which is why it's so popular. Expect crispy fried chicken, a sweet and spicy chili sauce, and plain rice to cool it down. I made coconut rice to go with mine.
 
-## What we thought
+## At our table
 
 I am a sucker for fried chicken, and this was a good one. Fried chicken, especially spicy fried chicken, is almost an automatic 5/5 for me as long as it's crisp, seasoned, and not greasy. Two of us loved it (5/5), while two turned out not to like dark meat or thought it was too spicy.
 
-## Rating
+## Breakfast context: Brunei
 
-4.2/5
+Brunei is a small, wealthy country on the island of Borneo in Southeast Asia. Most people are Malay and Muslim, and the country is ruled by a sultan. Their food is mostly Malay, with rice at almost every meal, coconut milk, fish, and plenty of chili. Rice and coconuts grow easily in the hot, wet climate, so they're in almost everything.
 
-## Ingredients and directions
+
+## Recipe
 
 ### Fried Chicken
 
-### Ingredients
+#### Ingredients
 
-#### Chicken
+##### Chicken
 
 - 4–5 bone-in, skin-on chicken thighs or drumsticks
 - Vegetable oil, for frying
 
-#### Dry brine
+##### Dry brine
 
 - 1½ tsp salt
 - 1 tsp garlic powder
 - 1 tsp turmeric
 - 1 tsp black pepper
 
-#### Egg wash
+##### Egg wash
 
 - 2 eggs
 - 2 tbsp water
 
-#### Coating
+##### Coating
 
 - 1 cup all-purpose flour
 - ½ cup cornstarch
@@ -54,7 +64,7 @@ I am a sucker for fried chicken, and this was a good one. Fried chicken, especia
 - ½ tsp garlic powder
 - ½ tsp black pepper
 
-### Directions
+#### Directions
 
 1. The night before, pat the chicken thoroughly dry with paper towels. Rub the chicken with the dry brine mixture. You can make a few shallow cuts into the meat to help the seasoning soak in. Place the chicken on a rack or plate, uncovered, in the refrigerator overnight. This seasons the meat and dries the surface for a crispier crust.
 2. When you're ready to cook, whisk the eggs with the water. In a separate bowl, mix the flour, cornstarch, salt, garlic powder, and pepper.
@@ -64,7 +74,7 @@ I am a sucker for fried chicken, and this was a good one. Fried chicken, especia
 
 ### Sambal
 
-### Ingredients
+#### Ingredients
 
 - 12 dried árbol chiles
 - 3 dried guajillo chiles
@@ -77,7 +87,7 @@ I am a sucker for fried chicken, and this was a good one. Fried chicken, especia
 - 2–4 tbsp water, as needed
 - Salt, to taste
 
-### Directions
+#### Directions
 
 1. Place the árbol and guajillo chiles in a bowl and cover with boiling water. Let them soak for 15–20 minutes, until completely softened. Drain well, remove the stems, and roughly chop.
 2. Add the softened chiles, shallots, garlic, lemongrass, and anchovy paste to a blender or food processor. Blend until you have a thick, mostly smooth paste, adding a tablespoon or two of water only if needed to get it moving. A little texture is fine.
@@ -88,7 +98,7 @@ I am a sucker for fried chicken, and this was a good one. Fried chicken, especia
 
 ### Coconut Rice
 
-### Ingredients
+#### Ingredients
 
 - 2 cups jasmine rice
 - 1 cup unsweetened coconut milk
@@ -96,7 +106,7 @@ I am a sucker for fried chicken, and this was a good one. Fried chicken, especia
 - 1 lemongrass stalk, smashed
 - ½ tsp salt
 
-### Directions
+#### Directions
 
 1. Rinse the rice, then add it to a pot with the rest of the ingredients.
 2. Bring to a boil, then cover and cook on low heat for 20 minutes. Remove from the heat and fluff with a fork.

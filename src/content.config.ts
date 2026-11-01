@@ -15,6 +15,17 @@ const breakfasts = defineCollection({
     flag: z.string().length(2).optional(),
     images: z.array(z.string()).default([]),
     about: z.string().optional(),
+    verdict: z.string().optional(),
+    servings: z.string().optional(),
+    recipeTime: z.string().optional(),
+    activeTime: z.string().optional(),
+    cookTime: z.string().optional(),
+    waitingTime: z.string().optional(),
+    advancePrep: z.string().optional(),
+    beforeYouStart: z.array(z.string()).default([]),
+    equipment: z.array(z.string()).default([]),
+    mealStyle: z.array(z.enum(['sweet', 'savory'])).default([]),
+    quick: z.boolean().default(false),
   }),
 });
 

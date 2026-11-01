@@ -24,7 +24,7 @@ const label = (x) => (x.state === 'none' ? `${x.l}: no countries` : `${x.l}: ${x
 <Base>
   <section class="hero">
     <h1>Eating around the world from A–Z</h1>
-    <p class="hero-sub">A magical breakfast journey for the whole family</p>
+    <p class="hero-sub">One family. A different country at breakfast.</p>
     <p class="lede">So far: {posts.length} down, {total - posts.length} to go. <a href="/about/">Read about the project</a>.</p>
     <ol class="alphabet" aria-label="Progress by letter">
       {letters.map((x) => (
@@ -54,7 +54,7 @@ const label = (x) => (x.state === 'none' ? `${x.l}: no countries` : `${x.l}: ${x
               <span class="preview-excerpt">{excerpt(post)}</span>
               <span class="preview-foot">
                 <Score value={post.data.rating} />
-                <span class="preview-more">Read more</span>
+                <span class="preview-more">View recipe</span>
               </span>
             </span>
           </a>

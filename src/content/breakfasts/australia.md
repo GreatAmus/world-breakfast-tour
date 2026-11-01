@@ -6,23 +6,31 @@ rating: 4.7
 flag: au
 images:
   - /images/australia.jpg
-about: |
-  Australia is a country and a whole continent. The food started out British but changed a lot with immigrants from Europe and Asia. Australians love brunch, and pancakes are a big part of it.
+verdict: "Light pikelets with whipped cream and jam; a familiar breakfast the kids were happy to see."
+servings: "4 (about 20 pikelets)"
+mealStyle: ["sweet"]
+beforeYouStart: ["Have the toppings ready before cooking the pikelets in batches."]
+activeTime: "20–25 minutes"
+cookTime: "15–20 minutes"
+recipeTime: "25–35 minutes"
+waitingTime: "None"
+quick: true
 ---
 
-## The dish
+## Our choice for Australia
 
-Pikelets are similar to American pancakes but are sweeter with less butter. American pancakes are fluffier as well. Bluey means that most kids know what these are.
+Pikelets are small, thick pancakes and a classic Australian treat for breakfast or afternoon tea. Australian kids grow up on them, and thanks to the show Bluey, a lot of American kids know them too. Compared to American pancakes, they're smaller, sweeter, and less fluffy. Expect a soft, sweet little pancake that's great with jam and whipped cream.
 
-## What we thought
+## At our table
 
-There might be more iconic Australian dishes, but you can't have a child under 10 and not make these. Everyone loves pancakes.
+Pancakes! Everyone loves pancakes, especially when they're called pikelets. Bluey made these a must-have when we got to Australia. The batter was nice and basic, and the pikelets came out very light, with a texture we all liked. Whipped cream and jam were great on top. The kids were happy to have something familiar for breakfast again.
 
-## Rating
+## Breakfast context: Australia
 
-4.7/5
+Australia is a country and a whole continent. It started as a British colony, and later immigrants from Europe and Asia changed the food a lot. Australians eat a lot of beef, lamb, and seafood, and they love brunch cafés. Their food is laid back and simple, a lot like American food, with a British accent.
 
-## Ingredients and directions
+
+## Recipe
 
 ### Ingredients
 

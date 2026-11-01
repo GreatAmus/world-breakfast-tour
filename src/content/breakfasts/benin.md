@@ -6,34 +6,43 @@ rating: 3.7
 flag: bj
 images:
   - /images/benin.jpg
-about: |
-  Benin is a narrow country in West Africa on the Gulf of Guinea. Corn, cassava, yams, and beans are the main foods, and most meals are a starch with a spicy sauce.
+verdict: "Spicy stew contrasted with tangy corn dough; good, but not a regular repeat."
+servings: "4"
+mealStyle: ["savory"]
+beforeYouStart: ["Plan for both the corn dough and the stew."]
+advancePrep: "The current method starts the corn mixture the night before; see the recipe for the overnight step."
+activeTime: "30–40 minutes"
+cookTime: "25–35 minutes with components overlapping"
+recipeTime: "40–55 minutes after the overnight preparation"
+waitingTime: "Overnight corn-mixture preparation"
+quick: false
 ---
 
-## The dish
+## Our choice for Benin
 
-Akassa is a dough made with fermented cornmeal, similar to polenta. Gbédjédjén is a spicy stew made with beef and hot peppers. I used masa harina and Greek yogurt to get the sour taste of fermented corn.
+Akassa is a dough made with fermented cornmeal, similar to polenta. Gbédjédjén is a spicy stew made with beef and hot peppers. Starch plus spicy stew is how most people eat in Benin, and akassa is an everyday staple. Expect a soft, slightly sour corn dough that soaks up a hot, rich tomato stew. I used masa harina and Greek yogurt to get the sour taste of fermented corn.
 
-## What we thought
+## At our table
 
 This was surprisingly good for how simple it was, with the spicy stew being a nice contrast to the tangy fermented corn dough. Although it was good, we wouldn't make it regularly.
 
-## Rating
+## Breakfast context: Benin
 
-3.7/5
+Benin is a narrow country in West Africa on the Gulf of Guinea. It was once home to the Kingdom of Dahomey and was a French colony until 1960. Most meals are a starch like corn, cassava, or yams with a spicy sauce or stew. Corn and cassava grow well in the hot, wet climate, and fermenting them helps them keep longer and gives them a sour taste people love.
 
-## Ingredients and directions
+
+## Recipe
 
 ### Akassa
 
-### Ingredients
+#### Ingredients
 
 - 1 cup Maseca (masa harina)
 - ½ cup plain Greek yogurt
 - 2½ cups cold water
 - Pinch of salt
 
-### Directions
+#### Directions
 
 1. Whisk the Maseca with the Greek yogurt and 1 cup of the cold water until a smooth, creamy paste forms. Whisk until there are no lumps left. Leave this on the counter overnight.
 2. Boil the remaining water in a pot with the salt.
@@ -43,7 +52,7 @@ This was surprisingly good for how simple it was, with the spicy stew being a ni
 
 ### Gbédjédjén
 
-### Ingredients
+#### Ingredients
 
 - 1 lb ground beef
 - 3 tbsp vegetable oil
@@ -56,7 +65,7 @@ This was surprisingly good for how simple it was, with the spicy stew being a ni
 - 1 cup beef broth
 - Salt and pepper, to taste
 
-### Directions
+#### Directions
 
 1. Brown the beef, pouring off the extra fat. Move the beef to another dish.
 2. Heat the oil in a pan. Once hot, add the onion and sauté for 2–3 minutes until translucent.

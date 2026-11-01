@@ -6,29 +6,42 @@ rating: 3.2
 flag: kh
 images:
   - /images/cambodia.jpg
-about: |
-  Cambodia is in Southeast Asia and is home to Angkor Wat. Khmer food is milder than Thai food and is built around rice and fish. A lot of dishes balance sour, salty, and sweet.
+verdict: "Fresh and easy to make, but we wanted a stronger flavor."
+servings: "6"
+mealStyle: ["savory"]
+beforeYouStart: ["Cook the rice and broth while preparing the pork. Serve with the pickled vegetables."]
+advancePrep: "Marinate the pork overnight. The vegetables need at least 1 hour to pickle, preferably overnight."
+activeTime: "45–60 minutes across both days"
+cookTime: "30–45 minutes on serving day, with components overlapping"
+recipeTime: "1–1¼ hours on serving day, plus overnight marinating"
+waitingTime: "Overnight pork marinade; vegetables pickle at least 1 hour, preferably overnight; take pork out 20 minutes before cooking"
+quick: false
 ---
 
-## The dish
+## Our choice for Cambodia
 
-Bai sach chrouk translates roughly to "pork and rice" in Khmer. This dish is one of Cambodia's most beloved traditional breakfasts. Thin slices of pork are marinated with garlic, sugar, soy sauce, and fish sauce, then grilled until fragrant and caramelized. The pork is served over rice, often with pickled vegetables, fresh cucumber, and a light bowl of broth. I added a fried egg on top.
+Bai sach chrouk translates roughly to "pork and rice" in Khmer. This dish is one of Cambodia's most beloved traditional breakfasts. Thin slices of pork are marinated with garlic, sugar, soy sauce, and fish sauce, then grilled until fragrant and caramelized. Street vendors grill it over charcoal early in the morning, which is why it's such a common way to start the day. The pork is served over rice, often with pickled vegetables, fresh cucumber, and a light bowl of broth. Expect sweet, smoky, slightly salty meat with crunchy, tangy pickles. I added a fried egg on top.
 
-## What we thought
+## At our table
 
-I liked how fresh this dish is, with several different vegetables. The dish is also easy to put together and feels like a complete meal, unlike many other breakfasts that are heavy on bread. However, I think the flavors are bland and don't stand out. The lack of a distinct "WOW" factor made it something that I wouldn't cook often. The family was consistent on this one.
+I liked how easy this dish was to make and how fresh it felt, with several different vegetables. It feels like a complete meal, unlike many other breakfasts that are heavy on bread. However, the dish itself is bland compared to other BBQ meat recipes, and the flavors don't stand out. If I were going to revise this recipe further, I'd increase the salt in the marinade and pickle the vegetables overnight to get a real sour and sweet flavor. The dish was good but needed an additional flavor kick to make it great. The lack of a distinct "WOW" factor made it something I wouldn't cook often. The family was consistent on this one.
 
-## Rating
+## What I learned
 
-3.2/5
+**Idea to test:** I would increase the marinade salt and pickle the vegetables overnight for a stronger sour-sweet contrast.
 
-## Ingredients and directions
+## Breakfast context: Cambodia
+
+Cambodia is in Southeast Asia, between Thailand and Vietnam, and it's home to the temples of Angkor Wat. Most Cambodians are Khmer and Buddhist. The food is built around rice and fish, with fresh herbs, pickled vegetables, and sauces that balance sour, salty, and sweet. The Mekong River and Tonlé Sap lake supply huge amounts of fish, and the wet climate is perfect for rice.
+
+
+## Recipe
 
 ### Grilled Pork
 
-### Ingredients
+#### Ingredients
 
-#### Pork and marinade
+##### Pork and marinade
 
 - 2 lb boneless pork shoulder
 - ⅓ cup coconut milk
@@ -41,14 +54,14 @@ I liked how fresh this dish is, with several different vegetables. The dish is a
 - 1 tbsp lime juice
 - Oil for the grill or pan
 
-#### Finishing glaze
+##### Finishing glaze
 
 - 2 tbsp brown sugar
 - 2 tsp fish sauce
 - ¼ cup water
 - 2 tsp minced garlic
 
-### Directions
+#### Directions
 
 1. The night before, slice the pork against the grain into ¼-inch-thick pieces.
 2. In a bowl, stir the coconut milk, fish sauce, soy sauce, brown sugar, garlic, pepper, oil, and lime juice together until the sugar dissolves.
@@ -61,7 +74,7 @@ I liked how fresh this dish is, with several different vegetables. The dish is a
 
 ### Pickled Vegetables
 
-### Ingredients
+#### Ingredients
 
 - 1 medium carrot, cut into matchsticks
 - ½ small daikon radish, cut into matchsticks
@@ -73,7 +86,7 @@ I liked how fresh this dish is, with several different vegetables. The dish is a
 - 1 tsp minced garlic
 - 1 small Thai chili, thinly sliced (optional)
 
-### Directions
+#### Directions
 
 1. Combine the vinegar, water, sugar, and salt in a small saucepan. Heat over low heat until the sugar and salt dissolve.
 2. Once the liquid has cooled, add the carrot, daikon, cucumber, garlic, and chili. Stir until all the vegetables are submerged.
@@ -81,13 +94,13 @@ I liked how fresh this dish is, with several different vegetables. The dish is a
 
 ### Rice
 
-### Ingredients
+#### Ingredients
 
 - 2 cups jasmine rice
 - 3½ cups chicken stock
 - Pinch of salt
 
-### Directions
+#### Directions
 
 1. Rinse the rice until the water runs mostly clear.
 2. Add the rice, stock, and salt to a pot.
@@ -96,7 +109,7 @@ I liked how fresh this dish is, with several different vegetables. The dish is a
 
 ### Broth
 
-### Ingredients
+#### Ingredients
 
 - 3 cups low-sodium chicken stock
 - 1 tsp minced garlic
@@ -105,20 +118,20 @@ I liked how fresh this dish is, with several different vegetables. The dish is a
 - ½ tsp black pepper
 - Salt, to taste
 
-### Directions
+#### Directions
 
 1. Combine all the broth ingredients in a saucepan and bring to a boil. Reduce the heat and simmer for 10 minutes.
 
 ### To Serve
 
-### Ingredients
+#### Ingredients
 
 - Fresh cucumber slices
 - Fresh cilantro
 - Lime wedges
 - 1 fried egg per person
 
-### Directions
+#### Directions
 
 1. Spoon a mound of rice onto each plate.
 2. Arrange the grilled pork over the rice.

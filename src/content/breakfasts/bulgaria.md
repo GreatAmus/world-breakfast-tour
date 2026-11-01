@@ -7,23 +7,33 @@ ratingNote: "Adults rated it higher than the kids"
 flag: bg
 images:
   - /images/bulgaria.jpg
-about: |
-  Bulgaria is in southeast Europe on the Black Sea. Their food has a lot in common with Greek and Turkish food. Bulgarians are proud of their yogurt and white cheese, and both show up in a lot of dishes.
+verdict: "Crisp outside, soft and tangy inside; the adults liked it more than the kids."
+servings: "6"
+mealStyle: ["savory"]
+beforeYouStart: ["Keep the phyllo ready for working in pairs of sheets. Allow 15 minutes for the baked pastry to cool."]
+advancePrep: "Thaw the phyllo overnight in the refrigerator before you start."
+equipment: ["Round pie dish"]
+activeTime: "20–30 minutes"
+cookTime: "35–40 minutes"
+recipeTime: "1¼–1½ hours after thawing the phyllo"
+waitingTime: "Thaw phyllo overnight; cool the baked pastry for 15 minutes"
+quick: false
 ---
 
-## The dish
+## Our choice for Bulgaria
 
-Banitsa is a traditional Bulgarian pastry made from thin, flaky sheets of dough layered with a cheese and egg filling. It's baked until puffed and golden, with a crisp outside and a soft, tangy, cheesy inside.
+Banitsa is a traditional Bulgarian pastry made from thin, flaky sheets of dough layered with a cheese and egg filling. It's sold at bakeries everywhere and eaten for breakfast with yogurt or ayran, a yogurt drink. Families also make it for holidays. Expect a crisp, flaky outside and a soft, tangy, cheesy inside.
 
-## What we thought
+## At our table
 
-I've actually had this dish from bakeries before. Surprisingly easy to make and quick to assemble, banitsa is great for mornings when you don't have a lot of time. Once again, the adults rated it much higher than the kids.
+I've actually had this dish from bakeries before. The outside came out crisp and the inside soft, tangy, and cheesy. Surprisingly easy to make and quick to assemble, banitsa is great for mornings when you don't have a lot of time. Once again, the adults rated it much higher than the kids.
 
-## Rating
+## Breakfast context: Bulgaria
 
-4.1/5
+Bulgaria is in southeast Europe on the Black Sea. It was part of the Ottoman Empire for almost 500 years, so its food has a lot in common with Greek and Turkish food. People eat a lot of yogurt, white cheese, vegetables, and bread. Bulgarians are proud of their yogurt. The bacteria that make it are even named after the country.
 
-## Ingredients and directions
+
+## Recipe
 
 ### Ingredients
 

@@ -7,23 +7,35 @@ ratingNote: "Our daughter gave it 4.5"
 flag: bi
 images:
   - /images/burundi.jpg
-about: |
-  Burundi is a small, landlocked country in East Africa. It has a rich food culture built around locally grown staples such as beans, bananas, cassava, and sweet potatoes.
+verdict: "The family loved the sweet-and-salty combination; I liked the flavor more than the mushy texture."
+servings: "4"
+mealStyle: ["savory"]
+beforeYouStart: ["Check plantain ripeness first: the method simmers green plantains and pan-cooks yellow ones."]
+activeTime: "25–35 minutes"
+cookTime: "30–40 minutes with components overlapping"
+recipeTime: "40–50 minutes"
+waitingTime: "None beyond simmering; plantain timing depends on ripeness"
+quick: false
 ---
 
-## The dish
+## Our choice for Burundi
 
-Ibiharage n'ibitoke is a traditional Burundian dish combining beans (ibiharage) and plantains (ibitoke). The dish itself is savory and hearty with great flavors.
+Ibiharage n'ibitoke is a traditional Burundian dish combining beans (ibiharage) and plantains (ibitoke). Beans are eaten almost every day in Burundi, and pairing them with plantains makes a cheap, filling meal. Expect a savory, hearty bean stew with tomato and ginger, and soft plantains on the side.
 
-## What we thought
+## At our table
 
-How delicious this dish was came as a huge surprise for me, as I typically do not like African food. This was a massive hit with my daughter, who went back for seconds. She gave it a 4.5/5, which I think makes this her second favorite dish! I thought the dish was more middle of the road than the rest of the family did. Good, but not nearly as good as some of the other rockstars.
+This was a much bigger hit than I expected. The beans and plantains were really good together. I probably shouldn't have been surprised, since sweet and salty combinations tend to score pretty well at our house.
 
-## Rating
+My daughter went back for seconds and gave it a 4.5/5, which I think makes it her second-favorite dish so far. I thought it was more middle of the road, but my one lower rating was outvoted by three higher ones.
 
-4.2/5
+For me, the problem was the texture. The flavor worked when I ate all the components together, but the whole bite was mushy. Good flavor, just not a texture I loved.
 
-## Ingredients and directions
+## Breakfast context: Burundi
+
+Burundi is a small, landlocked country in East Africa, on the shore of Lake Tanganyika. It's one of the most crowded countries in Africa, and most people farm small plots. It has a rich food culture built around locally grown staples such as beans, bananas, cassava, and sweet potatoes. Beans are a big source of protein, since meat is expensive.
+
+
+## Recipe
 
 ### Ingredients
 

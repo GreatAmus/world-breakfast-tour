@@ -6,27 +6,35 @@ rating: 3.0
 flag: bt
 images:
   - /images/bhutan.jpg
-about: |
-  Bhutan is a small kingdom in the Himalayas between India and China. It measures how the country is doing with Gross National Happiness. In Bhutan, chilies are a vegetable, not a spice.
+verdict: "I enjoyed the savory pancakes with spicy chilies, but wouldn’t make it regularly."
+servings: "2–3"
+mealStyle: ["savory"]
+beforeYouStart: ["Have the crepe batter ready before cooking the chili-cheese eggs. Choose chilies for your preferred heat."]
+activeTime: "25–35 minutes"
+cookTime: "20–30 minutes with components overlapping"
+recipeTime: "35–45 minutes"
+waitingTime: "None"
+quick: true
 ---
 
-## The dish
+## Our choice for Bhutan
 
-Ema datshi is cheese-covered chilies, and it's the national dish. I made the version with eggs. Khur-le are buckwheat crepes. I used serrano chilies and a mix of mozzarella and feta.
+Ema datshi is chilies cooked in cheese, and it's the national dish of Bhutan. Bhutanese families eat it almost every day, usually with rice. I made the version with eggs and served it with khur-le, thin buckwheat crepes from central Bhutan. Expect a hot, creamy, cheesy sauce with soft eggs, balanced by earthy crepes. I used serrano chilies and a mix of mozzarella and feta.
 
-## What we thought
+## At our table
 
 I quite enjoyed the combination. The savory pancakes were great when paired with the spicy chilies. I ended up giving it a 3/5 just because it wasn't something I'd make again. Good one-time experience, but not good enough for me to make for the family on a regular basis.
 
-## Rating
+## Breakfast context: Bhutan
 
-3/5
+Bhutan is a small Buddhist kingdom high in the Himalayas between India and China. It measures how the country is doing with Gross National Happiness. People eat red rice, buckwheat, and cheese made from cow and yak milk. Chilies are treated as a vegetable, not a spice. In cold mountain valleys, buckwheat grows where rice won't, and chilies add heat and flavor to simple meals.
 
-## Ingredients and directions
+
+## Recipe
 
 ### Khur-le (Buckwheat Crepes)
 
-### Ingredients
+#### Ingredients
 
 - 1 cup buckwheat flour
 - 1 egg
@@ -34,7 +42,7 @@ I quite enjoyed the combination. The savory pancakes were great when paired with
 - Pinch of salt
 - Butter, for greasing the pan
 
-### Directions
+#### Directions
 
 1. Whisk the buckwheat flour, egg, and salt together while slowly adding water until you get a smooth, thin consistency. It should be like crepe batter, thin enough to pour and spread across the pan.
 2. Heat a skillet over medium heat and grease it with butter.
@@ -43,7 +51,7 @@ I quite enjoyed the combination. The savory pancakes were great when paired with
 
 ### Egg Ema Datshi (Bhutanese Chili Cheese Eggs)
 
-### Ingredients
+#### Ingredients
 
 - 2–3 eggs
 - 1 tbsp butter
@@ -55,7 +63,7 @@ I quite enjoyed the combination. The savory pancakes were great when paired with
 - ¼ cup crumbled feta
 - Salt and black pepper, to taste
 
-### Directions
+#### Directions
 
 1. Melt the butter in a pan over medium-low heat. Sauté the onion for 2–3 minutes, then add the garlic and chilies. Cook about 5 minutes, until the chilies are slightly tender.
 2. Pour in the water and bring to a gentle simmer.

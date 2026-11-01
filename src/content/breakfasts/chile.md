@@ -6,29 +6,39 @@ rating: 4.5
 flag: cl
 images:
   - /images/chile.jpg
-about: |
-  Chile is a long, skinny country running down the west coast of South America. It's over 2,600 miles long but usually less than 150 miles wide. Chileans eat a ton of bread, more than almost any other country, and they put avocado on just about everything.
+verdict: "Crunchy bread everyone enjoyed; avocado toast appealed more to the family than to me."
+servings: "4 (4 marraquetas)"
+mealStyle: ["savory"]
+beforeYouStart: ["Have a baking stone, a metal steam pan, and a rice-floured cloth ready. Mash the avocado shortly before serving."]
+advancePrep: "Refrigerate the dough for 12–16 hours. Allow for proofing, a 45–60-minute oven preheat, and cooling."
+equipment: ["Baking stone", "Metal steam pan", "Rice-floured cloth", "Pizza peel or rimless baking sheet"]
+activeTime: "45–60 minutes across both days"
+cookTime: "30–35 minutes"
+recipeTime: "3–4 hours of preparation, proofing, baking, and cooling across both days, plus 12–16 hours in the refrigerator"
+waitingTime: "20-minute initial rest, 30–45-minute bulk rest, 20-minute ball rest, 30–90-minute final proof, and 20–30-minute cooling. Preheat the oven during the final proof."
+quick: false
 ---
 
-## The dish
+## Our choice for Chile
 
-Marraqueta is Chile's everyday bread. It's a crusty roll made of four pieces you can pull apart, and it's what most people pick up from the bakery in the morning. The classic way to eat it is with palta, which is just mashed avocado. I baked my marraquetas from scratch and topped the avocado with everything bagel seasoning, which isn't traditional.
+Marraqueta is Chile's everyday bread. It's a crusty roll made of four pieces you can pull apart, and most Chileans pick some up fresh from the bakery every morning. The classic way to eat it is with palta, which is mashed avocado. Expect a crunchy crust with a soft, airy inside, topped with creamy, lightly salted avocado. I topped mine with everything bagel seasoning, which isn't traditional.
 
-## What we thought
+## At our table
 
 This recipe made a nice crunchy bread, one that could have been sold in any bakery. The contrast between the crunchy crust and soft inside was excellent. I'd make the bread as a side for any other dish I was planning. The whole recipe was extremely easy, which is great for anyone planning something fast for the next morning.
 
 Overall, this recipe was basic avocado bread. Since my wife and kids love avocado bread, the recipe scored very high with them. I don't love avocado bread and found this recipe too basic. After all, the topping is just smashed avocado with a few basic add-ins. The lack of uniqueness meant the recipe didn't remind me of going to Chile. I'd make it again just because the family liked it so much, but I'd rather eat something more exciting.
 
-## Rating
+## Breakfast context: Chile
 
-4.5/5
+Chile is a long, skinny country running down the west coast of South America, between the Andes and the Pacific. Most Chileans have Spanish and Indigenous roots, and German immigrants also settled in the south. People eat a lot of bread, seafood, corn, and avocados. Chileans eat more bread than almost any other country, and avocados grow well in the mild central valleys, so the two together are a daily habit.
 
-## Ingredients and directions
+
+## Recipe
 
 ### Marraquetas
 
-### Ingredients
+#### Ingredients
 
 - 500 g bread flour (about 12% protein)
 - 335 g water, plus up to 15 g extra if needed
@@ -37,7 +47,7 @@ Overall, this recipe was basic avocado bread. Since my wife and kids love avocad
 - Rice flour, for the cloth
 - Neutral oil, for the spoon handle
 
-### Directions
+#### Directions
 
 1. Mix the flour, 335 g of water, and yeast. Cover and let it sit for 20 minutes.
 2. Add the salt and knead until smooth and elastic. If the dough feels firm, add the extra water a little at a time. It should be soft and slightly tacky but still hold a round shape.
@@ -52,7 +62,7 @@ Overall, this recipe was basic avocado bread. Since my wife and kids love avocad
 
 ### Palta
 
-### Ingredients
+#### Ingredients
 
 - 300 g ripe avocado
 - 2 g fine salt, plus more to taste
@@ -61,7 +71,7 @@ Overall, this recipe was basic avocado bread. Since my wife and kids love avocad
 - Cold water, only if needed
 - Everything bagel seasoning, to taste
 
-### Directions
+#### Directions
 
 1. Mash most of the avocado until creamy, then fold in the rest roughly mashed so it keeps some texture.
 2. Stir in the salt, olive oil, and lemon juice. If it feels stiff, add cold water a teaspoon at a time. Ripe avocados usually don't need any.
