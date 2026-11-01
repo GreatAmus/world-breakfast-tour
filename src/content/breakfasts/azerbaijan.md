@@ -3,39 +3,35 @@ country: "Azerbaijan"
 dish: "Shorgoghal"
 date: 2026-07-26
 rating: 4.0
+serves: "10 or more (about 20 rolls)"
+time: "About 3 hours"
 flag: az
 images:
   - /images/azerbaijan.jpg
-verdict: "A hit with sweet jam, though I wanted more butter and spice in the bread."
-servings: "10 or more (about 20 rolls)"
-mealStyle: ["savory"]
-beforeYouStart: ["Steep the saffron in warm milk for 10 minutes before mixing. Serve with sweet jam."]
-equipment: ["Rolling pin"]
-activeTime: "60–80 minutes"
-cookTime: "40–45 minutes"
-recipeTime: "3–3½ hours"
-waitingTime: "1-hour rise, 10–15-minute final rest, and brief cooling; saffron steeps while yeast activates"
-quick: false
 ---
 
-## Our choice for Azerbaijan
-
-Shorgoghal is a flaky, spiced pastry from Azerbaijan. It's baked for Novruz, the spring new year, when families make big batches of pastries to share. Thin layers of buttered dough are rolled up with a filling of fennel, cumin, and turmeric. Expect a flaky, buttery roll that's savory and a little earthy from the spices.
-
-## At our table
-
-Delicious savory pastry. These were excellent with a sweet jam. The jam contrast really emphasized the spice. I screwed this recipe up a little, though. I didn't add enough butter or spice to the bread, so the spice didn't come through as much as it should have. I would definitely make these again, as they were a big hit.
-
-## What I learned
-
-**Idea to test:** I would try spreading the spices over the dough before rolling it, like a cinnamon roll, to distribute the flavor more evenly.
-
-## Breakfast context: Azerbaijan
+## About Azerbaijan
 
 Azerbaijan sits on the Caspian Sea between Russia and Iran. Most people are Muslim and speak a language close to Turkish. The food is close to Persian and Turkish cooking, with lots of rice, lamb, herbs, saffron, and flatbread. Azerbaijan sat on the old trade routes, so spices like saffron and fennel became part of everyday cooking.
 
+## The Dish
 
-## Recipe
+Shorgoghal is a flaky, spiced pastry from Azerbaijan. It's baked for Novruz, the spring new year, when families make big batches of pastries to share. Thin layers of buttered dough are rolled up with a filling of fennel, cumin, and turmeric. Expect a flaky, buttery roll that's savory and a little earthy from the spices.
+
+## Review
+
+Delicious savory pastry. These were excellent with a sweet jam. The jam contrast really emphasized the spice. I screwed this recipe up a little, though. I didn't add enough butter or spice to the bread, so the spice didn't come through as much as it should have. I would definitely make these again, as they were a big hit.
+
+## Rating
+
+4/5
+
+## Shorgoghal
+
+- Serves: 10 or more (about 20 rolls)
+- Time: About 3 hours
+
+## Ingredients and directions
 
 ### Ingredients
 

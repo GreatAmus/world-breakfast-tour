@@ -221,13 +221,16 @@ main { max-width: var(--page); margin: 0 auto; padding: 0 1.25rem 4rem; }
 .prose h2 { font-size: 1.75rem; font-weight: 800; margin: 2.75rem 0 1rem; }
 .prose h2:first-child { margin-top: 0; }
 /* The recipe is the last section: set it off with a heavy rule */
-
+.prose h2:last-of-type { font-size: 2rem; margin-top: 3.5rem; padding-top: 1.25rem; border-top: 3px solid var(--ink); }
 .prose h3 { font-size: 1.25rem; font-weight: 700; margin: 2rem 0 0.6rem; }
 .prose ul, .prose ol { padding-left: 1.4rem; margin: 0 0 1.25em; }
 .prose li { margin-bottom: 0.35em; }
 .prose ol li::marker { font-family: var(--display); font-weight: 700; }
 .prose ul li::marker { color: var(--yolk); }
-
+@media (min-width: 760px) {
+  .prose h2:last-of-type ~ ul { columns: 2; column-gap: 2.5rem; }
+  .prose h2:last-of-type ~ ul li { break-inside: avoid; }
+}
 
 .post-nav {
   max-width: var(--measure);
@@ -337,72 +340,12 @@ main { max-width: var(--page); margin: 0 auto; padding: 0 1.25rem 4rem; }
 /* Ingredient groups inside a recipe (e.g. Dough, Filling) */
 .prose h4 { font-family: var(--display); font-size: 1rem; font-weight: 700; color: var(--muted); margin: 1.25rem 0 0.4rem; }
 
-/* Recipe tools and explicit recipe layout */
-[hidden] { display: none !important; }
+/* Servings, time, and the Jump to recipe button under the score */
 html { scroll-behavior: smooth; }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
-.post-header h1 { font-size: clamp(2.25rem, 5.5vw, 4.25rem); overflow-wrap: anywhere; }
-.post-title > div { min-width: 0; }
-.recipe-facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 180px), 1fr)); gap: 1rem 1.5rem; padding: 1.25rem 0; margin: 1.5rem 0 0; border-top: 1px solid var(--rule); }
-.recipe-facts dt { font-family: var(--display); font-weight: 700; font-size: .9rem; color: var(--muted); }
-.recipe-facts dd { margin: .2rem 0 0; }
-.advance-note { padding: 1rem 1.25rem; border-left: 4px solid var(--yolk); background: var(--surface); border-radius: 0 6px 6px 0; }
-.recipe-actions { display: flex; flex-wrap: wrap; align-items: center; gap: .75rem 1rem; margin-top: 1.25rem; }
-button, input, select { font: inherit; color: inherit; }
-button { cursor: pointer; background: transparent; }
-.before-start { max-width: calc(var(--measure) + 3rem); margin: 2rem auto; padding: 1.5rem; background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; scroll-margin-top: 1rem; }
-.before-start h2 { font-size: 1.5rem; }
-.before-start ul { padding-left: 1.25rem; }
-.before-start li { margin-bottom: .5rem; }
-.before-start p:last-child { margin-bottom: 0; }
-.recipe-card { background: var(--surface); border: 1px solid var(--rule); border-top: 4px solid var(--ink); border-radius: 8px; padding: clamp(1rem, 3vw, 2rem); margin-top: 3rem; }
-.recipe-card #recipe { margin-top: 0; scroll-margin-top: 1rem; }
-.recipe-card h3 { padding-top: 1rem; border-top: 1px solid var(--rule); font-size: 1.45rem; }
-.recipe-card h4 { color: var(--ink); font-size: 1.1rem; margin-top: 1.5rem; }
-.recipe-card h5 { font-family: var(--display); font-size: 1rem; margin: 1rem 0 .5rem; }
-.recipe-card ol li { padding-left: .25rem; margin-bottom: 1rem; }
-.recipe-card ul { list-style: none; padding-left: 0; }
-.ingredient-item label { display: flex; gap: .75rem; align-items: baseline; padding: .35rem 0; cursor: pointer; }
-.ingredient-item input { width: 1.15rem; height: 1.15rem; flex: none; accent-color: var(--high); }
-.ingredient-item input:checked + span { text-decoration: line-through; color: var(--muted); }
-.recipe-filters { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 1rem; padding: 1.25rem; background: var(--surface); border-radius: 10px; }
-.recipe-filters label { display: flex; flex-direction: column; gap: .4rem; font-family: var(--display); font-weight: 600; min-width: 0; }
-.recipe-filters .search-field { flex: 1 1 260px; }
-.recipe-filters input, .recipe-filters select { width: 100%; padding: .65rem; border: 1px solid var(--rule); border-radius: 5px; background: var(--tile); }
-.filter-help, .tile-time { color: var(--muted); font-size: .9rem; }
-.filter-help { margin-top: -.5rem; }
-.tile-time { margin: .6rem 0 .25rem; }
-.prep-tag { font-family: var(--display); font-size: .8rem; font-weight: 700; border: 1px solid var(--rule); padding: .15rem .5rem; border-radius: 99px; }
-.recipe-results { margin-top: 2rem; }
-.recipe-results .tile-dish { padding-right: 0; }
-@media (max-width: 520px) { .recipe-filters > label, .recipe-filters button { width: 100%; } .post-title { align-items: flex-start; } }
-@media print {
-  @page { margin: 16mm; }
-  :root { --ink: #000; --muted: #333; --tile: #fff; --surface: #fff; --rule: #bbb; color-scheme: light; }
-  body { background: #fff; font-size: 10pt; line-height: 1.45; }
-  main { max-width: none; padding: 0; }
-  .site-header, .site-footer, .skip, .recipe-actions, .post-photo, .recipe-story, .post-nav, .post-date, .post-score, .post-title .flag, .post-header > .kicker { display: none !important; }
-  .post, .prose { max-width: none; margin: 0; }
-  .post-header { padding: 0; }
-  .post-header h1 { font-size: 24pt; }
-  .post-title { margin-bottom: .75rem; }
-  .recipe-facts { margin: 0; padding: .5rem 0; gap: .5rem; }
-  .advance-note, .before-start { padding: .5rem; margin: .5rem 0; border-radius: 0; }
-  .before-start { max-width: none; }
-  .before-start h2 { font-size: 13pt; }
-  .recipe-card { border: 0; padding: 0; margin: 1rem 0 0; }
-  .recipe-card h2 { font-size: 18pt; }
-  h2, h3, h4, h5 { break-after: avoid; }
-  .recipe-card li { break-inside: avoid; }
-  .ingredient-item input { display: none; }
-  .ingredient-item input:checked + span { color: #000; text-decoration: none; }
-  .ingredient-item label { padding: 0; }
-  a { text-decoration: none; }
-}
-
-/* Timing estimates and rating meanings are part of the reader-facing recipe facts. */
-.timing-explainer, .waiting-note { color: var(--muted); font-size: .9rem; }
-.waiting-note { margin-bottom: 1.25rem; }
-.rating-meanings { display: grid; gap: .75rem; }
-.rating-meanings li { align-items: baseline; }
-.rating-meanings .swatch { flex: none; }
+.prose h2 { scroll-margin-top: 1.5rem; }
+.post-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem 1.75rem; margin-top: 1.5rem; padding-top: 1.25rem; border-top: 1px solid var(--rule); }
+.post-meta p { margin: 0; }
+.meta-label { font-family: var(--display); font-weight: 700; margin-right: 0.35rem; }
+.jump { margin-left: auto; }
+@media (max-width: 600px) { .jump { margin-left: 0; } }

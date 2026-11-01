@@ -3,36 +3,35 @@ country: "Botswana"
 dish: "Bogobe with egg and relish"
 date: 2026-09-05
 rating: 1.5
+serves: "4"
+time: "About 1 hour"
 flag: bw
 images:
   - /images/botswana.jpg
-verdict: "The squash, corn, yogurt, and relish never came together for us; we ate something else."
-servings: "4"
-mealStyle: ["savory"]
-beforeYouStart: ["This version uses masa harina rather than sorghum meal. Start with the squash, which simmers for 20 minutes."]
-activeTime: "25–35 minutes"
-cookTime: "35–45 minutes with components overlapping"
-recipeTime: "50–65 minutes"
-waitingTime: "None beyond the covered cooking steps"
-quick: false
 ---
 
-## Our choice for Botswana
-
-Bogobe is a thick porridge made from sorghum or cornmeal, and it's the basic everyday starch in Botswana. For breakfast it's often served softer, with eggs and a tomato and onion relish. Expect a thick, mild porridge with a runny egg and a sweet, savory tomato relish on top. I had to substitute several ingredients, since authentic sorghum meal and lerotse are hard to find.
-
-## At our table
-
-This dish was just bland. Porridge isn't my favorite, and this did not change my mind. I usually really like butternut squash, but it didn't work with the masa harina here. The sourness of the Greek yogurt didn't seem to fit with the squash's sweetness either.
-
-The relish never came together for me. It tasted like chopped onion and tomatoes dumped on eggs. Without the egg, the rest was basically a wet corn-and-squash mixture. The kids didn't like it either. No one thought it was good, so we tossed it and ate something else.
-
-## Breakfast context: Botswana
+## About Botswana
 
 Botswana is a landlocked country in southern Africa, home to the Kalahari Desert. Cattle are a huge part of life there. Most meals are beef with a thick porridge made from sorghum or corn. Sorghum handles drought better than most grains, so it grows where other crops won't.
 
+## The Dish
 
-## Recipe
+Bogobe is a thick porridge made from sorghum or cornmeal, and it's the basic everyday starch in Botswana. For breakfast it's often served softer, with eggs and a tomato and onion relish. Expect a thick, mild porridge with a runny egg and a sweet, savory tomato relish on top. I had to substitute several ingredients, since authentic sorghum meal and lerotse are hard to find.
+
+## Review
+
+This dish was just bland. Porridges are not my favorite, and this did not change my mind. I usually really like butternut squash, but it did not complement the masa harina. Similarly, the sourness of the Greek yogurt did not really mix with the sweetness of the butternut squash. The flavors of the relish never mixed either, and it tasted like chopped onion and tomatoes dumped on eggs. The kids did not like it either. Without the egg, it's basically just a wet corn mix covered with squash. No one thought it was good, so we tossed it and ate something else.
+
+## Rating
+
+1.5/5
+
+## Bogobe with egg and relish
+
+- Serves: 4
+- Time: About 1 hour
+
+## Ingredients and directions
 
 ### Ingredients
 

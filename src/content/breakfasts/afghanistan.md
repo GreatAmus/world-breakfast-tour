@@ -3,34 +3,36 @@ country: "Afghanistan"
 dish: "Bolani"
 date: 2026-06-21
 rating: 2.5
+serves: "3 (6 bolani)"
+time: "About 1½ hours"
+ratingNote: "Adults 3/5, kids 2/5"
 flag: af
 images:
   - /images/afghanistan.jpg
-verdict: "Mild on its own; hot sauce helped the adults, but the kids still weren’t fans."
-servings: "3 (6 bolani)"
-mealStyle: ["savory"]
-beforeYouStart: ["Rest the dough for 30 minutes before shaping.", "The written method uses an air fryer; cook in batches so the bolani have space."]
-activeTime: "45–60 minutes"
-cookTime: "35–55 minutes"
-recipeTime: "1¼–1¾ hours"
-waitingTime: "30-minute dough rest; overlaps with cooking the onions"
-quick: false
 ---
 
-## Our choice for Afghanistan
-
-Bolani are thin flatbreads stuffed with a filling, usually potato, leeks, or pumpkin, then cooked until crisp. They're cheap, filling, and easy to eat on the go, which is why they're one of the most popular street foods in Afghanistan. They're usually served with chaka, a garlicky yogurt dip. Expect a crisp outside, a soft, herby potato middle, and a cool, tangy dip to cut through it. Mine had a potato filling with green onion, cilantro, mint, and green chili, and I cooked them in the air fryer instead of frying them.
-
-## At our table
-
-These were pretty bland. They just didn't have much flavor. They may have been better fried, since I made them in the air fryer to avoid eating so much fried dough. Hot sauce made a big difference. It brought the flavor from a 3 to a 4 for me. Adults gave it a 3/5 overall. Kids gave it a 2/5 and still didn't like it, even with hot sauce.
-
-## Breakfast context: Afghanistan
+## About Afghanistan
 
 Afghanistan is a landlocked, mountainous country between Central and South Asia. It sat right on the old Silk Road, so traders brought in Persian, Indian, and Central Asian cooking. Most people eat rice, flatbread, and yogurt, with lamb, chicken, and lots of fresh herbs. Winters are hard and much of the land is too dry for big farms, so filling, simple foods like bread and potatoes stretch a long way.
 
+## The Dish
 
-## Recipe
+Bolani are thin flatbreads stuffed with a filling, usually potato, leeks, or pumpkin, then cooked until crisp. They're cheap, filling, and easy to eat on the go, which is why they're one of the most popular street foods in Afghanistan. They're usually served with chaka, a garlicky yogurt dip. Expect a crisp outside, a soft, herby potato middle, and a cool, tangy dip to cut through it. Mine had a potato filling with green onion, cilantro, mint, and green chili, and I cooked them in the air fryer instead of frying them.
+
+## Review
+
+These were pretty bland. They just didn't have much flavor. They may have been better fried, since I made them in the air fryer to avoid eating so much fried dough. Hot sauce made a big difference. It brought the flavor from a 3 to a 4 for me. Adults gave it a 3/5 overall. Kids gave it a 2/5 and still didn't like it, even with hot sauce.
+
+## Rating
+
+2.5/5
+
+## Bolani
+
+- Serves: 3 (6 bolani)
+- Time: About 1½ hours
+
+## Ingredients and directions
 
 ### Ingredients
 

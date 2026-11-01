@@ -3,39 +3,39 @@ country: "Bolivia"
 dish: "Chicken salteñas"
 date: 2026-09-16
 rating: 4.2
+serves: "6 (12 salteñas)"
+time: "About 3 hours"
 flag: bo
 images:
   - /images/bolivia.jpg
-verdict: "Crisp pastry with a touch of sweetness and a rich, savory filling."
-servings: "6 (12 salteñas)"
-mealStyle: ["savory"]
-beforeYouStart: ["Chill the filling until the gelatin sets before filling the pastry; the recipe uses 30 minutes in the freezer or an overnight refrigerator rest."]
-equipment: ["Blender", "Baking sheet"]
-activeTime: "75–100 minutes"
-cookTime: "65–80 minutes across filling preparation and baking"
-recipeTime: "2½–3½ hours using the freezer method"
-waitingTime: "30-minute filling chill; 20-minute dough rest and 10-minute ball rest; 5 minutes after baking. Filling can instead chill overnight."
-quick: false
 ---
 
-## Our choice for Bolivia
-
-Bolivian chicken salteñas are a savory chicken stew packaged in a golden, buttery pastry. The filling combines shredded chicken, potatoes, peas, olives, egg, onion, garlic, and warm spices in an aromatic broth. They're a mid-morning tradition in Bolivia, and most people have them on the way to work or school. Expect a slightly sweet crust with a juicy, saucy filling. You eat these by hand, carefully, so the broth doesn't spill.
-
-## At our table
-
-A touch of sweetness balances the savory richness. The pastry is crisp and golden on the outside but sturdy enough to hold the piping hot filling. They were very good.
-
-## Breakfast context: Bolivia
+## About Bolivia
 
 Bolivia is a landlocked country in the middle of South America, with cities high in the Andes and rainforest in the east. Most Bolivians have Indigenous roots, and Quechua and Aymara are spoken alongside Spanish. People eat a lot of potatoes, corn, quinoa, and chilies. Those crops grow high in the mountains where little else will, which is why Bolivia grows hundreds of kinds of potatoes.
 
+## The Dish
 
-## Recipe
+Bolivian chicken salteñas are a savory chicken stew packaged in a golden, buttery pastry. The filling combines shredded chicken, potatoes, peas, olives, egg, onion, garlic, and warm spices in an aromatic broth. They're a mid-morning tradition in Bolivia, and most people have them on the way to work or school. Expect a slightly sweet crust with a juicy, saucy filling. You eat these by hand, carefully, so the broth doesn't spill.
+
+## Review
+
+A touch of sweetness balances the savory richness. The pastry is crisp and golden on the outside but sturdy enough to hold the piping hot filling. They were very good.
+
+## Rating
+
+4.2/5
+
+## Chicken salteñas
+
+- Serves: 6 (12 salteñas)
+- Time: About 3 hours
+
+## Ingredients and directions
 
 ### Chicken Filling
 
-#### Ingredients
+### Ingredients
 
 - 1½ lb boneless, skinless chicken thighs
 - 3 cups good chicken stock
@@ -61,7 +61,7 @@ Bolivia is a landlocked country in the middle of South America, with cities high
 - ⅓ cup cold water
 - Salt
 
-#### Directions
+### Directions
 
 1. Cut the chicken into ¾-inch pieces. Place in a saucepan and cover with the chicken stock.
 2. Bring to a simmer and cook for 8 minutes. Remove the chicken with a slotted spoon. Keep the broth.
@@ -80,9 +80,9 @@ Bolivia is a landlocked country in the middle of South America, with cities high
 
 ### Salteña Dough
 
-#### Ingredients
+### Ingredients
 
-##### Dough
+#### Dough
 
 - 4 cups all-purpose flour
 - ½ cup granulated sugar
@@ -92,12 +92,12 @@ Bolivia is a landlocked country in the middle of South America, with cities high
 - 1 egg yolk
 - ¾ cup + 1 tbsp room-temperature water, plus up to ¼ cup more as needed
 
-##### Egg wash
+#### Egg wash
 
 - 1 egg white
 - 2 tbsp water
 
-#### Directions
+### Directions
 
 1. Mix the flour, sugar, salt, and achiote.
 2. Add the butter and egg yolk. Work the butter through the flour with your fingers.
@@ -116,7 +116,7 @@ Note: I couldn't find urucú at my local grocery store, so I mixed together 2 ts
 
 ### Llajua
 
-#### Ingredients
+### Ingredients
 
 - 2 ripe tomatoes
 - 1 jalapeño
@@ -126,6 +126,6 @@ Note: I couldn't find urucú at my local grocery store, so I mixed together 2 ts
 - Juice of ½ lime
 - ½ tsp salt
 
-#### Directions
+### Directions
 
 1. Blend everything until coarse, not completely smooth. Serve with the salteñas.

@@ -3,39 +3,36 @@ country: "Armenia"
 dish: "Gata"
 date: 2026-07-12
 rating: 5.0
+serves: "8 (3 loaves)"
+time: "About 3 hours, plus cooling"
 flag: am
 images:
   - /images/armenia.jpg
   - /images/armenia-2.jpg
-verdict: "Sweet bread with a paste-like filling; we devoured all three loaves."
-servings: "8 (3 loaves)"
-mealStyle: ["sweet"]
-beforeYouStart: ["Allow the loaves to cool before serving; I preferred their flavor once cooled."]
-activeTime: "45–60 minutes"
-cookTime: "28–32 minutes"
-recipeTime: "2½–3 hours, plus 45–60 minutes to cool"
-waitingTime: "1-hour rise and 20-minute final proof; cool before eating"
-quick: false
 ---
 
-## Our choice for Armenia
-
-Gata is a sweet Armenian bread with a buttery, crumbly filling made from butter, sugar, and flour. There are a lot of regional versions, and it's often baked for holidays and family gatherings. Expect a soft, slightly sweet bread with a rich, sugary layer inside, a lot like a coffee cake. I decorated the tops with strips of dough.
-
-## At our table
-
-A deliciously sweet bread with a paste-like filling. This was so good that we devoured all three loaves. Let it cool, though. It tasted a LOT better after it cooled compared to when it was hot. I didn't use nuts, but I wish I had. They would have improved the texture and flavor even more, not that it needed it.
-
-## What I learned
-
-**Tested lesson:** We preferred the bread after it cooled. Adding toasted nuts is an idea for a future batch, not something I tested here.
-
-## Breakfast context: Armenia
+## About Armenia
 
 Armenia is a small, mountainous country between Europe and Asia. It was the first country to make Christianity its official religion, back in 301 AD, and many holiday foods come from church traditions. People eat a lot of bread, herbs, cheese, grilled meat, and fruit, especially apricots. Bread is a big deal in Armenia. Lavash, their flatbread, is even on UNESCO's list of cultural heritage.
 
+## The Dish
 
-## Recipe
+Gata is a sweet Armenian bread with a buttery, crumbly filling made from butter, sugar, and flour. There are a lot of regional versions, and it's often baked for holidays and family gatherings. Expect a soft, slightly sweet bread with a rich, sugary layer inside, a lot like a coffee cake. I decorated the tops with strips of dough.
+
+## Review
+
+A deliciously sweet bread with a paste-like filling. This was so good that we devoured all three loaves. Let it cool, though. It tasted a LOT better after it cooled compared to when it was hot. I didn't use nuts, but I wish I had. They would have improved the texture and flavor even more, not that it needed it.
+
+## Rating
+
+5/5
+
+## Gata
+
+- Serves: 8 (3 loaves)
+- Time: About 3 hours, plus cooling
+
+## Ingredients and directions
 
 ### Ingredients
 

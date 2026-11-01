@@ -3,40 +3,35 @@ country: "Antigua and Barbuda"
 dish: "Banana fritters with coconut-lime sauce"
 date: 2026-07-10
 rating: 4.0
+serves: "4 (about 16 fritters)"
+time: "About 30 minutes"
 flag: ag
 images:
   - /images/antigua-and-barbuda.jpg
-verdict: "Chewy banana fritters the kids liked more than I did; the sweet lime sauce was the best part."
-servings: "4 (about 16 fritters)"
-mealStyle: ["sweet"]
-beforeYouStart: ["Make the coconut-lime sauce first so it can thicken."]
-activeTime: "25–35 minutes"
-cookTime: "20–25 minutes"
-recipeTime: "30–40 minutes"
-waitingTime: "Brief sauce cooling; overlaps with frying"
-quick: true
 ---
 
-## Our choice for Antigua and Barbuda
-
-Banana fritters are a common Caribbean breakfast and snack. They're popular because bananas are everywhere, and fritters are a great way to use up really ripe ones. Mashed bananas get mixed with flour and warm spices, then fried until crisp. Expect something like a small, crisp-edged banana pancake, sweet and soft in the middle. I served mine with a coconut lime dipping sauce.
-
-## At our table
-
-Two fried doughs in one week. I made this recipe twice to get the dough to come out better. Unlike Angola's version, which had sliced banana on top, these had mashed banana mixed into the dough. That gave them a chewy texture and banana flavor all the way through.
-
-The dipping sauce was the best part. Sweetness and lime are almost always a winning combination for me. I didn't love the fritters themselves, but the kids thought they were tasty. They went high with their ratings while I stayed somewhere around average, bringing the overall score to a 4.
-
-## What I learned
-
-**Tested lesson:** I made this recipe twice to improve the dough. The banana in the batter gave it a chewy texture and flavor all the way through.
-
-## Breakfast context: Antigua and Barbuda
+## About Antigua and Barbuda
 
 Antigua and Barbuda is a two-island country in the eastern Caribbean. Most people there are descended from enslaved Africans brought to work the sugar plantations, and Britain ruled the islands until 1981. The food mixes African, British, and Caribbean cooking, with lots of seafood and tropical fruit. Fruit like bananas and mangoes grows easily in the warm climate, so it ends up in everything from breakfast to dessert.
 
+## The Dish
 
-## Recipe
+Banana fritters are a common Caribbean breakfast and snack. They're popular because bananas are everywhere, and fritters are a great way to use up really ripe ones. Mashed bananas get mixed with flour and warm spices, then fried until crisp. Expect something like a small, crisp-edged banana pancake, sweet and soft in the middle. I served mine with a coconut lime dipping sauce.
+
+## Review
+
+The flavor was excellent, but I think they needed a bit more flour and baking powder, though. I adjusted the recipe based on what I would do if I made them again.
+
+## Rating
+
+4/5
+
+## Banana fritters with coconut-lime sauce
+
+- Serves: 4 (about 16 fritters)
+- Time: About 30 minutes
+
+## Ingredients and directions
 
 ### Ingredients
 

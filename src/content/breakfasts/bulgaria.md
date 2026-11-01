@@ -3,37 +3,36 @@ country: "Bulgaria"
 dish: "Banitsa"
 date: 2026-09-26
 rating: 4.1
+serves: "6"
+time: "About 1 hour"
 ratingNote: "Adults rated it higher than the kids"
 flag: bg
 images:
   - /images/bulgaria.jpg
-verdict: "Crisp outside, soft and tangy inside; the adults liked it more than the kids."
-servings: "6"
-mealStyle: ["savory"]
-beforeYouStart: ["Keep the phyllo ready for working in pairs of sheets. Allow 15 minutes for the baked pastry to cool."]
-advancePrep: "Thaw the phyllo overnight in the refrigerator before you start."
-equipment: ["Round pie dish"]
-activeTime: "20–30 minutes"
-cookTime: "35–40 minutes"
-recipeTime: "1¼–1½ hours after thawing the phyllo"
-waitingTime: "Thaw phyllo overnight; cool the baked pastry for 15 minutes"
-quick: false
 ---
 
-## Our choice for Bulgaria
-
-Banitsa is a traditional Bulgarian pastry made from thin, flaky sheets of dough layered with a cheese and egg filling. It's sold at bakeries everywhere and eaten for breakfast with yogurt or ayran, a yogurt drink. Families also make it for holidays. Expect a crisp, flaky outside and a soft, tangy, cheesy inside.
-
-## At our table
-
-I've actually had this dish from bakeries before. The outside came out crisp and the inside soft, tangy, and cheesy. Surprisingly easy to make and quick to assemble, banitsa is great for mornings when you don't have a lot of time. Once again, the adults rated it much higher than the kids.
-
-## Breakfast context: Bulgaria
+## About Bulgaria
 
 Bulgaria is in southeast Europe on the Black Sea. It was part of the Ottoman Empire for almost 500 years, so its food has a lot in common with Greek and Turkish food. People eat a lot of yogurt, white cheese, vegetables, and bread. Bulgarians are proud of their yogurt. The bacteria that make it are even named after the country.
 
+## The Dish
 
-## Recipe
+Banitsa is a traditional Bulgarian pastry made from thin, flaky sheets of dough layered with a cheese and egg filling. It's sold at bakeries everywhere and eaten for breakfast with yogurt or ayran, a yogurt drink. Families also make it for holidays. Expect a crisp, flaky outside and a soft, tangy, cheesy inside.
+
+## Review
+
+I've actually had this dish from bakeries before. The outside came out crisp and the inside soft, tangy, and cheesy. Surprisingly easy to make and quick to assemble, banitsa is great for mornings when you don't have a lot of time. Once again, the adults rated it much higher than the kids.
+
+## Rating
+
+4.1/5
+
+## Banitsa
+
+- Serves: 6
+- Time: About 1 hour
+
+## Ingredients and directions
 
 ### Ingredients
 

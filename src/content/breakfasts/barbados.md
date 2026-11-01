@@ -3,44 +3,40 @@ country: "Barbados"
 dish: "Saltfish and bake"
 date: 2026-08-16
 rating: 2.0
-ratingNote: "Saltfish: 1/5; the fried bread saved breakfast"
+serves: "4"
+time: "About 45 minutes, plus soaking the fish overnight"
+ratingNote: "Saltfish 0/5, bake 4/5"
 flag: bb
 images:
   - /images/barbados.jpg
-verdict: "The saltfish went in the garbage; fried bread with powdered sugar saved breakfast."
-servings: "4"
-mealStyle: ["savory"]
-beforeYouStart: ["The bake and saltfish are separate parts; serve together once both are ready."]
-advancePrep: "Soak the saltfish in cold water for at least 4 hours or overnight before starting."
-activeTime: "30–40 minutes"
-cookTime: "30–40 minutes"
-recipeTime: "45–60 minutes after soaking the saltfish"
-waitingTime: "At least 4 hours or overnight to soak the saltfish"
-quick: false
 ---
 
-## Our choice for Barbados
-
-Saltfish and bake is a classic Bajan breakfast. The saltfish is salt cod soaked, then cooked with onions, peppers, and tomatoes. The bake is a fried dough that puffs up in the oil. It's a holdover from colonial times, when salt cod was cheap and kept without a fridge. Expect a salty, fishy, peppery topping with a soft, sweet fried bread.
-
-## At our table
-
-We do not like saltfish. I love fish, but I do not like saltfish. Soaking it takes a lot of time, it smells like old fish, and the result just doesn't taste good to me. I'll take fresh fish any time. The kids hated it too.
-
-Once everything was cooked together, it somehow managed to taste bland while still smelling strongly of fish. The tomato overpowered the other flavors, the peppers didn't seem to fit, and the whole thing had the texture of a thick paste. I'd give the saltfish a 1. It went straight into the garbage.
-
-Luckily, the fried bread saved breakfast. It wasn't especially different from the other fried breads we've made, but it was good with powdered sugar on top. Good enough to bring the overall score up, anyway.
-
-## Breakfast context: Barbados
+## About Barbados
 
 Barbados is the easternmost island in the Caribbean. Most Barbadians, or Bajans, are descended from enslaved Africans brought to work the sugar plantations, and the island was a British colony until 1966. The food mixes West African and British cooking, with lots of fish, cornmeal, and hot peppers. Salt cod showed up during colonial times because it didn't spoil, and it became a staple.
 
+## The Dish
 
-## Recipe
+Saltfish and bake is a classic Bajan breakfast. The saltfish is salt cod soaked, then cooked with onions, peppers, and tomatoes. The bake is a fried dough that puffs up in the oil. It's a holdover from colonial times, when salt cod was cheap and kept without a fridge. Expect a salty, fishy, peppery topping with a soft, sweet fried bread.
+
+## Review
+
+We do not like saltfish. I love fish, but I do not like saltfish. It's stinky, and reconstituting it from its dried state takes a lot of time and doesn't taste good to me. I prefer fresh fish any time. The kids also hated the saltfish. When cooked together, the dish turned out bland but still smelled like old fish. The tomatoes were overpowering, and the peppers did not blend well with the recipe. The texture was like a thick paste. The saltfish would have been a 1 and went straight to the garbage. Luckily, the fried bread was good enough that it saved breakfast. Still, the fried bread wasn't very special and tasted like the other fried bread we've had. It was still good enough with the powdered sugar on top to raise the overall score.
+
+## Rating
+
+2/5
+
+## Saltfish and bake
+
+- Serves: 4
+- Time: About 45 minutes, plus soaking the fish overnight
+
+## Ingredients and directions
 
 ### Bake
 
-#### Ingredients
+### Ingredients
 
 - 2 cups all-purpose flour
 - 2½ tsp baking powder
@@ -52,7 +48,7 @@ Barbados is the easternmost island in the Caribbean. Most Barbadians, or Bajans,
 - 1–1½ cups water
 - Vegetable oil, for frying
 
-#### Directions
+### Directions
 
 1. Combine all the dry ingredients and the vanilla.
 2. Add a little water at a time until a batter forms. This batter will be similar to pancake batter.
@@ -62,7 +58,7 @@ Barbados is the easternmost island in the Caribbean. Most Barbadians, or Bajans,
 
 ### Saltfish
 
-#### Ingredients
+### Ingredients
 
 - ½ lb dried salted cod, soaked in cold water 4+ hours or overnight
 - 1 tbsp oil
@@ -74,7 +70,7 @@ Barbados is the easternmost island in the Caribbean. Most Barbadians, or Bajans,
 - 1 hot pepper, minced (habanero is preferred, but I used a serrano since I had extra)
 - Black pepper, to taste
 
-#### Directions
+### Directions
 
 1. Drain the saltfish, cover it with fresh water, and boil 10–15 minutes until tender. Drain, cool slightly, and flake with a fork into small pieces, removing any skin or bones. It will smell like fish and have a white nasty film.
 2. Heat the oil in a skillet over medium heat. Add the onion and garlic and cook until tender, 3–4 minutes.

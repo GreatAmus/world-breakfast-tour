@@ -3,37 +3,35 @@ country: "Central African Republic"
 dish: "Makara"
 date: 2026-10-18
 rating: 4.0
+serves: "4 (about 20 balls)"
+time: "About 2½ hours, mostly waiting for the dough to rise"
 flag: cf
 images:
   - /images/central-african-republic.jpg
-verdict: "Donut-hole-like bites with coconut, lime, and warm spices; best at room temperature."
-servings: "4 (about 20 balls)"
-mealStyle: ["sweet"]
-beforeYouStart: ["Allow 1–2 hours for the dough to rise. Toast and grind the coconut before mixing."]
-equipment: ["Food processor"]
-activeTime: "30–45 minutes"
-cookTime: "20–30 minutes"
-recipeTime: "2–3 hours"
-waitingTime: "1–2-hour rise and 10 minutes for the glaze to set"
-quick: false
 ---
 
-## Our choice for Central African Republic
-
-The Central African Republic's makara is a common street food. These are small fried dough balls that come with some sort of dipping sauce or are coated in sugar. People eat them for breakfast or as a snack, bought warm from roadside stalls in the morning. Fried doughs are common across Central and West Africa but show a distinct French influence from beignets. Expect a crisp outside and a soft, bready inside, like a small donut. My version uses coconut, cardamom, and lime, with a coconut-lime glaze.
-
-## At our table
-
-These were like little donut holes you could pop into your mouth and eat a dozen before realizing it. They got better as they cooled and were best at room temperature. I've found that lime and coconut with fried dough is usually a winner.
-
-The cardamom, nutmeg, and coconut milk helped these stand out from the other fried dough recipes we've made. They didn't taste like the Caribbean versions we'd already tried, which kept another round of fried dough from feeling too repetitive. I was surprised by how much I liked them. The ratings were pretty consistent across the family, with my teenage daughter liking them the most.
-
-## Breakfast context: Central African Republic
+## About Central African Republic
 
 The Central African Republic is a landlocked country right in the middle of Africa, with savanna in the north and rainforest in the south. French and Sango are the official languages, and France ruled the country until 1960. Most people eat cassava, plantains, peanuts, and leafy greens. Cassava grows almost anywhere and keeps well in the ground, so it's the main food for most families.
 
+## The Dish
 
-## Recipe
+The Central African Republic's makara is a common street food. These are small fried dough balls that come with some sort of dipping sauce or are coated in sugar. People eat them for breakfast or as a snack, bought warm from roadside stalls in the morning. Fried doughs are common across Central and West Africa but show a distinct French influence from beignets. Expect a crisp outside and a soft, bready inside, like a small donut. My version uses coconut, cardamom, and lime, with a coconut-lime glaze.
+
+## Review
+
+These were like little donut holes that you could pop in your mouth and eat a dozen of before realizing it. They got better over time and were best at room temperature. I've found a lime-coconut flavor combined with fried dough is often a winner. This dish managed to be distinct compared to a lot of the other fried dough recipes because of the cardamom, nutmeg, and coconut milk. It didn't taste Caribbean, which kept it different enough that the recipe felt fresh. I was surprised that I liked this so much. The ratings were pretty consistent, with my teen daughter liking it the most.
+
+## Rating
+
+4/5
+
+## Makara
+
+- Serves: 4 (about 20 balls)
+- Time: About 2½ hours, mostly waiting for the dough to rise
+
+## Ingredients and directions
 
 ### Ingredients
 

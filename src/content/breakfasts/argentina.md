@@ -3,40 +3,35 @@ country: "Argentina"
 dish: "Medialunas de manteca"
 date: 2026-07-12
 rating: 4.5
+serves: "8 (about 16 rolls)"
+time: "About 4½ hours, plus an overnight rest"
 flag: ar
 images:
   - /images/argentina.jpg
-verdict: "Soft, sweet, and more bready than a croissant."
-servings: "8 (about 16 rolls)"
-mealStyle: ["sweet"]
-beforeYouStart: ["Keep the lamination butter cold and allow the shaped rolls to become puffy before baking."]
-advancePrep: "Refrigerate the dough for 12–16 hours. Allow time for the folds, chilling, and the full 1–1½-hour final rise."
-equipment: ["Rolling pin", "Parchment-lined baking sheets"]
-activeTime: "60–90 minutes"
-cookTime: "20–30 minutes"
-recipeTime: "5–6 hours of work and rests across both days, plus 12–16 hours in the refrigerator"
-waitingTime: "30-minute initial rest; about 2¼–2½ hours of butter/dough chilling; 1–1½-hour final rise; overnight refrigeration"
-quick: false
 ---
 
-## Our choice for Argentina
-
-Medialunas, or "half moons," are Argentina's version of a croissant. They're the classic breakfast with coffee, sold by the dozen at almost every bakery. Compared to French croissants, they're smaller, sweeter, and softer, and they get brushed with a sugar syrup right out of the oven. Expect a soft, slightly sticky roll with light layers. I served mine with a side of dulce de leche.
-
-## At our table
-
-These are soft, sweet, laminated rolls that are more bready than croissants. If you want them flakier, do more folds than I did.
-
-## What I learned
-
-**Tested lesson:** I baked the rolls before they had fully risen. Give the shaped rolls the full rise and look for puffy dough that jiggles when the tray moves.
-
-## Breakfast context: Argentina
+## About Argentina
 
 Argentina covers most of southern South America, from the hot north down to the cold tip of the continent. Most Argentines have Italian or Spanish roots, and that shows up in the food. They eat a lot of beef, since the huge grasslands are perfect for cattle, plus pasta, pizza, and pastries. Breakfast is usually small: coffee or mate with something sweet.
 
+## The Dish
 
-## Recipe
+Medialunas, or "half moons," are Argentina's version of a croissant. They're the classic breakfast with coffee, sold by the dozen at almost every bakery. Compared to French croissants, they're smaller, sweeter, and softer, and they get brushed with a sugar syrup right out of the oven. Expect a soft, slightly sticky roll with light layers. I served mine with a side of dulce de leche.
+
+## Review
+
+These are soft, sweet, laminated rolls that are more bready than croissants. If you want them flakier, do more folds than I did.
+
+## Rating
+
+4.5/5
+
+## Medialunas de manteca
+
+- Serves: 8 (about 16 rolls)
+- Time: About 4½ hours, plus an overnight rest
+
+## Ingredients and directions
 
 ### Ingredients
 

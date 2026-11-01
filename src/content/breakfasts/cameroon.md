@@ -3,44 +3,43 @@ country: "Cameroon"
 dish: "Koki beans with plantains and pepper sauce"
 date: 2026-10-21
 rating: 1.7
+serves: "6"
+time: "About 3 hours, plus soaking the peas"
 flag: cm
 images:
   - /images/cameroon.jpg
-verdict: "A dense, bean-flavored cake that the spinach and hot sauce didn’t improve for me."
-servings: "6"
-mealStyle: ["savory"]
-beforeYouStart: ["Have a blender, heavy-duty foil, and a large pot with a steaming rack ready. Start the plantains about 30 minutes before the koki finishes."]
-advancePrep: "Soak the black-eyed peas for 2–4 hours, then allow time to remove the skins before blending."
-equipment: ["Blender", "Steaming rack and large covered pot", "Heavy-duty aluminum foil"]
-activeTime: "75–105 minutes"
-cookTime: "90–110 minutes with sides cooking during steaming"
-recipeTime: "2¾–3½ hours after soaking the peas"
-waitingTime: "2–4-hour pea soak, plus 10-minute parcel rest after steaming"
-quick: false
 ---
 
-## Our choice for Cameroon
+## About Cameroon
+
+Cameroon sits where West and Central Africa meet. It's called "Africa in miniature" because it packs nearly every landscape on the continent into one country: rainforest in the south, savanna, and mountains. More than 250 ethnic groups live there, with both English and French adopted as official languages. People eat a lot of cassava, plantains, beans, and corn, cooked with palm oil and peanuts. Those crops grow well in the warm, rainy south, and palm oil gives a lot of Cameroonian food its color and flavor.
+
+## The Dish
 
 This is Cameroon's steamed koki with a pepper sauce and plantains. Koki is a steamed cake made from black-eyed peas, palm oil, and hot pepper. I chose koki as the Cameroon dish because it's one of the country's best-loved everyday dishes, especially in the southwest and coastal regions. It's usually served with boiled ripe plantains or cassava, and it shows up everywhere from family tables to roadside stands. Expect a dense, savory bean cake, a little like a firm pudding, with a spicy sauce and sweet plantains.
 
 Koki is not the most popular breakfast dish in Cameroon, but I really don't like to eat fried dough too many times in a row. I couldn't get banana leaves for steaming the dish, so I used aluminum foil instead. Despite missing the banana leaves, the palm oil, beans, and pepper kept the dish true to the original.
 
-## At our table
+## Review
 
-I did not like this dish. Turning beans into something with a cake-like texture was interesting, but that was about the best part. It had the texture of a denser Twinkie and tasted like a cake made out of beans. The spinach didn't help. I think I would have preferred the bean cake without it.
+I did not like this dish. The fact that this turned into a pseudo-bread dish was very interesting. It had the texture of a denser Twinkie. The bad part is it just didn't taste good. It tasted like a cake made out of beans. The spinach mixed in also did not go well. I think the dish would have been better with just the bean cake and no spinach.
 
-The hot sauce made it edible, but even then I didn't enjoy it much. The flavors didn't blend well, and hot sauce on something with a cake texture was an odd combination. An interesting thing to make, but not something I'd want to eat again.
+The hot sauce made it edible, but even that wasn't very tasty. The flavors didn't blend well, and the hot sauce didn't actually taste great on top of a cake texture. My guess is the fried dough would have been about like makara and gotten a similar score.
 
-## Breakfast context: Cameroon
+## Rating
 
-Cameroon sits where West and Central Africa meet. It's called "Africa in miniature" because it packs nearly every landscape on the continent into one country: rainforest in the south, savanna, and mountains. More than 250 ethnic groups live there, with both English and French adopted as official languages. People eat a lot of cassava, plantains, beans, and corn, cooked with palm oil and peanuts. Those crops grow well in the warm, rainy south, and palm oil gives a lot of Cameroonian food its color and flavor.
+1.7/5
 
+## Koki beans with plantains and pepper sauce
 
-## Recipe
+- Serves: 6
+- Time: About 3 hours, plus soaking the peas
+
+## Ingredients and directions
 
 ### Koki
 
-#### Ingredients
+### Ingredients
 
 - 1½ cups dried black-eyed peas
 - 1 medium yellow onion, halved
@@ -55,7 +54,7 @@ Cameroon sits where West and Central Africa meet. It's called "Africa in miniatu
 - ½ cup warm water, as needed
 - Heavy-duty aluminum foil
 
-#### Directions
+### Directions
 
 1. Soak the peas in water for 2–4 hours. Drain.
 2. Pulse the peas in a blender with fresh water in 2 or 3 short bursts to crack the skins. Pour into a large bowl, cover with water, and rub the peas between both palms. Remove the loose skins that float to the top. Pour the water off through a colander tilted over the sink so the skins wash away and the peas stay behind. Repeat the pulse and rinse 2 or 3 times until about 80% of the skins are gone. This process kind of sucks.
@@ -70,7 +69,7 @@ Cameroon sits where West and Central Africa meet. It's called "Africa in miniatu
 
 ### Pepper Sauce
 
-#### Ingredients
+### Ingredients
 
 - 1 red jalapeño, stemmed and seeded
 - 1 poblano, stemmed and seeded
@@ -81,26 +80,26 @@ Cameroon sits where West and Central Africa meet. It's called "Africa in miniatu
 - 3 tbsp oil
 - Sriracha, to taste (optional)
 
-#### Directions
+### Directions
 
 1. Blend the jalapeño, poblano, onion, garlic, ginger, and salt into a coarse paste.
 2. Heat the oil in a small pan over medium heat, add the paste, and fry for 8–10 minutes, stirring often. The sauce is done when the raw smell is gone, the color darkens, and the oil separates at the edges. Add salt to taste, and sriracha for more heat.
 
 ### Plantains
 
-#### Ingredients
+### Ingredients
 
 - 3 ripe plantains, yellow with plenty of black spots
 - 1 tsp salt, for the cooking water
 
-#### Directions
+### Directions
 
 1. About 30 minutes before the koki finishes, cut the ends off the plantains and cut each one into 3 sections, skin on.
 2. Simmer in salted water for 15–20 minutes until a knife slides in easily. Peel and serve warm.
 
 ### To Serve
 
-#### Directions
+### Directions
 
 1. Open a parcel onto each plate, add plantain alongside, and spoon pepper sauce over the top.
 

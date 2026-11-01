@@ -8,68 +8,52 @@ export async function getStaticPaths() {
   const posts = await getCollection('breakfasts', ({ data }) => !data.draft);
   return posts.map((post) => ({ params: { id: post.id }, props: { post } }));
 }
+
 const { post } = Astro.props;
 const { Content } = await render(post);
-const { country, dish, date, rating, ratingNote, images, flag, verdict, servings, recipeTime, activeTime, cookTime, waitingTime, advancePrep, beforeYouStart, equipment } = post.data;
+const { country, dish, date, rating, ratingNote, images, flag, serves, time } = post.data;
+
 const all = await getBreakfasts();
 const i = all.findIndex((p) => p.id === post.id);
 const prev = all[i - 1];
 const next = all[i + 1];
 ---
-<Base title={`${dish} from ${country}`} description={verdict ?? `${dish} from ${country}, with my family’s rating and the full recipe.`} image={images[0]}>
+<Base title={`${dish} from ${country}`} description={`${dish} from ${country}, with my family’s rating and the full recipe.`} image={images[0]}>
   <article class="post">
     <header class="post-header">
-      <p class="kicker"><a href="/breakfasts/">All breakfasts</a> / {country}</p>
+      <p class="kicker"><a href="/">All breakfasts</a></p>
       <div class="post-title">
         {flag && <img class="flag flag-lg" src={flagUrl(flag)} alt={`Flag of ${country}`} width="96" height="72" />}
-        <div><p class="kicker">Our choice for {country}</p><h1>{dish}</h1></div>
+        <h1>{country}</h1>
       </div>
       <div class="post-score">
         <Score value={rating} size="lg" />
         <div>
-          <p class="post-dish">{verdict ?? dish}</p>
-          <p class="post-note">{ratingNote ?? 'Our family’s score out of 5'} · <a href="/about/#rating-heading">How we rate</a></p>
+          <p class="post-dish">{dish}</p>
+          <p class="post-note">{ratingNote ?? 'Family score out of 5'}</p>
           <p class="post-date">Posted {formatDate(date)}</p>
         </div>
       </div>
-      <dl class="recipe-facts">
-        {servings && <div><dt>Serves / yield</dt><dd>{servings}</dd></div>}
-        {recipeTime && <div><dt>Total time (est.)</dt><dd>{recipeTime}</dd></div>}
-        {activeTime && <div><dt>Hands-on (est.)</dt><dd>{activeTime}</dd></div>}
-        {cookTime && <div><dt>Cooking (est.)</dt><dd>{cookTime}</dd></div>}
-      </dl>
-      <p class="timing-explainer">Times are estimates from the recipe. Hands-on time includes attended cooking, so it overlaps with cooking time. Components may cook at the same time.</p>
-      {waitingTime && <p class="waiting-note"><strong>Resting, chilling, and advance preparation:</strong> {waitingTime}.</p>}
-      {advancePrep && <p class="advance-note"><strong>Plan ahead:</strong> {advancePrep}</p>}
-      <div class="recipe-actions"><a class="button" href="#recipe">Jump to recipe</a><button class="button print-recipe" type="button">Print recipe</button><a href="#before-you-start">Before you start</a></div>
+      <div class="post-meta">
+        {serves && <p><span class="meta-label">Serves</span> {serves}</p>}
+        {time && <p><span class="meta-label">Time</span> {time}</p>}
+        <a class="button jump" href="#ingredients-and-directions">Jump to recipe</a>
+      </div>
     </header>
+
     {images.map((src, n) => (
-      <figure class="post-photo"><img src={src} alt={n === 0 ? `${dish} from ${country}` : `Another photo of ${dish}`} loading={n === 0 ? 'eager' : 'lazy'} /></figure>
+      <figure class="post-photo">
+        <img src={src} alt={n === 0 ? `${dish} from ${country}` : `Another photo of the ${dish.toLowerCase()}`} loading={n === 0 ? 'eager' : 'lazy'} />
+      </figure>
     ))}
-    {(beforeYouStart.length > 0 || equipment.length > 0) && <aside id="before-you-start" class="before-start" aria-labelledby="before-heading">
-      <h2 id="before-heading">Before you start</h2>
-      {beforeYouStart.length > 0 && <ul>{beforeYouStart.map((note) => <li>{note}</li>)}</ul>}
-      {equipment.length > 0 && <p><strong>Equipment to have ready:</strong> {equipment.join('; ')}.</p>}
-    </aside>}
-    <div class="prose"><Content /></div>
+
+    <div class="prose">
+      <Content />
+    </div>
+
     <nav class="post-nav" aria-label="More breakfasts">
-      {prev ? <a href={postUrl(prev)} rel="prev"><span>Previous country</span>{prev.data.country}</a> : <span />}
-      {next ? <a href={postUrl(next)} rel="next"><span>Next country</span>{next.data.country}</a> : <span />}
+      {prev ? <a href={postUrl(prev)} rel="prev"><span>Previous</span>{prev.data.country}</a> : <span />}
+      {next ? <a href={postUrl(next)} rel="next"><span>Next</span>{next.data.country}</a> : <span />}
     </nav>
   </article>
 </Base>
-<script>
-  document.querySelectorAll('.print-recipe').forEach((button) => button.addEventListener('click', () => window.print()));
-  // Progressive enhancement: ingredients stay readable if JavaScript is disabled.
-  document.querySelectorAll('.recipe-card li').forEach((item) => {
-    if (item.parentElement?.tagName !== 'UL') return;
-    const label = document.createElement('label');
-    const checkbox = document.createElement('input');
-    checkbox.type = 'checkbox';
-    const text = document.createElement('span');
-    while (item.firstChild) text.append(item.firstChild);
-    label.append(checkbox, text);
-    item.append(label);
-    item.classList.add('ingredient-item');
-  });
-</script>

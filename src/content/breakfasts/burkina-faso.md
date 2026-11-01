@@ -3,35 +3,35 @@ country: "Burkina Faso"
 dish: "Dégué"
 date: 2026-09-26
 rating: 4.0
+serves: "4"
+time: "About 45 minutes"
 flag: bf
 images:
   - /images/burkina-faso.jpg
-verdict: "A sweet, chilled breakfast that won over my picky eater."
-servings: "4"
-mealStyle: ["sweet"]
-beforeYouStart: ["Serve thoroughly chilled. The method uses brief freezer rests; the refrigerator alternative takes about 2 hours."]
-equipment: ["Microwave-safe bowl", "Microwave"]
-activeTime: "20–30 minutes"
-cookTime: "15–20 minutes"
-recipeTime: "40–55 minutes with the freezer method, or about 2½–3 hours with refrigerator chilling"
-waitingTime: "3-minute microwave rest and two freezer chills totaling about 10–18 minutes; refrigerator alternative takes about 2 hours"
-quick: false
 ---
 
-## Our choice for Burkina Faso
-
-Dégué is made from steamed millet combined with yogurt and condensed milk. Street vendors sell it cold, and people eat it for breakfast or as a snack on hot days. Expect a cold, creamy, sweet pudding with little chewy grains of millet, a lot like rice pudding or a parfait.
-
-## At our table
-
-I thought for sure I would hate this dish, as I tend to dislike porridge dishes, especially when served with fresh fruit. This was good. Dégué was a refreshingly sweet breakfast that reminded me of rice pudding or a parfait. The dish took a few bites to grow on me, but I would make this one again considering how good and easy it was. Interestingly, people swapped places, with my wife not liking the dish and my picky eater giving it a 4.5 (her highest rating yet).
-
-## Breakfast context: Burkina Faso
+## About Burkina Faso
 
 Burkina Faso is a landlocked country in West Africa, on the edge of the Sahara. Most people farm, and the country was a French colony until 1960. Grains like millet, sorghum, and corn are the main foods, usually cooked into a thick porridge and eaten with sauce. Millet and sorghum handle heat and drought well, which is why they're the staples there.
 
+## The Dish
 
-## Recipe
+Dégué is made from steamed millet combined with yogurt and condensed milk. Street vendors sell it cold, and people eat it for breakfast or as a snack on hot days. Expect a cold, creamy, sweet pudding with little chewy grains of millet, a lot like rice pudding or a parfait.
+
+## Review
+
+I thought for sure I would hate this dish, as I tend to dislike porridge dishes, especially when served with fresh fruit. This was good. Dégué was a refreshingly sweet breakfast that reminded me of rice pudding or a parfait. The dish took a few bites to grow on me, but I would make this one again considering how good and easy it was. Interestingly, people swapped places, with my wife not liking the dish and my picky eater giving it a 4.5 (her highest rating yet).
+
+## Rating
+
+4/5
+
+## Dégué
+
+- Serves: 4
+- Time: About 45 minutes
+
+## Ingredients and directions
 
 ### Ingredients
 

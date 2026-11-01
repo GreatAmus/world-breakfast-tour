@@ -3,40 +3,39 @@ country: "Bangladesh"
 dish: "Paratha with mixed vegetable bhaji"
 date: 2026-08-16
 rating: 4.7
+serves: "3–4 (7 parathas)"
+time: "About 1 hour"
 flag: bd
 images:
   - /images/bangladesh.jpg
-verdict: "Chewy whole-wheat paratha and vegetables worked better together than we expected; no leftovers."
-servings: "3–4 (7 parathas)"
-mealStyle: ["savory"]
-beforeYouStart: ["Rest the paratha dough while preparing the vegetable bhaji."]
-activeTime: "45–60 minutes"
-cookTime: "35–45 minutes with components overlapping"
-recipeTime: "1–1¼ hours"
-waitingTime: "20–30-minute dough rest; prepare the bhaji during this time"
-quick: false
 ---
 
-## Our choice for Bangladesh
-
-Paratha with bhaji is a common Bangladeshi breakfast. Paratha is a layered whole wheat flatbread cooked in a pan, and bhaji is mixed vegetables cooked with cumin, turmeric, and green chilies. It's cheap, filling, and sold at tea stalls all over the country. Expect a chewy, flaky flatbread and soft vegetables with a medium spice.
-
-## At our table
-
-This dish surprised everyone. While I was making it, I thought there was no way a vegetable-heavy breakfast with whole-wheat bread would score above a 3. I was very wrong. The layered bread just worked with the vegetable medley. Eating each part separately was a completely different experience from eating them together.
-
-The whole-wheat paratha was chewier than the paratha I'm used to, but that was actually a nice change. It gave the vegetables a more filling base. The kids loved it too, and we devoured the entire meal without leftovers.
-
-## Breakfast context: Bangladesh
+## About Bangladesh
 
 Bangladesh is in South Asia, next to India, and much of the country sits on the deltas of huge rivers. It's one of the most crowded countries in the world. Rice and fish are the base of almost every meal, with lentils, vegetables, and lots of spices. All that river water makes rice easy to grow and fish easy to catch, so they became the foundation of the food.
 
+## The Dish
 
-## Recipe
+Paratha with bhaji is a common Bangladeshi breakfast. Paratha is a layered whole wheat flatbread cooked in a pan, and bhaji is mixed vegetables cooked with cumin, turmeric, and green chilies. It's cheap, filling, and sold at tea stalls all over the country. Expect a chewy, flaky flatbread and soft vegetables with a medium spice.
+
+## Review
+
+This is the second best dish so far. A nice spice that balances the flavor of the vegetables and the heaviness of the whole wheat flatbread.
+
+## Rating
+
+4.7/5
+
+## Paratha with mixed vegetable bhaji
+
+- Serves: 3–4 (7 parathas)
+- Time: About 1 hour
+
+## Ingredients and directions
 
 ### Mixed Veggie Bhaji
 
-#### Ingredients
+### Ingredients
 
 - 3 tbsp vegetable oil
 - 1 tsp cumin seeds
@@ -55,7 +54,7 @@ Bangladesh is in South Asia, next to India, and much of the country sits on the 
 - Salt, to taste
 - Fresh cilantro, chopped, for garnish
 
-#### Directions
+### Directions
 
 1. Heat the oil in a large pan over medium until it shimmers. To test it, drop in a single cumin seed. The seed should sizzle immediately.
 2. Add the cumin seeds and let them sizzle 20–30 seconds.
@@ -68,7 +67,7 @@ Bangladesh is in South Asia, next to India, and much of the country sits on the 
 
 ### Paratha
 
-#### Ingredients
+### Ingredients
 
 - 1 cup whole wheat flour, plus more for dusting (all-purpose works too, but hold back a little water so it isn't a batter)
 - ½ cup warm water or vegetable broth, plus more as needed
@@ -79,7 +78,7 @@ Bangladesh is in South Asia, next to India, and much of the country sits on the 
 - ¼ tsp garam masala
 - Ghee, for frying and for layering (about 3 tbsp total, melted or very soft)
 
-#### Directions
+### Directions
 
 1. Combine the flour, salt, and spices. Add the water gradually and knead 5–10 minutes until you have a smooth, soft dough. The dough should be tacky but not sticky. Add flour a spoonful at a time if it clings to your hands, water a splash at a time if it won't come together.
 2. Cover and rest 20–30 minutes. This makes the dough far easier to roll.

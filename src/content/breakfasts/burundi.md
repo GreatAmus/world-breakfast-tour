@@ -3,39 +3,36 @@ country: "Burundi"
 dish: "Ibiharage n’ibitoke"
 date: 2026-10-14
 rating: 4.2
+serves: "4"
+time: "About 45 minutes"
 ratingNote: "Our daughter gave it 4.5"
 flag: bi
 images:
   - /images/burundi.jpg
-verdict: "The family loved the sweet-and-salty combination; I liked the flavor more than the mushy texture."
-servings: "4"
-mealStyle: ["savory"]
-beforeYouStart: ["Check plantain ripeness first: the method simmers green plantains and pan-cooks yellow ones."]
-activeTime: "25–35 minutes"
-cookTime: "30–40 minutes with components overlapping"
-recipeTime: "40–50 minutes"
-waitingTime: "None beyond simmering; plantain timing depends on ripeness"
-quick: false
 ---
 
-## Our choice for Burundi
-
-Ibiharage n'ibitoke is a traditional Burundian dish combining beans (ibiharage) and plantains (ibitoke). Beans are eaten almost every day in Burundi, and pairing them with plantains makes a cheap, filling meal. Expect a savory, hearty bean stew with tomato and ginger, and soft plantains on the side.
-
-## At our table
-
-This was a much bigger hit than I expected. The beans and plantains were really good together. I probably shouldn't have been surprised, since sweet and salty combinations tend to score pretty well at our house.
-
-My daughter went back for seconds and gave it a 4.5/5, which I think makes it her second-favorite dish so far. I thought it was more middle of the road, but my one lower rating was outvoted by three higher ones.
-
-For me, the problem was the texture. The flavor worked when I ate all the components together, but the whole bite was mushy. Good flavor, just not a texture I loved.
-
-## Breakfast context: Burundi
+## About Burundi
 
 Burundi is a small, landlocked country in East Africa, on the shore of Lake Tanganyika. It's one of the most crowded countries in Africa, and most people farm small plots. It has a rich food culture built around locally grown staples such as beans, bananas, cassava, and sweet potatoes. Beans are a big source of protein, since meat is expensive.
 
+## The Dish
 
-## Recipe
+Ibiharage n'ibitoke is a traditional Burundian dish combining beans (ibiharage) and plantains (ibitoke). Beans are eaten almost every day in Burundi, and pairing them with plantains makes a cheap, filling meal. Expect a savory, hearty bean stew with tomato and ginger, and soft plantains on the side.
+
+## Review
+
+How delicious this dish was came as a huge surprise for me, as I typically do not like African food. The beans and plantains were really good together. I shouldn't have been surprised, because the mix of sweet and salty usually ends up rating pretty high. This dish was also a massive hit with my daughter, who went back for seconds. She gave it a 4.5/5, which I think makes this her second favorite dish! Personally, I thought the dish was more middle of the road than the rest of the family did, but my one lower rating was trumped by the three higher ratings. For me, the negative was the texture. The flavor was good if you ate all of the components together, but the texture was mushy.
+
+## Rating
+
+4.2/5
+
+## Ibiharage n’ibitoke
+
+- Serves: 4
+- Time: About 45 minutes
+
+## Ingredients and directions
 
 ### Ingredients
 

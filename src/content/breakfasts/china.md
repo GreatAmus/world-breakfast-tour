@@ -3,28 +3,23 @@ country: "China"
 dish: "Chicken and mushroom congee with youtiao"
 date: 2026-11-01
 rating: 4.3
+serves: "6"
+time: "About 1¼ hours, plus freezing the rice and resting the dough overnight"
 ratingNote: "I gave it a 5. Everyone else thought it was meh."
 flag: cn
 images:
   - /images/china.jpg
-verdict: "I loved the congee; the rest of the family was less enthusiastic."
-servings: "6"
-mealStyle: ["savory"]
-beforeYouStart: ["Start the congee while preparing the warmed dough for frying. Serve the youtiao right away to keep it crisp."]
-advancePrep: "Freeze the rice for at least 2 hours and refrigerate the dough for at least 8 hours. Take the dough out 1 hour before frying."
-equipment: ["Dutch oven or heavy pot", "Wok or deep skillet", "Rolling pin"]
-activeTime: "45–60 minutes across both days"
-cookTime: "45–60 minutes on serving day, with components overlapping"
-recipeTime: "1½–2 hours on serving day, plus previous-day dough preparation and chilling"
-waitingTime: "Freeze rice at least 2 hours; rest mixed dough 20 minutes, refrigerate at least 8 hours, then warm 1 hour before frying"
-quick: false
 ---
 
-## Our choice for China
+## About China
+
+China is huge, with more than a billion people and food that changes a lot from region to region. The north grows wheat, so people there eat more noodles, dumplings, and buns. The south grows rice, so rice dishes like congee are everyday food. Breakfast is usually warm and savory: rice porridge, steamed buns, noodles, or soy milk with fried dough sticks.
+
+## The Dish
 
 Congee is rice porridge cooked in broth until the rice breaks down and turns silky. It's a breakfast staple, especially in southern China, because it's cheap, easy on the stomach, and stretches a little rice a long way. Youtiao are long fried dough sticks that get dunked in soy milk or eaten with congee. Expect a mild, creamy, savory porridge, with toppings like scallions and chili oil adding the flavor, and a light, crunchy dough stick on the side. I froze the rice first, which cracks the grains so the congee gets creamy in about 30–40 minutes instead of hours.
 
-## At our table
+## Review
 
 I really like congee now, despite not liking it when I first visited China. I think congee is a meal that grows on you the more you have it. I really like that congee can be so varied in its base taste and then customized with mix-ins to fit each person's taste. Then, when you combine the sweetness of the fry bread with the slightly salty flavor of the congee, you get a great contrast between the two. I really liked this recipe.
 
@@ -32,20 +27,20 @@ Unfortunately, I was alone in my rave review. My wife said it was the best conge
 
 It also didn't help that I messed up the fry bread. I forgot to pull the dough out of the fridge early enough, so the fry bread didn't puff up as much as it should have when deep fried. The bread was still delicious enough to capture the spirit of the recipe, but real fry bread in China is very light and airy.
 
-## What I learned
+## Rating
 
-**Tested lesson:** My dough was too cold and did not puff as much as it should have. Take it out of the refrigerator 1 hour before frying.
+4.3/5
 
-## Breakfast context: China
+## Chicken and mushroom congee with youtiao
 
-China is huge, with more than a billion people and food that changes a lot from region to region. The north grows wheat, so people there eat more noodles, dumplings, and buns. The south grows rice, so rice dishes like congee are everyday food. Breakfast is usually warm and savory: rice porridge, steamed buns, noodles, or soy milk with fried dough sticks.
+- Serves: 6
+- Time: About 1¼ hours, plus freezing the rice and resting the dough overnight
 
-
-## Recipe
+## Ingredients and directions
 
 ### Chicken and Mushroom Congee
 
-#### Ingredients
+### Ingredients
 
 - 1 cup jasmine rice
 - 10–12 cups rich chicken stock (or a mix of mushroom stock and chicken broth)
@@ -59,7 +54,7 @@ China is huge, with more than a billion people and food that changes a lot from 
 - Salt, to taste
 - Sliced scallions, cilantro, chili oil, and toasted sesame seeds, for topping
 
-#### Directions
+### Directions
 
 1. Rinse the rice until the water runs clear. Drain it well, put it in a sealable bag with 1 tbsp of water, and freeze for at least 2 hours or overnight.
 2. Toss the frozen rice with the oil. Bring the stock to a rolling boil in a Dutch oven or large heavy pot over high heat, then stir in the Better Than Bouillon.
@@ -69,7 +64,7 @@ China is huge, with more than a billion people and food that changes a lot from 
 
 ### Youtiao (Chinese Fried Dough)
 
-#### Ingredients
+### Ingredients
 
 - 2 cups bread flour or high-protein all-purpose flour
 - 1 tsp baking powder
@@ -80,11 +75,11 @@ China is huge, with more than a billion people and food that changes a lot from 
 - 1 tbsp milk or neutral oil
 - Neutral oil, for frying (peanut, canola, or vegetable)
 
-#### Directions
+### Directions
 
 1. Whisk the flour, baking powder, baking soda, and salt together. Add the egg, warm water, and milk, and mix until a shaggy dough forms.
 2. Knead 3–5 minutes until smooth. Cover and rest 20 minutes. Knead 1 more minute and shape into a smooth rectangle. Wrap it tightly in plastic and refrigerate overnight, at least 8 hours.
-3. Take the dough out of the fridge 1 hour before frying so it comes to room temperature. In my batch, cold dough did not puff as much as it should have.
+3. Take the dough out of the fridge 1 hour before frying so it comes to room temperature.
 4. Roll the dough into a long strip about ¼ inch thick and 3 inches wide. Cut it crosswise into strips about 1 inch wide.
 5. Stack two strips on top of each other. Press a wooden skewer or chopstick lengthwise down the middle.
 6. Heat 2–3 inches of oil in a wok or deep skillet to 380°F. Gently stretch a stacked strip to about twice its length and lower it into the oil.

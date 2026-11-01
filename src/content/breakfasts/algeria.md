@@ -3,34 +3,35 @@ country: "Algeria"
 dish: "Msemen"
 date: 2026-06-27
 rating: 3.0
+serves: "4 (8 flatbreads)"
+time: "About 1½ hours"
 flag: dz
 images:
   - /images/algeria.jpg
-verdict: "A crunchy base that needed honey or sharp cheddar to shine."
-servings: "4 (8 flatbreads)"
-mealStyle: ["sweet", "savory"]
-beforeYouStart: ["Mix the butter and oil for layering before working with the dough."]
-activeTime: "45–60 minutes"
-cookTime: "25–35 minutes"
-recipeTime: "1½–2 hours"
-waitingTime: "40 minutes of dough rests"
-quick: false
 ---
 
-## Our choice for Algeria
-
-Msemen is a square, flaky flatbread made with semolina and flour. You stretch the dough really thin, fold it into a square, and cook it on a griddle. It's a breakfast favorite across North Africa because it's made from pantry staples and goes with anything, sweet or savory. In Algeria it's usually eaten with honey and mint tea or coffee. Expect a crisp, flaky outside with chewy layers inside, a little like a paratha.
-
-## At our table
-
-This was good as a base but needs a topping to make it delicious. It had a nice crunch on the outside, but it was plain on its own, and the honey was necessary. It would have been better if I'd cooked it in butter. Less healthy, though. Adding sharp cheddar cheese on top made it super good.
-
-## Breakfast context: Algeria
+## About Algeria
 
 Algeria is the biggest country in Africa, sitting on the Mediterranean coast with most of its land in the Sahara. The people are mostly Arab and Berber, and France ruled the country for over 100 years. Wheat and semolina are the base of most meals, as couscous, bread, and flatbread. In a hot, dry country, grains store well and go a long way, so bread shows up at almost every meal.
 
+## The Dish
 
-## Recipe
+Msemen is a square, flaky flatbread made with semolina and flour. You stretch the dough really thin, fold it into a square, and cook it on a griddle. It's a breakfast favorite across North Africa because it's made from pantry staples and goes with anything, sweet or savory. In Algeria it's usually eaten with honey and mint tea or coffee. Expect a crisp, flaky outside with chewy layers inside, a little like a paratha.
+
+## Review
+
+This was good as a base but needs a topping to make it delicious. It had a nice crunch on the outside, but it was plain on its own, and the honey was necessary. It would have been better if I'd cooked it in butter. Less healthy, though. Adding sharp cheddar cheese on top made it super good.
+
+## Rating
+
+3/5
+
+## Msemen
+
+- Serves: 4 (8 flatbreads)
+- Time: About 1½ hours
+
+## Ingredients and directions
 
 ### Ingredients
 

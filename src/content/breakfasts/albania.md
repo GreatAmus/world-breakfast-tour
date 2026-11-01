@@ -3,34 +3,35 @@ country: "Albania"
 dish: "Petulla"
 date: 2026-06-20
 rating: 5.0
+serves: "4 (about 20 puffs)"
+time: "About 30 minutes"
 flag: al
 images:
   - /images/albania.jpg
-verdict: "Light, airy fried dough with salty feta and sweet jam; we all loved it."
-servings: "4 (about 20 puffs)"
-mealStyle: ["sweet", "savory"]
-beforeYouStart: ["Make the batter thick and sticky, then fry in batches. Have the feta and jam ready to serve."]
-activeTime: "20–30 minutes"
-cookTime: "15–20 minutes"
-recipeTime: "25–35 minutes"
-waitingTime: "None beyond heating the oil"
-quick: true
 ---
 
-## Our choice for Albania
-
-Petulla are fried dough balls and a common Albanian breakfast, especially on weekends and holidays. Families make a big batch and everyone eats them warm. There are two ways to serve them: honey and powdered sugar, or jam and feta. Expect a light, puffy dough with a crisp outside, a lot like a donut hole without the sweetness. My version is a quick yogurt batter you spoon straight into hot oil, so there's no waiting for the dough to rise.
-
-## At our table
-
-Albania was a strong start. The fried dough came out just right: light and airy, with salty feta and sweet jam on top. That combination took it from simple fried dough to something we'd happily eat again. We all loved it, which gave us the motivation to keep this project going. No complaints at all.
-
-## Breakfast context: Albania
+## About Albania
 
 Albania is a small country on the Balkan coast, right across the Adriatic Sea from Italy. It was part of the Ottoman Empire for over 400 years, so the food mixes Mediterranean and Turkish cooking. People eat a lot of olive oil, feta, yogurt, vegetables, and bread. Most of the country is mountains and farmland, so meals are built around what local farms produce, especially dairy.
 
+## The Dish
 
-## Recipe
+Petulla are fried dough balls and a common Albanian breakfast, especially on weekends and holidays. Families make a big batch and everyone eats them warm. There are two ways to serve them: honey and powdered sugar, or jam and feta. Expect a light, puffy dough with a crisp outside, a lot like a donut hole without the sweetness. My version is a quick yogurt batter you spoon straight into hot oil, so there's no waiting for the dough to rise.
+
+## Review
+
+Albania was our first country, and it was a great start. The kids and I rated it 5/5. Surprisingly, the feta and jam was really good. The feta plus jam combo is a 5/5 on its own.
+
+## Rating
+
+5/5
+
+## Petulla
+
+- Serves: 4 (about 20 puffs)
+- Time: About 30 minutes
+
+## Ingredients and directions
 
 ### Ingredients
 
