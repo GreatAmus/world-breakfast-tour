@@ -16,7 +16,11 @@ Real Belgian waffles are different than American waffles. Liège waffles are mor
 
 ## What we thought
 
-Extremely tasty, and they reminded me of being in Belgium again. I really like the pearl sugar and the crunch it gives. Why the lower rating? A lot of people liked the lighter waffle you get in the US more than this waffle. I froze the rest and plan on bringing them out for dessert with a scoop of ice cream on top. 4.2/5.
+Extremely tasty, and they reminded me of being in Belgium again. I really like the pearl sugar and the crunch it gives. Why the lower rating? A lot of people liked the lighter waffle you get in the US more than this waffle. I froze the rest and plan on bringing them out for dessert with a scoop of ice cream on top.
+
+## Rating
+
+4.2/5
 
 ## Ingredients and directions
 
@@ -33,7 +37,7 @@ Extremely tasty, and they reminded me of being in Belgium again. I really like t
 - ½ cup butter, softened but not melted
 - 5½–6½ cups flour
 - 1 tsp salt
-- 2 cups Belgian pearl sugar, divided (1½ cups and ½ cup) — I ordered mine off Amazon
+- 2 cups Belgian pearl sugar, divided (1½ cups and ½ cup)
 - Strawberries, blueberries, and whipped cream, to serve
 
 ### Directions
@@ -47,6 +51,8 @@ Extremely tasty, and they reminded me of being in Belgium again. I really like t
 7. Turn the dough onto a lightly floured board and flatten it into a rectangle. Scatter 1½ cups pearl sugar across it. Fold the bottom third up and the top third over that, then roll it out again to press the sugar into the dough.
 8. Scatter the remaining ½ cup pearl sugar over the dough and fold in thirds again.
 9. Roll the dough into a log about 12 inches long and divide the log into 12 pieces.
-10. Roll each dough piece into a ball against the counter, then press the ball into a flat disc. Set the discs on a floured sheet, cover loosely. I didn’t let them rise here, but I think the recipe would improve by letting the dough rise for 30–60 minutes until puffy.
-11. Heat a Belgian waffle iron to medium. Grease the waffle iron then cook each disc 5-6 minutes, until deep golden brown. Lighter than that and the center will still be raw dough.
+10. Roll each dough piece into a ball against the counter, then press the ball into a flat disc. Set the discs on a floured sheet and cover loosely.
+11. Heat a Belgian waffle iron to medium. Grease the waffle iron then cook each disc 5–6 minutes, until deep golden brown. Lighter than that and the center will still be raw dough.
 12. Lift them out carefully as the melted pearl sugar is hot enough to give you a real burn. Let the waffles cool a minute or two before eating. Serve with strawberries, blueberries, and whipped cream.
+
+Note: I ordered my pearl sugar off Amazon. I didn't let the discs rise before cooking, but I think the recipe would improve if you let them rise for 30–60 minutes until puffy.

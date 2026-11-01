@@ -18,27 +18,29 @@ Petulla are fried dough balls and a common Albanian breakfast. There are two way
 
 Albania was our first country, and the kids and I rated it 5/5. Surprisingly, the feta and jam was really good.
 
+## Rating
+
+5/5
+
 ## Ingredients and directions
-
-### Petulla (Albanian Fried Dough Puffs)
-
-### Crispy, golden fried dough puffs from Albania
 
 ### Ingredients
 
-- 2 cup all-purpose flour
+- 2 cups all-purpose flour
 - 2 tsp baking powder
-- 1/2 tsp salt
+- ½ tsp salt
 - 1 tsp sugar
-- 3/4 cup warm water
-- 1/4 cup plain yogurt
-- 2 cup vegetable oil for frying
-- 2 tbsp powdered sugar for serving
-- 2 tbsp honey for serving
+- ¾ cup warm water
+- ¼ cup plain yogurt
+- 2 cups vegetable oil, for frying
+- 2 tbsp powdered sugar, for serving
+- 2 tbsp honey, for serving
 
 ### Directions
 
-1. Whisk together 2 cup all-purpose flour, 2 tsp baking powder, 1/2 tsp salt, and 1 tsp sugar in a bowl. Add 3/4 cup warm water and 1/4 cup plain yogurt and stir until a thick, sticky batter forms. Drizzle water until the right constituent.
-2. Pour 2 cup vegetable oil for frying into a heavy skillet or saucepan to about 1 inch deep. Heat over medium-high until it reaches around 350°F.
+1. Whisk together the flour, baking powder, salt, and sugar in a bowl. Add the warm water and yogurt and stir until a thick, sticky batter forms. Drizzle in more water until it's the right consistency.
+2. Pour the oil into a heavy skillet or saucepan to about 1 inch deep. Heat over medium-high until it reaches around 350°F.
 3. Drop heaping spoonfuls of batter into the hot oil. Fry until deep golden on the bottom, about 2 minutes, then flip and fry another 90 seconds. They should puff up nicely.
-4. Transfer to a paper towel-lined plate. Serve immediately dusted with 2 tbsp powdered sugar for serving and drizzled with 2 tbsp honey for serving. Feta cheese and a little jam on the side is the traditional savory-sweet combo. The feta plus jam combo is a 5/5.
+4. Transfer to a paper towel-lined plate. Serve immediately, dusted with the powdered sugar and drizzled with the honey.
+
+Note: Feta cheese and a little jam on the side is the traditional savory-sweet combo. The feta plus jam combo is a 5/5.

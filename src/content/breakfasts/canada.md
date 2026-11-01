@@ -20,7 +20,11 @@ We served it with thick sour cream buttermilk pancakes, maple syrup, and home fr
 
 My pancake recipe is already dynamite, as are my home fries. The peameal bacon added a nice, slightly salty side. The family said this was one of their favorites.
 
-The only reason it didn't get a 5 is that the flavors were what we expected and nothing stood out as a surprise. We knew what we were getting, and the food delivered as promised. Rating: 4.8/5.
+The only reason it didn't get a 5 is that the flavors were what we expected and nothing stood out as a surprise. We knew what we were getting, and the food delivered as promised.
+
+## Rating
+
+4.8/5
 
 ## Ingredients and directions
 

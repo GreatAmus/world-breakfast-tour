@@ -16,7 +16,11 @@ This Bosnian street-food breakfast is grilled beef sausages eaten with somun, a 
 
 ## What we thought
 
-The ajvar brings a sweetness to counter the salty meat and bread. I loved this dish, but my wife and children were not huge fans. The average was a 4.0, with the kids rating it slightly below a 4 while I gave it a 4.4.
+The ajvar brings a sweetness to counter the salty meat and bread. I loved this dish, but my wife and children were not huge fans. The kids rated it slightly below a 4, while I gave it a 4.4.
+
+## Rating
+
+4/5
 
 ## Ingredients and directions
 
@@ -51,13 +55,13 @@ The ajvar brings a sweetness to counter the salty meat and bread. I loved this d
 
 ### Directions
 
-1. Mix all ingredients together, then knead for 6–8 minutes until the dough is smooth and elastic. Cover and let rise until doubled, about 40 minutes to an hour.
-2. Heat your oven to 500–550°F. I used a little pizza oven I had to cook the bread. Worked great!
+1. Mix all the ingredients together, then knead for 6–8 minutes until the dough is smooth and elastic. Cover and let rise until doubled, about 40 minutes to an hour.
+2. Heat your oven to 500–550°F.
 3. Divide the dough into 4 pieces and shape into thick rounds. Let rest for 10 minutes.
 4. Flatten each round into a disc about 6 inches wide.
 5. Bake for 7–10 minutes, until puffed and nicely browned.
 
-Optional: somun is traditionally scored with a diamond pattern before baking. Press a diamond pattern into the dough after rolling it out to keep the traditional look.
+Note: I used a little pizza oven I had to cook the bread. Worked great! Somun is traditionally scored with a diamond pattern before baking. Press a diamond pattern into the dough after rolling it out if you want the traditional look.
 
 ### Smoky Ajvar
 
@@ -75,15 +79,13 @@ Optional: somun is traditionally scored with a diamond pattern before baking. Pr
 
 1. Heat your broiler to high.
 2. Peel the eggplant, then cut the peppers and eggplant into large chunks. Toss with 2 tbsp of the olive oil.
-3. Spread the vegetables on a baking sheet and broil until charred, about 20 minutes. Turn once halfway through.
-4. Optionally (and more traditionally), peel the skin off the red peppers once they cool enough to touch.
-5. Transfer the vegetables to a blender with the remaining 1 tbsp oil, vinegar, garlic, salt, and pepper. Blend to combine but leave some small chunks intact.
+3. Spread the vegetables on a baking sheet and broil until charred, about 20 minutes, turning once halfway through.
+4. Optionally (and more traditionally), peel the skin off the red peppers once they're cool enough to touch.
+5. Transfer the vegetables to a blender with the remaining 1 tbsp oil, vinegar, garlic, salt, and pepper. Blend to combine, but leave some small chunks intact.
 6. Pour the mixture into a skillet and cook for 15–20 minutes, stirring often, until thick and jam-like.
-7. Taste and adjust salt to preferred levels.
+7. Taste and adjust the salt.
 
 ### Kajmak
-
-If you can get real kajmak, use it. This is a substitute that approximates the taste. The cool, creamy cheese combines perfectly with the rest of the dish, so I highly recommend either the real thing or this version.
 
 ### Ingredients
 
@@ -97,15 +99,20 @@ If you can get real kajmak, use it. This is a substitute that approximates the t
 1. Mix everything together until thick and smooth.
 2. Refrigerate until serving.
 
-### To serve, give each person
+Note: If you can get real kajmak, use it. This is a substitute that approximates the taste. The cool, creamy cheese combines perfectly with the rest of the dish, so I highly recommend either the real thing or this version.
+
+### To Serve
+
+### Ingredients
+
+#### Per person
 
 - 2–3 ćevapi
 - 1 warm somun
-
-### Finely chopped white onion
-
-### A spoonful of kajmak
-
+- Finely chopped white onion
+- A spoonful of kajmak
 - ¼ cup ajvar
 
-Keep the components separate on the plate. The perfect bite has a little of everything, but mix up the combinations. The flavors come together in wonderful ways.
+### Directions
+
+1. Keep the components separate on the plate. The perfect bite has a little of everything, but mix up the combinations. The flavors come together in wonderful ways.

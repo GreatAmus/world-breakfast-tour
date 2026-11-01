@@ -19,61 +19,53 @@ Bolani are thin flatbreads stuffed with a filling, usually potato, leeks, or pum
 
 Adults gave it a 3/5. It was pretty bland, but much better if you add hot sauce. Kids gave it a 2/5.
 
+## Rating
+
+2.5/5
+
 ## Ingredients and directions
 
-### Bolani (Afghan Stuffed Flatbread)
+### Ingredients
 
-I made these in an air fryer to avoid so many fried dough. It may have been better fried, but they just didn’t have much flavor.
-
-Bolani are crispy, golden stuffed flatbread with herby spiced potato filling.
-
-### The bread
+#### Bread
 
 - 1 cup all-purpose flour
-- 1/4 cup plain yogurt
-- 1/8 cup warm water
-- 1/4 tsp salt
+- ¼ cup plain yogurt
+- ⅛ cup warm water
+- ¼ tsp salt
 
-### The filling
+#### Filling
 
-- 1 medium potatoes, boiled and mashed
-- 1/2 medium onion, thinly sliced
-- 1/2 tsp olive oil
-- 1 1/2 green onions, finely chopped
-- 1/4 cup fresh cilantro, chopped
-- 1/8 cup fresh mint, chopped
-- 1/2 green chili, finely chopped
-- 1/4 tsp ground cumin
-- 1/4 tsp ground coriander
-- 1/8 tsp turmeric
-- 1/4 lemon, zested
-- 1/4 tsp salt
-- 1/2 garlic clove, minced
-- 1 tbsp olive oil (for brushing)
+- 1 medium potato, boiled and mashed
+- ½ medium onion, thinly sliced
+- ½ tsp olive oil
+- 1½ green onions, finely chopped
+- ¼ cup fresh cilantro, chopped
+- ⅛ cup fresh mint, chopped
+- ½ green chili, finely chopped
+- ¼ tsp ground cumin
+- ¼ tsp ground coriander
+- ⅛ tsp turmeric
+- Zest of ¼ lemon
+- ¼ tsp salt
+- ½ garlic clove, minced
+- 1 tbsp olive oil, for brushing
 
-### Sauce
+#### Chaka (yogurt sauce)
 
-- 1/2 cup Greek yogurt
-- 1/2 garlic clove, minced
-- 1/2 tsp dried mint
-- 1/8 tsp salt
+- ½ cup Greek yogurt
+- ½ garlic clove, minced
+- ½ tsp dried mint
+- ⅛ tsp salt
 
-### Bread
+### Directions
 
-1. Mix bread ingredients. Knead 5 minutes until soft and elastic. Cover and rest for 30 minutes.
+1. Mix the bread ingredients. Knead 5 minutes until soft and elastic. Cover and rest for 30 minutes.
+2. Cook the onion in ½ tsp olive oil over low heat for 20–25 minutes, stirring occasionally, until deeply golden and sweet.
+3. Combine the mashed potato, onion, green onions, cilantro, mint, green chili, cumin, coriander, turmeric, lemon zest, salt, and garlic. Mix well and taste for seasoning.
+4. Mix the Greek yogurt, garlic, dried mint, and salt in a small bowl. Refrigerate until serving.
+5. Divide the dough into 6 balls. Roll each as thin as possible on a lightly floured surface, about tortilla thickness. Spread filling over one half, fold it over, and press the edges firmly with a fork to seal.
+6. Preheat the air fryer to 375°F for 5 minutes. Brush the bolani with oil. Cook in batches for 12 minutes, flipping at the 5-minute mark, until deeply golden and crispy.
+7. Serve immediately with the chaka on the side for dipping.
 
-### Filling
-
-2. Cook onion in 1/2 tsp olive oil over low heat for 20–25 minutes, stirring occasionally, until deeply golden and sweet.
-3. Combine mashed potatoes, onion, cilantro, mint, green chili, cumin, coriander, turmeric, lemon, salt, and clove. Mix well and taste for seasoning.
-
-### Chaka
-
-4. Mix Greek yogurt, garlic clove, dried mint and salt in a small bowl. Refrigerate until serving.
-
-### To cook
-
-5. Divide dough into 6 balls. Roll each as thin as possible on a lightly floured surface, tortilla thickness. Spread filling over one half, fold over and press edges firmly with a fork to seal.
-6. Preheat air fryer to 375°F for 5 minutes. Brush bolani with oil. Cook in batches for 12 minutes, flipping at the 5-minute mark, until deeply golden and crispy.
-
-Serve immediately with chaka on the side for dipping. I highly recommend hot sauce. The hot sauce brought the flavor from a 3 to a 4 for me. Kids still didn’t like it.
+Note: I made these in an air fryer to avoid so much fried dough. They may have been better fried, but they just didn't have much flavor. I highly recommend hot sauce. The hot sauce brought the flavor from a 3 to a 4 for me. Kids still didn't like it.

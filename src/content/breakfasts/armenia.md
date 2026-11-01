@@ -17,14 +17,20 @@ Gata is a sweet Armenian bread with a paste-like filling made from butter, sugar
 
 ## What we thought
 
-A deliciously sweet bread. This was so good that we devoured all three loaves. 5/5.
+A deliciously sweet bread. This was so good that we devoured all three loaves.
+
+## Rating
+
+5/5
 
 ## Ingredients and directions
 
-### For the dough
+### Ingredients
+
+#### Dough
 
 - 3½ cups all-purpose flour
-- 1 cup whole milk, divided
+- 1 cup whole milk
 - ¼ cup honey
 - 2¼ tsp active dry yeast
 - 1 tsp salt
@@ -32,31 +38,32 @@ A deliciously sweet bread. This was so good that we devoured all three loaves. 5
 - 1 egg
 - 1 tsp vanilla extract
 
-### Directions
-
-1. Warm the milk then add honey, yeast. Set it aside for 5 minutes to let the yeast activate.
-2. Add the rest of the ingredients. Mix and kneed until soft and pliable. Allow to raise 1 hours (until almost double in size).
-
-### For the filing
+#### Filling
 
 - 4 tbsp butter, melted
 - ½ cup sugar
 - ½ cup all-purpose flour
 - ⅓ cup walnuts, finely chopped (optional)
 - Pinch of salt
-- 1 egg + 1 tsp milk (egg wash)
+
+#### Egg wash
+
+- 1 egg
+- 1 tsp milk
 
 ### Directions
 
-1. Mix all of the ingredients except the egg wash together.
-2. Divide dough into 4 equal pieces.
-3. Flatten 3 pieces into a round circle, about a 6-inch radius or ½ inch thick.
-4. Fill each round circle with 1/3 of the filling right in the middle. Fold over the circle and seal the edges. Basically, you’re trapping the filling inside the bread.
-5. Roll the folded circle back into a circle, being careful not to tear the dough. I shot for just under ½ inch thick, which was about a 8-inch circle.
-6. Roll the 4th piece into a disc that is 12-14 inches. Cut it into strips then use it to decorate the other breads. This is just decoration so go wild.
-7. Proof for 20 minutes until its puffy.
-8. Preheat oven to 375°F. Mix the egg and milk together to create an egg wash. Bruch each of the 3 loaves.
-9. Poke holes all over the top with a fork. This is important to prevent it from bursting.
-10. Bake 28-32 minutes until deep golden. Fully cool before eating.
+1. Warm the milk, then add the honey and yeast. Set it aside for 5 minutes to let the yeast activate.
+2. Add the rest of the dough ingredients. Mix and knead until soft and pliable. Let it rise 1 hour, until almost double in size.
+3. Mix all of the filling ingredients together.
+4. Divide the dough into 4 equal pieces.
+5. Flatten 3 pieces into round circles, about ½ inch thick.
+6. Put ⅓ of the filling right in the middle of each circle. Fold the circle over and seal the edges. Basically, you're trapping the filling inside the bread.
+7. Roll the folded circle back into a circle, being careful not to tear the dough. I shot for just under ½ inch thick, which was about an 8-inch circle.
+8. Roll the 4th piece into a 12–14 inch disc. Cut it into strips and use them to decorate the other breads. This is just decoration, so go wild.
+9. Proof for 20 minutes until it's puffy.
+10. Preheat the oven to 375°F. Mix the egg and milk to make an egg wash. Brush each of the 3 loaves.
+11. Poke holes all over the top with a fork. This is important to keep it from bursting.
+12. Bake 28–32 minutes until deep golden. Cool completely before eating.
 
-The cooling part is really important is it tasted a LOT better after it cooled compared to when it was hot. I didn’t use nuts, but I wish I would have. They would have improved the texture and flavor even more, not that this recipe needed it. I recommend toasting the walnuts before adding them if you do use nuts. You could substitute the walnuts for pecans and it would be just as good.
+Note: The cooling part is really important, as it tasted a LOT better after it cooled compared to when it was hot. I didn't use nuts, but I wish I had. They would have improved the texture and flavor even more, not that this recipe needed it. If you do use nuts, toast the walnuts first. You could substitute pecans and it would be just as good.

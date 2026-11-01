@@ -16,7 +16,11 @@ Paratha is a layered whole wheat flatbread cooked in a pan. In Bangladesh it's o
 
 ## What we thought
 
-This is the second best dish so far. A nice spice that balances the flavor of the vegetables and the heaviness of the whole wheat flatbread. 4.7/5.
+This is the second best dish so far. A nice spice that balances the flavor of the vegetables and the heaviness of the whole wheat flatbread.
+
+## Rating
+
+4.7/5
 
 ## Ingredients and directions
 
@@ -30,7 +34,7 @@ This is the second best dish so far. A nice spice that balances the flavor of th
 - 1 small onion, finely chopped
 - 2 garlic cloves, minced
 - 1 tsp grated ginger
-- 1–2 green chilies, sliced (I used serrano — adjust to taste)
+- 1–2 green chilies, sliced (I used serrano; adjust to taste)
 - 1 cup cauliflower florets, cut small
 - ½ tsp turmeric
 - ½ tsp ground coriander
@@ -48,9 +52,9 @@ This is the second best dish so far. A nice spice that balances the flavor of th
 3. Add the potato and sauté 2–3 minutes.
 4. Add the onion, garlic, ginger, and chilies and sauté until the onion softens.
 5. Add the cauliflower, then the turmeric, coriander, and chili powder. Cook 2–3 minutes, stirring to coat everything in the spices.
-7. Add the water, cover, and simmer 8–10 minutes, stirring occasionally, until the potato is nearly tender.
-8. Add the green beans and peas. Cover and cook another 5–6 minutes, until everything is tender but not mushy.
-9. Salt to taste. Garnish with cilantro and serve.
+6. Add the water, cover, and simmer 8–10 minutes, stirring occasionally, until the potato is nearly tender.
+7. Add the green beans and peas. Cover and cook another 5–6 minutes, until everything is tender but not mushy.
+8. Salt to taste. Garnish with cilantro and serve.
 
 ### Paratha
 
@@ -74,4 +78,4 @@ This is the second best dish so far. A nice spice that balances the flavor of th
 5. Heat a pan over medium and add about 1 tsp ghee, enough to coat. Use more if you want a fried, flakier edge.
 6. Cook each paratha until browned in spots on both sides, 2–3 minutes per side, pressing lightly with a spatula to encourage the layers to puff. Add ghee between rounds.
 
-Note: I used whole wheat for a heavier, nuttier result. All-purpose gives you a softer, lighter paratha — not worse, just different.
+Note: I used whole wheat for a heavier, nuttier result. All-purpose gives you a softer, lighter paratha. Not worse, just different.

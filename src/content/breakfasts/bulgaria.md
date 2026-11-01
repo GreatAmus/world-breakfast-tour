@@ -17,26 +17,30 @@ Banitsa is a traditional Bulgarian pastry made from thin, flaky sheets of dough 
 
 ## What we thought
 
-I've actually had this dish from bakeries before. Surprisingly easy to make and quick to assemble, banitsa is great for mornings when you don't have a lot of time. We gave it a 4.1, where, once again, the adults rated it much higher than the kids.
+I've actually had this dish from bakeries before. Surprisingly easy to make and quick to assemble, banitsa is great for mornings when you don't have a lot of time. Once again, the adults rated it much higher than the kids.
+
+## Rating
+
+4.1/5
 
 ## Ingredients and directions
 
 ### Ingredients
 
-- 8 ounces phyllo dough, thawed overnight in the fridge (half a standard box)
-- 7 ounces sirene cheese or full-fat feta cheese, crumbled
+- 8 oz phyllo dough, thawed overnight in the fridge (half a standard box)
+- 7 oz sirene cheese or full-fat feta, crumbled
 - 3 large eggs
-- 1/2 cup Greek yogurt
-- 2 tblsp sparkling water
-- 1/2 tsp (omit if using Sirene cheese instead of Feta)
-- 1/2 cup unsalted butter, melted
+- ½ cup Greek yogurt
+- 2 tbsp sparkling water
+- ½ tsp salt (omit if using sirene instead of feta)
+- ½ cup unsalted butter, melted
 
 ### Directions
 
-1. Preheat the oven to 375°F (190°C). Grease a round pie dish with a little of the melted butter.
-2. In a large bowl, whisk together the eggs, yogurt, salt and water. Fold in the cheese.
-3. Fill the first phyllo log by laying out one sheet of the phyllo dough and brushing it with melted butter. Top with a second sheet of phyllo, brushing that sheet with butter as well. Spoon a few tablespoons of the cheese filling in a line along the lengthwise bottom edge of the phyllo.
-4. Roll the filled phyllo into a long log, then coil it around the outer edge of the pie dish, curving to follow the rim.
-5. Repeat with the remaining phyllo, working two sheets and a spoonful of filling at a time. Remember to spread butter over each sheet. Coil each new log tightly against the last, spiraling inward until the pie dish is filled from edge to center.
-6. Drizzle any remaining butter over the top of the dish. Bake until the top is golden-brown and crisp (around 35-40 minutes).
-7. Remove from the oven and let cool for 15 minutes before slicing and serving.
+1. Preheat the oven to 375°F. Grease a round pie dish with a little of the melted butter.
+2. In a large bowl, whisk together the eggs, yogurt, salt, and sparkling water. Fold in the cheese.
+3. Lay out one sheet of phyllo and brush it with melted butter. Top with a second sheet and brush that with butter too. Spoon a few tablespoons of the cheese filling in a line along the long bottom edge.
+4. Roll the filled phyllo into a long log, then coil it around the outer edge of the pie dish, following the rim.
+5. Repeat with the remaining phyllo, working two sheets and a spoonful of filling at a time. Remember to brush butter over each sheet. Coil each new log tightly against the last, spiraling inward until the dish is filled from edge to center.
+6. Drizzle any remaining butter over the top. Bake until the top is golden brown and crisp, around 35–40 minutes.
+7. Let cool for 15 minutes before slicing and serving.

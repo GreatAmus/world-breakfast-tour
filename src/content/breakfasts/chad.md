@@ -20,7 +20,11 @@ Traditional versions use millet flour. I only had whole millet, so I toasted the
 
 We actually thought the flavor ended up being very good with milk and sugar added. However, millet turns into a paste, and the texture was not our favorite. The overall result was a more glue-like version of peanut butter flavored cream of wheat.
 
-I don't like porridge or peanut butter, which hurt this recipe's rating a lot. If you do like that type of food, this recipe might be one you like. Rating: 2.7/5.
+I don't like porridge or peanut butter, which hurt this recipe's rating a lot. If you do like that type of food, this recipe might be one you like.
+
+## Rating
+
+2.7/5
 
 ## Ingredients and directions
 
