@@ -11,8 +11,7 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await render(post);
-const { country, dish, date, rating, ratingNote, images, flag, about } = post.data;
-const aboutParas = (about ?? '').split(/\n\s*\n/).map((p) => p.trim()).filter(Boolean);
+const { country, dish, date, rating, ratingNote, images, flag, serves, time } = post.data;
 
 const all = await getBreakfasts();
 const i = all.findIndex((p) => p.id === post.id);
@@ -35,6 +34,11 @@ const next = all[i + 1];
           <p class="post-date">Posted {formatDate(date)}</p>
         </div>
       </div>
+      <div class="post-meta">
+        {serves && <p><span class="meta-label">Serves</span> {serves}</p>}
+        {time && <p><span class="meta-label">Time</span> {time}</p>}
+        <a class="button jump" href="#ingredients-and-directions">Jump to recipe</a>
+      </div>
     </header>
 
     {images.map((src, n) => (
@@ -42,13 +46,6 @@ const next = all[i + 1];
         <img src={src} alt={n === 0 ? `${dish} from ${country}` : `Another photo of the ${dish.toLowerCase()}`} loading={n === 0 ? 'eager' : 'lazy'} />
       </figure>
     ))}
-
-    {aboutParas.length > 0 && (
-      <section class="about-country" aria-labelledby="about-heading">
-        <h2 id="about-heading">About {country}</h2>
-        {aboutParas.map((p) => <p>{p}</p>)}
-      </section>
-    )}
 
     <div class="prose">
       <Content />

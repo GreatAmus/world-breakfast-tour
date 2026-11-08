@@ -1,22 +1,32 @@
 ---
 country: "Bangladesh"
-dish: "Paratha with mixed vegetable bhaji"
+dish: "Paratha with bhaji (flatbread with spiced vegetables)"
 date: 2026-08-16
 rating: 4.7
+ratingNote: "This dish surprised everyone"
+serves: "4 (2 parathas and about 1 cup of bhaji each)"
+time: "About 1 hour"
 flag: bd
 images:
   - /images/bangladesh.jpg
-about: |
-  Bangladesh is in South Asia, next to India, and a lot of the country sits on river deltas. Rice and fish are the base of almost every meal.
 ---
 
-## The dish
+## About Bangladesh
 
-Paratha is a layered whole wheat flatbread cooked in a pan. In Bangladesh it's often eaten with bhaji, which is mixed vegetables cooked with cumin, turmeric, and green chilies.
+Bangladesh is in South Asia, next to India, and much of the country sits on the deltas of huge rivers. It's one of the most crowded countries in the world. Rice and fish are the base of almost every meal, with lentils, vegetables, and lots of spices. All that river water makes rice easy to grow and fish easy to catch, so they became the foundation of the food.
 
-## What we thought
+## The Dish
 
-This is the second best dish so far. A nice spice that balances the flavor of the vegetables and the heaviness of the whole wheat flatbread. 4.7/5.
+Paratha with bhaji is a common Bangladeshi breakfast. Paratha is a layered whole wheat flatbread cooked in a pan, and bhaji is mixed vegetables cooked with cumin, turmeric, and green chilies. It's cheap, filling, and sold at tea stalls all over the country. Expect a chewy, flaky flatbread and soft vegetables with a medium spice.
+
+## Review
+
+This dish surprised everyone. While making it, I thought there was no way this would rate above a 3.0, with the whole wheat flour and being so vegetable heavy. I was very surprised when the whole wheat layered bread just worked and perfectly complemented the vegetable medley. Eating each part separately was a very different experience than eating them together. The kids also loved the dish, and we devoured the entire thing without leftovers. The whole wheat paratha was chewier than what I'm used to from paratha, but the change was actually nice and gave the vegetables a more filling base.
+
+## Paratha with bhaji (flatbread with spiced vegetables)
+
+- Serves: 4 (2 parathas and about 1 cup of bhaji each)
+- Time: About 1 hour
 
 ## Ingredients and directions
 
@@ -30,7 +40,7 @@ This is the second best dish so far. A nice spice that balances the flavor of th
 - 1 small onion, finely chopped
 - 2 garlic cloves, minced
 - 1 tsp grated ginger
-- 1–2 green chilies, sliced (I used serrano — adjust to taste)
+- 1–2 green chilies, sliced (I used serrano; adjust to taste)
 - 1 cup cauliflower florets, cut small
 - ½ tsp turmeric
 - ½ tsp ground coriander
@@ -48,9 +58,9 @@ This is the second best dish so far. A nice spice that balances the flavor of th
 3. Add the potato and sauté 2–3 minutes.
 4. Add the onion, garlic, ginger, and chilies and sauté until the onion softens.
 5. Add the cauliflower, then the turmeric, coriander, and chili powder. Cook 2–3 minutes, stirring to coat everything in the spices.
-7. Add the water, cover, and simmer 8–10 minutes, stirring occasionally, until the potato is nearly tender.
-8. Add the green beans and peas. Cover and cook another 5–6 minutes, until everything is tender but not mushy.
-9. Salt to taste. Garnish with cilantro and serve.
+6. Add the water, cover, and simmer 8–10 minutes, stirring occasionally, until the potato is nearly tender.
+7. Add the green beans and peas. Cover and cook another 5–6 minutes, until everything is tender but not mushy.
+8. Salt to taste. Garnish with cilantro and serve.
 
 ### Paratha
 
@@ -74,4 +84,4 @@ This is the second best dish so far. A nice spice that balances the flavor of th
 5. Heat a pan over medium and add about 1 tsp ghee, enough to coat. Use more if you want a fried, flakier edge.
 6. Cook each paratha until browned in spots on both sides, 2–3 minutes per side, pressing lightly with a spatula to encourage the layers to puff. Add ghee between rounds.
 
-Note: I used whole wheat for a heavier, nuttier result. All-purpose gives you a softer, lighter paratha — not worse, just different.
+Note: I used whole wheat for a heavier, nuttier result. All-purpose gives you a softer, lighter paratha. Not worse, just different.

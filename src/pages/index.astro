@@ -10,7 +10,7 @@ const posts = await getBreakfasts();
 const done = new Set(posts.map((p) => p.data.country));
 const total = new Set([...countries, ...done]).size;
 const recent = [...posts]
-  .sort((a, b) => b.data.date - a.data.date || a.data.country.localeCompare(b.data.country))
+  .sort((a, b) => b.data.date - a.data.date || b.data.country.localeCompare(a.data.country, 'en')) // newest first; same-day posts Z to A
   .slice(0, SHOW);
 
 const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').map((l) => {

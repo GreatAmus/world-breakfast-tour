@@ -1,22 +1,33 @@
 ---
 country: "Belgium"
-dish: "Liège waffles"
+dish: "Gaufres de Liège (Liège waffles)"
 date: 2026-08-23
 rating: 4.2
+ratingNote: "Reminded me of being in Belgium again"
+serves: "6 (2 waffles each)"
+time: "About 4 hours, plus making the dough the night before"
 flag: be
 images:
   - /images/belgium.jpg
-about: |
-  Belgium is a small country next to France, the Netherlands, and Germany. It's known for chocolate, fries, and of course waffles.
 ---
 
-## The dish
+## About Belgium
 
-Real Belgian waffles are different than American waffles. Liège waffles are more like a brioche bread cooked in a waffle maker after stuffing the dough with sugar. The pearl sugar caramelizes as they cook.
+Belgium is a small country in western Europe, next to France, the Netherlands, and Germany. The north speaks Dutch and the south speaks French, and the food mixes both. Belgians are known for chocolate, fries, beer, and waffles. Rich dairy farmland and a long history of sugar refining made sweet baked goods a big part of daily life.
 
-## What we thought
+## The Dish
 
-Extremely tasty, and they reminded me of being in Belgium again. I really like the pearl sugar and the crunch it gives. Why the lower rating? A lot of people liked the lighter waffle you get in the US more than this waffle. I froze the rest and plan on bringing them out for dessert with a scoop of ice cream on top. 4.2/5.
+Liège waffles are made from a yeasted, brioche-like dough with chunks of pearl sugar mixed in. As they cook, the sugar caramelizes on the outside. They're sold hot from street stands all over Belgium and eaten by hand. Real Belgian waffles are different than American waffles. Expect a dense, chewy waffle with crunchy, caramelized sugar, more like a sweet bread than a pancake.
+
+## Review
+
+Extremely tasty, and they reminded me of being in Belgium again. I really like the pearl sugar and the crunch it gives. Why the lower rating? A lot of people liked the lighter waffle you get in the US more than this waffle. I froze the rest and plan on bringing them out for dessert with a scoop of ice cream on top.
+
+
+## Gaufres de Liège (Liège waffles)
+
+- Serves: 6 (2 waffles each)
+- Time: About 4 hours, plus making the dough the night before
 
 ## Ingredients and directions
 
@@ -33,8 +44,10 @@ Extremely tasty, and they reminded me of being in Belgium again. I really like t
 - ½ cup butter, softened but not melted
 - 5½–6½ cups flour
 - 1 tsp salt
-- 2 cups Belgian pearl sugar, divided (1½ cups and ½ cup) — I ordered mine off Amazon
+- 2 cups Belgian pearl sugar, divided (1½ cups and ½ cup)
 - Strawberries, blueberries, and whipped cream, to serve
+
+> **Know before you start:** The dough rises, then rests in the fridge overnight. Take it out 2–3 hours before cooking so it can warm up. You'll need Belgian pearl sugar, which most grocery stores don't carry.
 
 ### Directions
 
@@ -47,6 +60,8 @@ Extremely tasty, and they reminded me of being in Belgium again. I really like t
 7. Turn the dough onto a lightly floured board and flatten it into a rectangle. Scatter 1½ cups pearl sugar across it. Fold the bottom third up and the top third over that, then roll it out again to press the sugar into the dough.
 8. Scatter the remaining ½ cup pearl sugar over the dough and fold in thirds again.
 9. Roll the dough into a log about 12 inches long and divide the log into 12 pieces.
-10. Roll each dough piece into a ball against the counter, then press the ball into a flat disc. Set the discs on a floured sheet, cover loosely. I didn’t let them rise here, but I think the recipe would improve by letting the dough rise for 30–60 minutes until puffy.
-11. Heat a Belgian waffle iron to medium. Grease the waffle iron then cook each disc 5-6 minutes, until deep golden brown. Lighter than that and the center will still be raw dough.
+10. Roll each dough piece into a ball against the counter, then press the ball into a flat disc. Set the discs on a floured sheet and cover loosely.
+11. Heat a Belgian waffle iron to medium. Grease the waffle iron then cook each disc 5–6 minutes, until deep golden brown. Lighter than that and the center will still be raw dough.
 12. Lift them out carefully as the melted pearl sugar is hot enough to give you a real burn. Let the waffles cool a minute or two before eating. Serve with strawberries, blueberries, and whipped cream.
+
+Note: I ordered my pearl sugar off Amazon. I didn't let the discs rise before cooking, but I think the recipe would improve if you let them rise for 30–60 minutes until puffy.

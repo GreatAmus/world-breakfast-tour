@@ -3,24 +3,33 @@ country: "Canada"
 dish: "Peameal bacon, pancakes, and home fries"
 date: 2026-10-24
 rating: 4.8
+ratingNote: "One of the family’s favorites"
+serves: "6 (2 pancakes, 2 slices of bacon, and about 1 cup of potatoes each)"
+time: "About 1 hour, plus brining the bacon 4–5 days ahead"
 flag: ca
 images:
   - /images/canada.jpg
-about: |
-  Canada is our neighbor to the north and the second biggest country in the world. English and French are both official languages. Maple syrup is a big deal there, and Canada makes most of the world's supply.
 ---
 
-## The dish
+## About Canada
 
-A classic Canadian breakfast is familiar to Americans but has its own distinctive touches. Breakfast can include home fries, toast, and bacon or sausage. Unique to Canada is peameal bacon, a lean, cured pork loin rolled in cornmeal and served in thick slices. I made my own since importing peameal bacon in the US is ridiculously expensive, although you can get a similar breakfast by buying a good ham steak.
+Canada is our neighbor to the north and the second biggest country in the world. English and French are both official languages, and people from all over the world have moved there. Canadians eat a lot like Americans, with plenty of wheat, beef, pork, potatoes, and dairy. Canada also makes most of the world's maple syrup. The sugar maple trees grow in the cold east, especially Quebec, so maple ends up on everything.
+
+## The Dish
+
+A classic Canadian breakfast is familiar to Americans but has its own distinctive touches. Breakfast can include home fries, toast, and bacon or sausage. Unique to Canada is peameal bacon, a lean, cured pork loin rolled in cornmeal and served in thick slices. Expect something closer to ham than American bacon: juicy, lean, and a little salty, with a crunchy cornmeal edge. I made my own since importing peameal bacon in the US is ridiculously expensive, although you can get a similar breakfast by buying a good ham steak.
 
 We served it with thick sour cream buttermilk pancakes, maple syrup, and home fries.
 
-## What we thought
+## Review
 
-My pancake recipe is already dynamite, as are my home fries. The peameal bacon added a nice, slightly salty side. The family said this was one of their favorites.
+My pancake recipe is already dynamite, as are my home fries. The peameal bacon added a nice, slightly salty side. The family said this was one of their favorites. The only reason it didn't get a 5 is that the flavors were what we expected and nothing stood out as a surprise. We knew what we were getting, and the food delivered as promised.
 
-The only reason it didn't get a 5 is that the flavors were what we expected and nothing stood out as a surprise. We knew what we were getting, and the food delivered as promised. Rating: 4.8/5.
+
+## Peameal bacon, pancakes, and home fries
+
+- Serves: 6 (2 pancakes, 2 slices of bacon, and about 1 cup of potatoes each)
+- Time: About 1 hour, plus brining the bacon 4–5 days ahead
 
 ## Ingredients and directions
 
@@ -40,6 +49,8 @@ The only reason it didn't get a 5 is that the flavors were what we expected and 
 - 3–4 lb boneless center-cut pork loin
 - Coarse yellow cornmeal, for coating
 - Oil, for frying
+
+> **Know before you start:** The bacon brines for 4–5 days, plus a night uncovered in the fridge, so start it about a week ahead. You'll need pink curing salt #1 (Prague Powder #1).
 
 ### Directions
 

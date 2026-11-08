@@ -3,24 +3,31 @@ country: "Chad"
 dish: "Bouillie de mil (millet porridge with peanuts)"
 date: 2026-10-25
 rating: 2.7
+ratingNote: "Good flavor, but the texture was not our favorite"
+serves: "4 (about 1 cup each)"
+time: "About 50 minutes"
 flag: td
 images:
   - /images/chad.jpg
-about: |
-  Chad is a landlocked country in north-central Africa, named after Lake Chad. The north is part of the Sahara, and the south is farmland. French and Arabic are the official languages.
 ---
 
-## The dish
+## About Chad
 
-Breakfast in Chad uses simple, filling foods made from grains like millet and sorghum. La bouillie de mil is a warm millet porridge flavored with peanuts, butter, and evaporated milk. Peanuts are an especially important part of the agriculture in Chad. The dish is a nourishing and filling porridge that keeps you going during the day.
+Chad is a landlocked country in north-central Africa, named after Lake Chad. The north is part of the Sahara, and the south is farmland. French and Arabic are the official languages, and more than 100 ethnic groups live there. Breakfast in Chad uses simple, filling foods made from grains like millet and sorghum. Those grains survive heat and drought better than almost anything else, so they're the base of most meals.
 
-Traditional versions use millet flour. I only had whole millet, so I toasted the grains, simmered them until very soft, and blended them smooth.
+## The Dish
 
-## What we thought
+La bouillie de mil is a warm millet porridge flavored with peanuts, butter, and evaporated milk. Peanuts are an especially important part of the agriculture in Chad. The dish is a nourishing and filling porridge that keeps you going during the day. Expect a smooth, thick, slightly sweet porridge with a nutty, peanut flavor, a lot like cream of wheat. Traditional versions use millet flour. I only had whole millet, so I toasted the grains, simmered them until very soft, and blended them smooth.
 
-We actually thought the flavor ended up being very good with milk and sugar added. However, millet turns into a paste, and the texture was not our favorite. The overall result was a more glue-like version of peanut butter flavored cream of wheat.
+## Review
 
-I don't like porridge or peanut butter, which hurt this recipe's rating a lot. If you do like that type of food, this recipe might be one you like. Rating: 2.7/5.
+We actually thought the flavor ended up being very good with milk and sugar added. However, millet turns into a paste, and the texture was not our favorite. The overall result was a more glue-like version of peanut butter flavored cream of wheat. I don't like porridge or peanut butter, which hurt this recipe's rating a lot. If you do like that type of food, this recipe might be one you like.
+
+
+## Bouillie de mil (millet porridge with peanuts)
+
+- Serves: 4 (about 1 cup each)
+- Time: About 50 minutes
 
 ## Ingredients and directions
 

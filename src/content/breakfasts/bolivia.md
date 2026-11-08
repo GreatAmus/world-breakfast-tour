@@ -1,26 +1,35 @@
 ---
 country: "Bolivia"
-dish: "Chicken salteñas"
+dish: "Salteñas de pollo (baked chicken pastries)"
 date: 2026-09-16
 rating: 4.2
+ratingNote: "A touch of sweetness balances the savory richness"
+serves: "6 (2 salteñas each)"
+time: "About 3 hours"
 flag: bo
 images:
   - /images/bolivia.jpg
-about: |
-  Bolivia is a landlocked country in the middle of South America. La Paz is one of the highest capitals in the world. Potatoes, corn, and quinoa are the main foods.
 ---
 
-## The dish
+## About Bolivia
 
-Bolivian chicken salteñas are a savory chicken stew packaged in a golden, buttery pastry. The filling combines shredded chicken, potatoes, peas, olives, egg, onion, garlic, and warm spices in an aromatic broth. They're a mid-morning tradition in Bolivia, and you eat these by hand.
+Bolivia is a landlocked country in the middle of South America, with cities high in the Andes and rainforest in the east. Most Bolivians have Indigenous roots, and Quechua and Aymara are spoken alongside Spanish. People eat a lot of potatoes, corn, quinoa, and chilies. Those crops grow high in the mountains where little else will, which is why Bolivia grows hundreds of kinds of potatoes.
 
-## What we thought
+## The Dish
 
-A touch of sweetness balances the savory richness. The pastry is crisp and golden on the outside but sturdy enough to hold the piping hot filling. They were very good. 4.2/5.
+Bolivian chicken salteñas are a savory chicken stew packaged in a golden, buttery pastry. The filling combines shredded chicken, potatoes, peas, olives, egg, onion, garlic, and warm spices in an aromatic broth. They're a mid-morning tradition in Bolivia, and most people have them on the way to work or school. Expect a slightly sweet crust with a juicy, saucy filling. You eat these by hand, carefully, so the broth doesn't spill.
+
+## Review
+
+A touch of sweetness balances the savory richness. The pastry is crisp and golden on the outside but sturdy enough to hold the piping hot filling. They were very good.
+
+
+## Salteñas de pollo (baked chicken pastries)
+
+- Serves: 6 (2 salteñas each)
+- Time: About 3 hours
 
 ## Ingredients and directions
-
-### Bolivian Chicken Salteñas Recipe
 
 ### Chicken Filling
 
@@ -31,7 +40,7 @@ A touch of sweetness balances the savory richness. The pastry is crisp and golde
 - 2 tbsp butter
 - 1 large red or yellow onion, very finely diced
 - ½ red bell pepper, very finely diced
-- 3 cloves garlic, minced
+- 3 garlic cloves, minced
 - 2½ tbsp ají amarillo paste
 - 1 tbsp tomato paste
 - 1½ tsp ground cumin
@@ -47,8 +56,10 @@ A touch of sweetness balances the savory richness. The pastry is crisp and golde
 - 2 hard-boiled eggs, chopped
 - 2 tsp red wine vinegar
 - 2 tbsp unflavored powdered gelatin
-- 1/3 cup cold water
+- ⅓ cup cold water
 - Salt
+
+> **Know before you start:** The filling has to be cold and set before you fill the dough. Make it first, or the night before.
 
 ### Directions
 
@@ -63,43 +74,45 @@ A touch of sweetness balances the savory richness. The pastry is crisp and golde
 9. Add the chicken and cook for 4 minutes.
 10. Add the raisins and peas and cook for 2 minutes.
 11. Turn off the heat. Stir in the vinegar and remove the bay leaf.
-12. Sprinkle the gelatin over the ¼ cup cold water and let it sit for a few minutes to bloom.
+12. Sprinkle the gelatin over the cold water and let it sit for a few minutes to bloom.
 13. Stir the gelatin into the filling, then fold in the eggs and olives.
-14. Spread the filling in a pan and freeze for 30 minutes, stirring every 5 minutes, until the mixture is cold and the gelatin has set. Alternatively, refrigerate overnight instead of using the freezer.
+14. Spread the filling in a pan and freeze for 30 minutes, stirring every 5 minutes, until the mixture is cold and the gelatin has set. You can also refrigerate it overnight instead of using the freezer.
 
-- Salteña Dough
+### Salteña Dough
 
 ### Ingredients
+
+#### Dough
 
 - 4 cups all-purpose flour
 - ½ cup granulated sugar
 - 1 tsp salt
-- 1 tbsp ground achiote (urucú), or substitute below
+- 1 tbsp ground achiote (urucú), or the substitute in the note
 - ½ cup room-temperature butter
 - 1 egg yolk
 - ¾ cup + 1 tbsp room-temperature water, plus up to ¼ cup more as needed
 
-### For the egg wash
+#### Egg wash
 
 - 1 egg white
 - 2 tbsp water
 
-Achiote substitute: I couldn't find urucú at my local grocery store, so I mixed together 2 tsp paprika, ¼ tsp turmeric, and 1 tsp melted butter.
-
 ### Directions
 
-1. Mix the flour, sugar, salt, and achiote (or substitute).
+1. Mix the flour, sugar, salt, and achiote.
 2. Add the butter and egg yolk. Work the butter through the flour with your fingers.
 3. Gradually add the water, mixing until a firm dough forms. If it doesn't come together, add up to another ¼ cup of water, 1 tsp at a time. You want the dough stiff and not sticky.
 4. Knead for 10 minutes. If it seems dry and cracks badly, add water 1 tsp at a time. If it's sticky, add flour 1 tbsp at a time.
 5. Cover the dough and let it rest for 20 minutes. Heat your oven to 470°F.
 6. Divide into 12 equal balls. Cover and let rest for another 10 minutes.
-7. Roll each ball into a circle about 6 inches across. Don't make them paper thin or the filling will leak through.
-8. Place ⅓ cup of the cold filling in the center of each disc.
-9. Seal with a repulgue: fold the dough over the filling and press the edges firmly together. Push out any excess air, then pinch the seam between your thumb and index finger, working all the way around to close any gaps.
+7. Roll each ball into a circle about 6 inches across. Don't make them paper thin, or the filling will leak through.
+8. Place ⅓ cup of the cold filling in the center of each circle.
+9. Fold the dough over the filling and press the edges firmly together. Push out any excess air, then pinch the seam between your thumb and index finger all the way around to close any gaps. This braided seal is called a repulgue.
 10. Place on a baking sheet with the seam on top.
 11. Whisk the egg white with the water and brush over each pastry.
 12. Bake for 20 minutes. Wait 5 minutes before eating.
+
+Note: I couldn't find urucú at my local grocery store, so I mixed together 2 tsp paprika, ¼ tsp turmeric, and 1 tsp melted butter as an achiote substitute.
 
 ### Llajua
 
@@ -115,4 +128,4 @@ Achiote substitute: I couldn't find urucú at my local grocery store, so I mixed
 
 ### Directions
 
-1. Blend until coarse, not completely smooth. Serve with the salteñas.
+1. Blend everything until coarse, not completely smooth. Serve with the salteñas.
